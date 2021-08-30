@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-07T08:56:49-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>273083563</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>John J Shutt CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>615 N VIRGINIA</AddressLine1Txt>
+        <CityNm>Port Lavaca</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77979</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>316647955</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Bruce &amp; Gladys Wright Charitable Trust</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BRUC</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>602 N WELLS P O BOX 596</AddressLine1Txt>
+        <CityNm>Edna</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77957</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MELISSA KOOP</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3617826301</PhoneNum>
+      <SignatureDt>2018-10-31</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>John J Shutt</PreparerPersonNm>
+      <PTIN>P00025714</PTIN>
+      <PhoneNum>3615526244</PhoneNum>
+      <PreparationDt>2019-02-07</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>162.202.89.99</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-07</IPDt>
+      <IPTm>08:58:42</IPTm>
+      <FederalOriginalSubmissionId>7035932019038zt3c1ce</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-07</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>A89D48B009AAB892902C5C8DE3063D31845B4AA7</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>A89D48B009AAB892902C5C8DE3063D31845B4AA7</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1275659</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>4</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>4</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>4</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>27950</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>27950</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>27950</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>70074</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>99372</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>70074</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>98028</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>98028</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>27954</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="STM108">500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>500</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="STM110">1455</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>1455</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>1955</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>500</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>1455</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>500</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>56520</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>56520</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>58475</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>500</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>1455</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>57020</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>39553</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>97528</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>26499</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>7115</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>3644</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>3644</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>987934</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="STM137">1030958</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1272015</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>995049</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1034602</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1275659</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>995049</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>1034602</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>995049</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1034602</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>995049</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1034602</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>995049</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>39553</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1034602</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1034602</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>541641 GROWTH FUND OF AMERICA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2018-07-19</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14438</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15562</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15562</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>289575 GROWTH FUND OF AMERICA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2017-12-04</SoldDt>
+          <GrossSalesPriceAmt>15000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7719</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7281</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7281</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>237699 INVESTMENT CO OF AMERICA</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2017-12-04</SoldDt>
+          <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7141</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2859</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2859</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2017-12-31</SoldDt>
+          <GrossSalesPriceAmt>40230</GrossSalesPriceAmt>
+          <GainOrLossAmt>40230</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>40230</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DISTRIBUTIONS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-12-31</AcquiredDt>
+          <SoldDt>2018-06-30</SoldDt>
+          <GrossSalesPriceAmt>4142</GrossSalesPriceAmt>
+          <GainOrLossAmt>4142</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4142</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>70074</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>true</LiableSection4942TaxInd>
+        <AdjNetVlNoncharitableAssetsAmt>0</AdjNetVlNoncharitableAssetsAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>0</AdjNonchrtblNetInvstIncmPctAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1951</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>1951</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1951</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>1951</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>JOHN J SHUTT</IndividualWithBooksNm>
+        <PhoneNum>3617826301</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>602 N WELLS P O BOX 596</AddressLine1Txt>
+          <CityNm>Edna</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>77957</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>true</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID R MURFF</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>512 WEST BOIS DARC</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROL McDONALD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>108 WEST MAIN</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MELISSA KOOP</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>398 CR 3011</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DENNIS RAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 652</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm referenceDocumentId="STMA01">JOHN J SHUTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>602 N WELLS P O BOX 596</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC-TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>PROVIDED 28 SCHOLARSHIPS TO EDNA HIGH SCHOOL GRADUATES ATTENDING A TEXAS COLLEGE OR UNIVERSITY</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1254412</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>9362</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1263774</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1263774</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>18957</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1244817</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>62241</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>62241</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1951</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1951</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>60290</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>60290</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>60290</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>57020</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>57020</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>57020</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>60290</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>56433</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>57020</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>56433</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>35879</AppliedToPriorYearsAmt>
+        <UndistributedIncomeCYAmt>60290</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>HIGH SCHOOL COUNSELOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1307 W GAYLE</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3617825255</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SCHOLARSHIP APPLICATION AVAILABLE AT HIGH SCHOOL COUNSELORS OFFICE.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>DEC 1 AND MAY 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST ATTEND TEXAS COLLEGE OR UNIVERSITY, MAINTAIN 2.75 GPA AND 24 HOURS ANNUALLY.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HALEY M ORSAK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 GILBERT</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERSITY OF TEXAS SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>QUINTIN R KIRK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1014 VIRGINIA</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERSITY OF TEXAS SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JEROD J McCARRELL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>112 EAST BRACKENRIDGE</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BETHANY N LONG</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2416 FM 3131</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BLINN JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DARNELIUS O NORMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 280</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERSITY OF HOUSTON VICTORIA SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KACEY L NIDEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>503 LAURA STREET</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VICTORIA JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAMRYN M ROMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 294</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VICTORIA JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRILEY V LAMBERT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>210 HANOVER STREET</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS A&amp;M UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MEGAN N CALLAWAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2229 FM 822</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WHARTON COUNTY JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DANNYELLE GLOOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 755</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERISTY OF TEXAS SAN ANTONIO SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAMRYN JOHNSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ADDRESS</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>VICTORIA JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KIMBERLY ORTOLON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1134 CR 405</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERSITY OF INCARNATE WORD</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOUIS ORSAK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1250 CR 405</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS A&amp;M UNIVERSITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SARAH WEINMANN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>410 ROBINSON STREET</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNIVERSITY OF MARY-HARDIN BAYLOR</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KELSEY SPARKS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>421 CR 3011</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS STATE UNIVERSITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PAXTON KOOP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>398 CR 3011</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS A&amp;M UNIVERSITY</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KADI ELLEDGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1571 CR 284</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHREINER UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ELIZABETH M ARNOLD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>761 FM 1157</AddressLine1Txt>
+            <CityNm>Ganado</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77962</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS A&amp;M UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1560</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COLEE K CALLAWAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>504 CR 312</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>WHARTON COUNTY JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHANE W DARILEK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1986 CR 414</AddressLine1Txt>
+            <CityNm>Ganado</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77962</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SAM HOUSTON STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATALIE B FELLERS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 152</AddressLine1Txt>
+            <CityNm>Vanderbilt</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77991</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SAM HOUSTON STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BRAD S KUCERA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 172</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEXAS STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HANNAH J MAREK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 WAGON TRAIL</AddressLine1Txt>
+            <CityNm>Victoria</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77905</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TARELTON STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LEXI A MITCHELL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4398 FM 822</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEMPLE COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAITLYN M MORTON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>146 CR 301</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BLINN COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KINLEY B PLETZER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>807 PROGRESS</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SAM HOUSTON STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1050</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SANDRA G SALAZAR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 SUNNY LANE</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TARELTON STATE UNIVERSITY SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1560</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JAY DANIEL ROMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>P O BOX 294</AddressLine1Txt>
+            <CityNm>Edna</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77957</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>STUDENT</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>I</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SOUTHWEST TEXAS JUNIOR COLLEGE SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>56520</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>4</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <RelatedOrExemptFunctionIncmAmt>27950</RelatedOrExemptFunctionIncmAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>27954</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>27954</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFeesDetail>
+        <CategoryTxt>JOHN J SHUTT</CategoryTxt>
+        <Amt>500</Amt>
+        <NetInvestmentIncomeAmt>500</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="STMA01">
+      <CompensationExplanationGrp>
+        <PersonNm>JOHN J SHUTT</PersonNm>
+        <ShortExplanationTxt>MAINTAIN BOOKS AND PREPARE ANNUAL TAX RETURN</ShortExplanationTxt>
+      </CompensationExplanationGrp>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EDWARD JONES MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>1030958</EOYBookValueAmt>
+        <EOYFMVAmt>1272015</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <TaxesSchedule documentId="STM110">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE</CategoryTxt>
+        <Amt>1455</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1455</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

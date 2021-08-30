@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-25T10:35:03-00:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>RAYNE B ADAMS CPA PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>214 MORROW ROAD</AddressLine1Txt>
+        <CityNm>GREENWOOD</CityNm>
+        <StateAbbreviationCd>SC</StateAbbreviationCd>
+        <ZIPCd>29646</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>901036705</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>ADAMS FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ADAM</BusinessNameControlTxt>
+      <PhoneNum>8642292511</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>c/o DOUGLAS L BELL ESQ PO BOX 1547</AddressLine1Txt>
+        <CityNm>GREENWOOD</CityNm>
+        <StateAbbreviationCd>SC</StateAbbreviationCd>
+        <ZIPCd>29648</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Linda D Adams</PersonNm>
+      <PersonTitleTxt>CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>8643881011</PhoneNum>
+      <SignatureDt>2019-01-22</SignatureDt>
+      <DiscussWithPaidPreparerInd>false</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RAYNE B ADAMS</PreparerPersonNm>
+      <PhoneNum>8642271147</PhoneNum>
+      <PreparationDt>2019-01-22</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>67.238.145.166</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-25</IPDt>
+      <IPTm>15:08:32</IPTm>
+      <IPTimezoneCd>ES</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>0AA613B94C7E5EA0B7EAA61278671637F8FD46FC</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>0AA613B94C7E5EA0B7EAA61278671637F8FD46FC</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="990PF" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>747340</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnssAmt>16532</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>16532</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>16532</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="990PF:124">111423</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1232544</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>111423</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>127955</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>127955</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>16532</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="990PF:127">10047</LegalFeesRevAndExpnssAmt>
+        <LegalFeesAdjNetIncmAmt>10047</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>10047</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:128">1269</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesAdjNetIncmAmt>1269</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="990PF:129">10908</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>10908</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="990PF:130">104</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>22328</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>10908</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>11316</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>10047</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>35072</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>35072</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>57400</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>10908</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>11316</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>45119</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>70555</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>117047</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5216</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>18128</CashBOYAmt>
+        <CashEOYAmt>58647</CashEOYAmt>
+        <CashEOYFMVAmt>58647</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>656831</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="990PF:138">686867</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>688693</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>674959</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>745514</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>747340</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>674959</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>745514</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>674959</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>745514</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>674959</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>745514</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>674959</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>70555</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>745514</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>745514</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - SHORT TERM</PropertyDesc>
+          <AcquiredDt>2017-02-13</AcquiredDt>
+          <SoldDt>2017-11-01</SoldDt>
+          <GrossSalesPriceAmt>463108</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>455095</CostOrOtherBasisAmt>
+          <GainOrLossAmt>8013</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8013</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES - LONG TERM</PropertyDesc>
+          <GrossSalesPriceAmt>769016</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>666026</CostOrOtherBasisAmt>
+          <GainOrLossAmt>102990</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>102990</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>111423</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>8013</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <AdjustedQlfyDistriYr1Amt>21571</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>703517</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>000.030662</DistributionYr1Rt>
+        <TotalDistributionRt>000.030662</TotalDistributionRt>
+        <AverageDistributionRt>000.006132</AverageDistributionRt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2341</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2341</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2341</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>2341</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>SC</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>LINDA D ADAMS</IndividualWithBooksNm>
+        <PhoneNum>8643881011</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>303 MAIN STREET</AddressLine1Txt>
+          <CityNm>GREENWOOD</CityNm>
+          <StateAbbreviationCd>SC</StateAbbreviationCd>
+          <ZIPCd>29646</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>true</UndistributedIncomePYInd>
+        <UndistributedIncomePY1Yr>2015</UndistributedIncomePY1Yr>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LINDA D ADAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>303 MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENWOOD</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29646</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GAINES KEVIN ADAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>303 MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENWOOD</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29646</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LASHONDA MICHELLA ADAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>303 MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENWOOD</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29646</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE FOUNDATION IS A NON-OPERATING GRANT MAKING ENTITY WHICH DISTRIBUTES 5% OF THE PRINCIPAL ON AN ANNUAL BASIS TO 501(c)(3) ORGANIZATIONS, PRIMARILY THAT BENEFIT CHILDREN IN UPSTATE SOUTH CAROLINA.</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>703051</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>38387</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>741438</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>741438</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="990PF:166">11122</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>730316</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>36516</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>36516</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2341</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2341</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>34175</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>34175</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>34175</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:167">45119</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>45119</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>45119</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>34175</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>35072</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2013</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2015</PriorYear3Yr>
+        <TotalForPriorYearsAmt>14244</TotalForPriorYearsAmt>
+        <QualifyingDistributionsAmt>45119</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>35072</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt referenceDocumentId="990PF:159">10047</AppliedToPriorYearsAmt>
+        <PriorYearUndistributedIncmAmt>4197</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>4197</Taxable1Amt>
+        <UndistributedIncomeCYAmt>34175</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>LINDA ADAMS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>303 MAIN STREET</AddressLine1Txt>
+            <CityNm>GREENWOOD</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29646</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8643236282</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>ANY FORMAT ACCEPTED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE BUT EMPHASIS ON ORGANIZATIONS SERVING YOUTH IN UPSTATE SOUTH CAROLINA</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLEMSON UNIVERSITY - IPTAY MAJOR GIFTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1529</AddressLine1Txt>
+            <CityNm>CLEMSON</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>29633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP FUND</GrantOrContributionPurposeTxt>
+          <Amt>35072</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>35072</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>16532</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>523000</BusinessCd>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>111423</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>127955</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>127955</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:128" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEES</CategoryTxt>
+        <Amt>1269</Amt>
+        <AdjustedNetIncomeAmt>1269</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <AppliedToPriorYearElection documentId="990PF:159" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <ElectionDesc>ATTORNEY FEES</ElectionDesc>
+    </AppliedToPriorYearElection>
+    <GeneralExplanationAttachment documentId="990PF:144" softwareId="17005317" softwareVersionNum="18.2.0.0"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:138" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>FIXED INCOME</StockNm>
+        <EOYBookValueAmt>243597</EOYBookValueAmt>
+        <EOYFMVAmt>243597</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITIES</StockNm>
+        <EOYBookValueAmt>443270</EOYBookValueAmt>
+        <EOYFMVAmt>445096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="990PF:127" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <LegalFeesGrp>
+        <CategoryTxt>ATTORNEY FEES</CategoryTxt>
+        <LegalFeesAmt>10047</LegalFeesAmt>
+        <AdjustedNetIncomeAmt>10047</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10047</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:129" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>COUNTYBANK TRUST SERVICES FEES</CategoryTxt>
+        <Amt>2741</Amt>
+        <NetInvestmentIncomeAmt>2741</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>GREENWOOD CAPITAL INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>8167</Amt>
+        <NetInvestmentIncomeAmt>8167</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:130" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <TaxesDetail>
+        <CategoryTxt>2016 FORM 990-PF TAX</CategoryTxt>
+        <Amt>104</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

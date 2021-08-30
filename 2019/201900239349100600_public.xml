@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-23T10:51:11-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>850203431</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>REDW LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>Post Office Box 93656</AddressLine1Txt>
+        <CityNm>Albuquerque</CityNm>
+        <StateAbbreviationCd>NM</StateAbbreviationCd>
+        <ZIPCd>871993656</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>856011264</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The HB and Lucille Horn Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HBAN</BusinessNameControlTxt>
+      <PhoneNum>5052653553</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>634 Graceland DR SE</AddressLine1Txt>
+        <CityNm>Albuquerque</CityNm>
+        <StateAbbreviationCd>NM</StateAbbreviationCd>
+        <ZIPCd>87108</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Thomas Horn</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>5052653553</PhoneNum>
+      <SignatureDt>2019-01-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jamie S Fridley CPA</PreparerPersonNm>
+      <PTIN>P00380605</PTIN>
+      <PhoneNum>5059983200</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>38.122.0.106</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-15</IPDt>
+      <IPTm>09:13:24</IPTm>
+      <IPTimezoneCd>MS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>2EC1AA3871D65E88A7CB23CEF8FBE40744A4B80B</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>C96DD19A8CD59E9DF9676743C155CAD896EEAA20</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1450072</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>286</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>286</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>14074</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>14074</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>13270</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>13270</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>13270</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>60019</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>154159</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>60019</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc2001500001">1120</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>0</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>88769</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>87649</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">2745</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1373</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">2242</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>0</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">101</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>0</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>5088</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1373</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>245000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>245000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>250088</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1373</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>245000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-161319</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>86276</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>164930</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>83335</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>83335</SavAndTempCashInvstEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>9363</InvstLandCostOrOtherBasisAmt>
+        <LandBldgInvestmentsBOYAmt>9363</LandBldgInvestmentsBOYAmt>
+        <LandBldgInvestmentsEOYAmt>9363</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>192979</LandBldgInvestmentsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>837595</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc2018100001">757871</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>1173528</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc2046600001">230</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc2046600001">230</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc2046600001">230</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1012118</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>850799</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1450072</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>1599631</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1599631</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>-587513</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-748832</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1012118</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>850799</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1012118</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>850799</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1012118</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-161319</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>850799</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>850799</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2016-12-27</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>6011</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5491</CostOrOtherBasisAmt>
+          <GainOrLossAmt>520</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>520</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2016-12-27</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1568</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1432</CostOrOtherBasisAmt>
+          <GainOrLossAmt>136</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>136</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2016-12-27</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>332</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>304</CostOrOtherBasisAmt>
+          <GainOrLossAmt>28</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>28</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2017-06-21</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1197</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1150</CostOrOtherBasisAmt>
+          <GainOrLossAmt>47</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>47</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>1996-10-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>5898</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3932</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1966</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1966</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>1998-12-30</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>64843</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>43225</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21618</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21618</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2011-07-01</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1563</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1082</CostOrOtherBasisAmt>
+          <GainOrLossAmt>481</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>481</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2011-12-29</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1851</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1234</CostOrOtherBasisAmt>
+          <GainOrLossAmt>617</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>617</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2012-06-29</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1735</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1213</CostOrOtherBasisAmt>
+          <GainOrLossAmt>522</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>522</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2012-12-27</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1986</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1495</CostOrOtherBasisAmt>
+          <GainOrLossAmt>491</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>491</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2013-06-28</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1642</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1417</CostOrOtherBasisAmt>
+          <GainOrLossAmt>225</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>225</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2013-12-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>3600</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3269</CostOrOtherBasisAmt>
+          <GainOrLossAmt>331</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>331</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2013-12-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1739</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1579</CostOrOtherBasisAmt>
+          <GainOrLossAmt>160</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>160</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2014-06-23</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1895</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1920</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-25</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-25</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2014-12-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>10636</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9974</CostOrOtherBasisAmt>
+          <GainOrLossAmt>662</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>662</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2014-12-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1898</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1780</CostOrOtherBasisAmt>
+          <GainOrLossAmt>118</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>118</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2014-12-18</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1312</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1231</CostOrOtherBasisAmt>
+          <GainOrLossAmt>81</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>81</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2015-06-22</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1682</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1644</CostOrOtherBasisAmt>
+          <GainOrLossAmt>38</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>38</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2015-12-17</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>7797</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6819</CostOrOtherBasisAmt>
+          <GainOrLossAmt>978</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>978</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2015-12-17</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1818</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1590</CostOrOtherBasisAmt>
+          <GainOrLossAmt>228</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>228</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2015-12-17</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>694</CostOrOtherBasisAmt>
+          <GainOrLossAmt>100</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>100</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>VANGUARD/WINDSOR FUND CUSIP</PropertyDesc>
+          <AcquiredDt>2016-06-14</AcquiredDt>
+          <SoldDt>2017-10-23</SoldDt>
+          <GrossSalesPriceAmt>1908</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1665</CostOrOtherBasisAmt>
+          <GainOrLossAmt>243</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>243</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gains Dividends</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>30454</GrossSalesPriceAmt>
+          <GainOrLossAmt>30454</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>30454</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>60019</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>137902</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1418363</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.097226</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>138619</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1374044</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.100884</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>161500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1515455</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.106569</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>139850</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1555413</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.089912</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>143000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1388621</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.102980</DistributionYr5Rt>
+        <TotalDistributionRt>0.497571</TotalDistributionRt>
+        <AverageDistributionRt>0.099514</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1455244</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>144817</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>863</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>145680</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>245000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>863</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>863</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>863</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1120</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>1120</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>257</OverpaymentAmt>
+        <AppliedToESTaxAmt>257</AppliedToESTaxAmt>
+        <RefundAmt>0</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NM</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>The HB Lucille Horn Foundation</IndividualWithBooksNm>
+        <PhoneNum>5052559265</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>634 Graceland DR SE</AddressLine1Txt>
+          <CityNm>Albuquerque</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>87108</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Thomas E Horn</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>634 Graceland Dr SE</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87108</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Edward T Peter</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>634 Graceland Dr SE</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87108</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Ruthie Horn Robbins</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>634 Graceland Dr SE</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87108</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1115318</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>169108</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>192979</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1477405</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1477405</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>22161</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1455244</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>72762</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>72762</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>863</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>863</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>71899</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>71899</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>71899</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>245000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>245000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>863</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>244137</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>71899</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>74629</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>63762</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>87844</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>71479</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>69180</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>366894</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>245000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>71899</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>173101</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>539995</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>74629</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>465366</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>63762</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>87844</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>71479</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>69180</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>173101</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>The HB and Lucille Horn Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>634 Graceland Dr SE</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>871082963</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5052653553</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>There are no specific forms</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>There are no submission deadlines</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>There are no restrictions or limitations on awards</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Alliance Francaise d' Albuquerque</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2917 Carlisle BLVD NE 207</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Alliance Francaise of San Francisco</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1345 Bush Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chinatown YMCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>855 Sacramento Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>33500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Lycee Francais Le Perouse</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>755 Ashbury St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mandy's Special Farm</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 9346</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87119</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>46500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Opera Southwest</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 27671</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87125</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Francisco Ballet</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>455 Franklin Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Francisco Host Committee</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 420966</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94142</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Francisco Symphony</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 Van Ness Avenue</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Santa Fe Opera</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2408</AddressLine1Txt>
+            <CityNm>Santa Fe</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87504</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>35000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Working Classroom</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>423 Atlantic Ave SW</AddressLine1Txt>
+            <CityNm>Albuquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>Public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Francisco Performing Arts Center Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 Van Ness Avenue Suite 110</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>La Renaissance Franceses</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>807 North 148th Avenue</AddressLine1Txt>
+            <CityNm>Omaha</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>68154</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of the Pacific</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3601 Pacific Ave</AddressLine1Txt>
+            <CityNm>Stockton</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95211</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ArtCare</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1448 Market Street</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Church for the Incarnation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1750 29th Avenue</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94122</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>San Francisco Dance Film Festival</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>601 Van Ness Avenue Suite E426</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>245000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>286</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>14074</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>13270</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>60019</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Tax Refund</Desc>
+          <ExclusionAmt>1120</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>88769</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>88769</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting fees</CategoryTxt>
+        <Amt>2745</Amt>
+        <NetInvestmentIncomeAmt>1373</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Wells Fargo Investments - Mutual Funds &amp; Bonds</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>757871</BookValueAmt>
+        <EOYFMVAmt>1173528</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssetsScheduleGrp>
+        <Desc>Organization Costs</Desc>
+        <BOYBookValueAmt>230</BOYBookValueAmt>
+        <EOYBookValueAmt>230</EOYBookValueAmt>
+        <EOYFMVAmt>230</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC</Desc>
+        <RevenueAndExpensesPerBooksAmt>101</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncomeDetail>
+        <Desc>Tax Refund</Desc>
+        <RevenueAndExpensesPerBooksAmt>1120</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>1120</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>2016 990 PF Tax</CategoryTxt>
+        <Amt>2242</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

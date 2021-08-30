@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-30T05:04:06-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>300808087</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Fox Accounting</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 3110</AddressLine1Txt>
+        <CityNm>Valley Center</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92082</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>900641891</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE JEFF AND MARY WALKER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JEFF</BusinessNameControlTxt>
+      <PhoneNum>9709469006</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 585</AddressLine1Txt>
+        <CityNm>DURANGO</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>81302</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEFFREY D WALKER</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2019-01-30</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LINDA FOX</PreparerPersonNm>
+      <PTIN>P00070026</PTIN>
+      <PhoneNum>7607519824</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>250000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>268</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>268</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>268</InterestOnSavingsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>250268</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>268</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>268</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1000</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">40</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">6</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1046</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>114421</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>114421</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>115467</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>114421</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>134801</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>268</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>268</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>355859</CashBOYAmt>
+        <CashEOYAmt>490660</CashEOYAmt>
+        <TotalAssetsBOYAmt>355859</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>490660</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>355859</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>490660</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>355859</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>490660</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>355859</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>490660</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>355859</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>134801</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>490660</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>490660</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>48228</AdjustedQlfyDistriYr1Amt>
+        <AdjustedQlfyDistriYr2Amt>24303</AdjustedQlfyDistriYr2Amt>
+        <AdjustedQlfyDistriYr3Amt>70073</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>17611</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>3.97893</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>13114</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>19797</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.66242</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>20372</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>5406</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>3.76841</DistributionYr5Rt>
+        <TotalDistributionRt>8.409763</TotalDistributionRt>
+        <AverageDistributionRt>1.681953</AverageDistributionRt>
+        <NetInvestmentIncomePctAmt>3</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>3</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>114421</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>3</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>3</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>3</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>MARY WALKER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9709469006</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 585</AddressLine1Txt>
+          <CityNm>DURANGO</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81302</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEFFREY D WALKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 585</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY T WALKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 585</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>3</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>3</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>3</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>3</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>114421</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>114421</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>3</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>114418</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>20102</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>81179</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>69192</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>24304</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>48230</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>243007</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>114421</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <RemainingDistriFromCorpusAmt>114421</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>357428</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>20102</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>337326</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>81179</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>69192</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>24304</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>48230</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>114421</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHILDFUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2821 EMERYWOOD PARKWAY</AddressLine1Txt>
+            <CityNm>RICHMOND</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>23294</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSISTANCE TO INDIGENT CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>1858</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ENERGY OUTREACH COLORADO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 E 16TH AVE STE 200</AddressLine1Txt>
+            <CityNm>DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80203</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST WITH HOME ENERGY FOR INDIGENT FAMILIES</GrantOrContributionPurposeTxt>
+          <Amt>1033</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ASIAN PACIFIC CHILDREN'S FUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>361 S CAMINO DEL RIO 141</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81303</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT ORPHANAGE IN INDIA</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROCKY MOUNTAIN PBS - DURANGO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>890 HALL AVE</AddressLine1Txt>
+            <CityNm>GRAND JUNCTION</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81501</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR PUBLIC BROADCASTING</GrantOrContributionPurposeTxt>
+          <Amt>560</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CATHOLIC CHARITIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1280 MED PARK DR</AddressLine1Txt>
+            <CityNm>LAS CRUSES</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>88005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSISTANCE TO INDIGENT FAMILIES</GrantOrContributionPurposeTxt>
+          <Amt>6500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DENVER RESCUE MISSION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1130 PARK AVE W</AddressLine1Txt>
+            <CityNm>DENVER</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80205</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSISTANCE TO INDIGENT PEOPLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HABITAT FOR HUMANITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>120 GIRARD ST STE E</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81303</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDE CASH FOR SUPPLIES TO BUILD HOUSING FOR INDIGENT PEOPLE</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LUPUS FOUNDATION OF AMERICA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2000 L ST NW 410</AddressLine1Txt>
+            <CityNm>WASHINTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR RESEARCH TO CURE/PROVIDE MEDICATION FOR PEOPLE WITH LUPS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MERCY HEALTH FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 S NEW BALLAS RD</AddressLine1Txt>
+            <CityNm>ST LOUIS</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63141</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FINANCIAL ASSISTANCE FOR PATIENT MEDICAL CARE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VITAMIN ANGELS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 4490</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93140</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSISTANCE TO PROVIDE ESSENTIAL NUTRITION TO CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHARITY WATER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 WORTH ST STE 330</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10013</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDE CLEAN WATER TO FAMILIES</GrantOrContributionPurposeTxt>
+          <Amt>59700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HUMANE SOCIETY PAGOSA SPRINGS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2230</AddressLine1Txt>
+            <CityNm>PAGOSA SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81147</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDING FOOD &amp; VET CARE TO HOMELESS ANIMALS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE COMMUNITY FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1673</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT TO PINE RIVER SHARES FUND</GrantOrContributionPurposeTxt>
+          <Amt>12270</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BOYS GIRLS CLUBS OF AMERICA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 PEACHTREE ST NE</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30309</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT LOCAL AFTER SCHOOL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMP ONE STEP</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>213 W INSTITITE PL</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60610</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT SUMMER CLUBS FOR KIDS WITH CANCER</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITY FIRST FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5855 WADSWORTH BYPASS UNIT A</AddressLine1Txt>
+            <CityNm>ARVADA</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80003</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST NONPROFITS COME TOGETHER WITH DONORS TO IMPROVE QUALITY OF LIFE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NATIONAL PARK FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1110 VERMONT AVE NW</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROTECT PUBLIC PARKS</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MERCY CORPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45 SE SWANKENY ST</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97208</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST RELIEF EFFORTS DURING DISASTERS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PETS FOR VETS INC</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 10860</AddressLine1Txt>
+            <CityNm>WILMINGTON</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28404</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO ASSIST THE MATCH OF PETS WITH VETERANS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SAN JUAN RCD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1006</AddressLine1Txt>
+            <CityNm>DURANGO</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81302</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST WITH OVERALL COMMUNITY HEALTH</GrantOrContributionPurposeTxt>
+          <Amt>10850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SMILE TRAIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>41 MADISON AVE 28TH FL</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10010</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ASSIST TO REPAIR CLEFT PALATES IN CHILDREN</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>114421</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>268</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <RelatedOrExemptFunctionIncmAmt>268</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>268</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JEFF AND MARY WALKER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 585</AddressLine1Txt>
+          <CityNm>DURANGO</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81302</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>250000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <AccountingFeesDetail>
+        <Amt>1000</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>POSTAGE</Desc>
+        <RevenueAndExpensesPerBooksAmt>6</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <TaxesDetail>
+        <CategoryTxt>FEES</CategoryTxt>
+        <Amt>38</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAX</CategoryTxt>
+        <Amt>2</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

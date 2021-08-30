@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-21T12:41:47-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>431870827</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BAKER DAVIS RODERIQUE</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>920 E 15TH ST</AddressLine1Txt>
+        <CityNm>JOPLIN</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>648042266</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>436075014</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BESS SPIVA TIMMONS FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BESS</BusinessNameControlTxt>
+      <PhoneNum>4176253202</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>C/O US BANK NA TRUST DEPT PO BOX 8</AddressLine1Txt>
+        <CityNm>JOPLIN</CityNm>
+        <StateAbbreviationCd>MO</StateAbbreviationCd>
+        <ZIPCd>648020008</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>LEIA MATERN</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>4176253202</PhoneNum>
+      <SignatureDt>2019-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CECIL H HULL</PreparerPersonNm>
+      <PTIN>P01229738</PTIN>
+      <PhoneNum>4177820829</PhoneNum>
+      <PreparationDt>2019-02-06</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>167.68.16.49</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-21</IPDt>
+      <IPTm>12:41:47</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>C31A8EC2A33DED74E1585005B3581F7861D4C6B0</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>7F8DA1CA24E96FDB236727D7A786CEDCD9823B05</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4493173</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>12561</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>12561</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>95504</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>95504</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>375476</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>3932022</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>375476</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>483541</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>483541</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">3250</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3250</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">32046</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>32046</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">8961</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>485</TaxesNetInvstIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>23923</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>23923</TravConfMeetingNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">30</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>30</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>68210</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>59734</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>230000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>230000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>298210</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>59734</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>230000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>185331</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>423807</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>57538</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>43690</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>43690</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>945202</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">886096</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>904067</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>353006</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">352319</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>343384</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc4">3233414</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc4">3500862</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc4">3202032</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>4589160</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4782967</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4493173</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc6">-9102</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="RetDoc6">-626</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>-9102</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>-626</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>1957695</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1957695</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>2640567</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2825898</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4598262</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4783593</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4589160</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4782967</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4598262</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>185331</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>4783593</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4783593</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SEE ATTACHED SCHEDULE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>3932022</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3556546</CostOrOtherBasisAmt>
+          <GainOrLossAmt>375476</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>375476</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>375476</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>375476</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>275574</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4916877</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.056047</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>274699</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4418783</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.062166</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>260107</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>5040469</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.051604</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>250564</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>5374820</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.046618</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>261650</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>5280460</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.049551</DistributionYr5Rt>
+        <TotalDistributionRt>0.265986</TotalDistributionRt>
+        <AverageDistributionRt>0.053197</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>5013063</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>266680</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>4238</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>270918</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>230000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>8476</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>8476</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8476</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>9102</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>9102</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>626</OverpaymentAmt>
+        <AppliedToESTaxAmt>626</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MO</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>TIMMONSFOUNDATION.ORG</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>US BANK NA</BusinessNameLine1Txt>
+          <BusinessNameLine2Txt>TRUST DEPT</BusinessNameLine2Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4176253202</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>402 S MAIN PO BOX 8</AddressLine1Txt>
+          <CityNm>JOPLIN</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>648020008</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEIA MATERN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>620 KINGSWOOD AVE</AddressLine1Txt>
+            <CityNm>EUGENE</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>974053544</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRYNA MAJIDI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>62 RIVERVIEW AVE</AddressLine1Txt>
+            <CityNm>TARRYTOWN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10591</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JENNIFER SVACINA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1393 MAMEROW LANE E</AddressLine1Txt>
+            <CityNm>OCONOMOWOC</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53066</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANA WHITBY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1984 FOLLY RD APT A314</AddressLine1Txt>
+            <CityNm>CHARLESTON</CityNm>
+            <StateAbbreviationCd>SC</StateAbbreviationCd>
+            <ZIPCd>294129582</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SARAH TIMMONS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>624 N WRIGLEY LANE</AddressLine1Txt>
+            <CityNm>LAWRENCE</CityNm>
+            <StateAbbreviationCd>KS</StateAbbreviationCd>
+            <ZIPCd>66044</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GREGORY G TIMMONS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3725 RIMROCK ROAD</AddressLine1Txt>
+            <CityNm>YORK</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17402</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BETH GROSSMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>92730 KINSER LANE</AddressLine1Txt>
+            <CityNm>CHESHIRE</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97419</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CATHY WEEKS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2000E 8TH STREET</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98661</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MONITA KELSEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4215 TREISTE DR</AddressLine1Txt>
+            <CityNm>CARLSBAD</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>92010</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5089404</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5089404</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5089404</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>76341</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5013063</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>250653</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>250653</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8476</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>8476</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>242177</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>242177</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>242177</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>230000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>230000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>230000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>242177</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>10872</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>2497</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>8882</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>55652</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>35332</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>113235</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>230000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>230000</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>12177</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>12177</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>101058</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>101058</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>1192</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>8882</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>55652</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>35332</ExcessFromYear1Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>BESS SPIVA TIMMONS FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O US BANK NA TRUST DEPT</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 8</AddressLine2Txt>
+            <CityNm>JOPLIN</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>648020008</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4176253202</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER APPLICATION-SEE ATTACHED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>JULY 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE ATTACHED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>SEE ATTACHED</AddressLine1Txt>
+            <CityNm>SEE ATTACHED</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>SEE ATTACHED</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>SEE ATTACHED</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SEE ATTACHED</GrantOrContributionPurposeTxt>
+          <Amt>230000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>230000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12561</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>95504</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>375476</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>108065</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>375476</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>483541</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>3250</Amt>
+        <NetInvestmentIncomeAmt>3250</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SCHEDULE ATTACHED</BondNm>
+        <EOYBookValueAmt>352319</EOYBookValueAmt>
+        <EOYFMVAmt>343384</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCHEDULE ATTACHED</StockNm>
+        <EOYBookValueAmt>886096</EOYBookValueAmt>
+        <EOYFMVAmt>904067</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="RetDoc4">
+      <OtherAssetsScheduleGrp>
+        <Desc>MUTUAL FUNDS-SCHEDULE ATTACHED</Desc>
+        <BOYBookValueAmt>3233414</BOYBookValueAmt>
+        <EOYBookValueAmt>3500862</EOYBookValueAmt>
+        <EOYFMVAmt>3202032</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ANNUAL REGISTRATION</Desc>
+        <RevenueAndExpensesPerBooksAmt>30</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>30</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc6">
+      <OtherLiabilitiesDetail>
+        <Desc>ACCRUED EXCISE TAX</Desc>
+        <BOYBookValueAmt>-9102</BOYBookValueAmt>
+        <EOYBookValueAmt>-626</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUSTEE FEES</CategoryTxt>
+        <Amt>32046</Amt>
+        <NetInvestmentIncomeAmt>32046</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>8476</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>485</Amt>
+        <NetInvestmentIncomeAmt>485</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

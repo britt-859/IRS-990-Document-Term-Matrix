@@ -1,0 +1,702 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-14T23:55:43-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Kurt &amp; Margaret Slenn CPAs</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1420 Donna Ave</AddressLine1Txt>
+        <CityNm>Woodlyn</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>190941103</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>236272297</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Elizabeth Roe Dunning Club</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ELIZ</BusinessNameControlTxt>
+      <PhoneNum>3027438811</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>412 Valley View Road</AddressLine1Txt>
+        <CityNm>Media</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>19063</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>SHIRLEY GAY</PersonNm>
+      <PersonTitleTxt>ASSISTANT TREASURER</PersonTitleTxt>
+      <PhoneNum>3027438811</PhoneNum>
+      <SignatureDt>2019-02-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MARGARET J SLENN</PreparerPersonNm>
+      <PTIN>P00741114</PTIN>
+      <PhoneNum>6108332686</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>100.19.31.31</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-14</IPDt>
+      <IPTm>23:55:30</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>9D1878C49A038DEB901C5B4B4AC89EDFDD420483</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>9D1878C49A038DEB901C5B4B4AC89EDFDD420483</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>38682</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>93</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>1035</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1035</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>1035</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">784</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>784</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="00000005" referenceDocumentName="OtherIncomeSchedule2">960</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>960</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>2872</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>1819</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>1995</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">2000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>1000</AccountingFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="00000007" referenceDocumentName="TaxesSchedule">13</TaxesRevAndExpnssAmt>
+        <TaxesAdjNetIncmAmt>13</TaxesAdjNetIncmAmt>
+        <TravConfMeetingRevAndExpnssAmt>885</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingAdjNetIncmAmt>885</TravConfMeetingAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">1528</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesAdjNetIncmAmt>97</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1431</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>4426</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1000</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>1995</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1431</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>5925</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>5925</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>10351</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1000</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>1995</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>7356</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-7479</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>819</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>2691</CashBOYAmt>
+        <CashEOYAmt>3393</CashEOYAmt>
+        <CashEOYFMVAmt>3393</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>43236</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>35289</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>35289</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>45927</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>38682</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>38682</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>45927</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>38682</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>45927</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>38682</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>45927</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>38682</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>45927</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-7479</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="00000006" referenceDocumentName="OtherIncreasesSchedule">234</OtherIncreasesAmt>
+        <SubtotalAmt>38682</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>38682</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>473.934 sh GNMA Fund</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1987-01-22</AcquiredDt>
+          <SoldDt>2017-06-27</SoldDt>
+          <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>4872</CostOrOtherBasisAmt>
+          <GainOrLossAmt>128</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>128</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>184.230 sh LifeStrategy Mod Growth</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-05-06</AcquiredDt>
+          <SoldDt>2018-02-28</SoldDt>
+          <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>4344</CostOrOtherBasisAmt>
+          <GainOrLossAmt>656</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>656</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>784</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1565</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>49060</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.031900</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>11975</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>54422</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.220040</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>12302</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>67887</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.181213</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>977</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>71718</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.013623</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>829</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>71635</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.011573</DistributionYr5Rt>
+        <TotalDistributionRt>0.458349</TotalDistributionRt>
+        <AverageDistributionRt>0.091670</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>41821</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>3834</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>8</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>3842</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>7356</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>8</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>8</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>8</TaxBasedOnInvestmentIncomeAmt>
+        <OriginalReturnTaxPaidAmt>0</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>8</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>true</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SHIRLEY GAY</IndividualWithBooksNm>
+        <PhoneNum>6105662979</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>412 Valley View Rd</AddressLine1Txt>
+          <CityNm>Media</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19063</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>true</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>true</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH PASSANANTE RODRIGUEZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1624 59th St</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19151</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SIGRID NOLAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6947 Souder Street</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19149</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DIANE DAVIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1665 Pratt Street</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19124</ZIPCd>
+          </USAddress>
+          <TitleTxt>Rec Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH GERHART</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>473 Roberts Ave</AddressLine1Txt>
+            <CityNm>Glenside</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19038</ZIPCd>
+          </USAddress>
+          <TitleTxt>Corres Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SYLVIA REID</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4 Walnut Lane</AddressLine1Txt>
+            <CityNm>Wilmington</CityNm>
+            <StateAbbreviationCd>DE</StateAbbreviationCd>
+            <ZIPCd>19809</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>4.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SHIRLEY GAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>412 Valley View Road</AddressLine1Txt>
+            <CityNm>Media</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19063</ZIPCd>
+          </USAddress>
+          <TitleTxt>Asst Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LAVERA DIGGINS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1525 Fitzwater St</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19146</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAISY MORGAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>135 W Fisher Ave</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19120</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>VIVIAN WILLIAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5619 Woodland Ave</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19143</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>QUITRINA TOWNES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6938 Roosevelt Bld</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19149</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NORA WERTZ</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>705 First Ave</AddressLine1Txt>
+            <CityNm>Croydon</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19021</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY JO WILLIAMS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 29623</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19144</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RUTH CHAMBERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2406 W Redner St</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19121</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN HORVATH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>705 First Ave</AddressLine1Txt>
+            <CityNm>Croydon</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19021</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PATRICIA RUSSELL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6138 Wayne Ave</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19144</ZIPCd>
+          </USAddress>
+          <TitleTxt>director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>grants provided to blind women to assist themin activities</Description1Txt>
+        <Expenses1Amt>5925</Expenses1Amt>
+        <Description2Txt>the organization hosts meetings to discuss issues &amp; hardshipsfaced by the blind community &amp; offer support &amp; assistance;the meetings are attended by approximately 46 members.</Description2Txt>
+        <Expenses2Amt>885</Expenses2Amt>
+        <Expenses3Amt>0</Expenses3Amt>
+        <Expenses4Amt>0</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>39677</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2781</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>42458</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>42458</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>637</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>41821</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>2091</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <Sect4942j3j5FndtnAndFrgnOrgInd>X</Sect4942j3j5FndtnAndFrgnOrgInd>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>7356</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>7356</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>8</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>7348</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>2450</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>829</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>977</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>12312</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>11985</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1565</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>27668</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>7356</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>7356</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>35024</TotalCorpusAmt>
+        <Taxable2Amt>2450</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>829</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>34195</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>977</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>12312</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>11985</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1565</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>7356</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp>
+        <Section4942j3Ind>X</Section4942j3Ind>
+        <LessorAdjNetIncmMinInvstRetGrp>
+          <CurrentYearAmt>0</CurrentYearAmt>
+          <TotalAmt>0</TotalAmt>
+        </LessorAdjNetIncmMinInvstRetGrp>
+        <QualifyingDistributionsGrp>
+          <CurrentYearAmt>7356</CurrentYearAmt>
+          <TotalAmt>7356</TotalAmt>
+        </QualifyingDistributionsGrp>
+        <QualifyingDistriMadeDrtGrp>
+          <CurrentYearAmt>7356</CurrentYearAmt>
+          <TotalAmt>7356</TotalAmt>
+        </QualifyingDistriMadeDrtGrp>
+        <TotalAssetsGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsGrp>
+        <TotalAssetsSect4942j3BiGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalAssetsSect4942j3BiGrp>
+        <TwoThirdsMinimumInvstRetGrp>
+          <TotalAmt>0</TotalAmt>
+        </TwoThirdsMinimumInvstRetGrp>
+        <TotalSupportGrp>
+          <TotalAmt>0</TotalAmt>
+        </TotalSupportGrp>
+        <PublicSupportType>
+          <TotalAmt>0</TotalAmt>
+        </PublicSupportType>
+        <LargestSupportFromEOGrp>
+          <TotalAmt>0</TotalAmt>
+        </LargestSupportFromEOGrp>
+        <GrossInvestmentIncomeGrp>
+          <TotalAmt>0</TotalAmt>
+        </GrossInvestmentIncomeGrp>
+      </PrivateOperatingFoundationsGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>VIVIAN WILLIAMS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5619 Woodland Ave</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19143</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2157260116</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>OPEN FORMAT</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>GRANTS ARE LIMITED TO BLIND FEMALE APPLICANTS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Overbrook School for the Blind</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6333 Malvern Ave</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19151</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>enable participationin activities for blind</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHED SCHEDULE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>see attached schedule</AddressLine1Txt>
+            <CityNm>various</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>99999</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>i</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>&amp; welfare of femalepromote interestblind persons</GrantOrContributionPurposeTxt>
+          <Amt>5425</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>5925</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <Desc>meetings</Desc>
+          <RelatedOrExemptFunctionIncmAmt>470</RelatedOrExemptFunctionIncmAmt>
+        </ProgramServiceRevPartVIIGrp>
+        <MembershipDuesAndAssmntGrp>
+          <RelatedOrExemptFunctionIncmAmt>490</RelatedOrExemptFunctionIncmAmt>
+        </MembershipDuesAndAssmntGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1035</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>784</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>1819</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>960</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>2779</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1a</LineNumberTxt>
+          <RelationshipStatementTxt>meetings are held throughout the year to promote the welfare</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>1a</LineNumberTxt>
+          <RelationshipStatementTxt>of blind members</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>2</LineNumberTxt>
+          <RelationshipStatementTxt>membership dues are collected to cover base meeting costs</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFeesDetail>
+        <CategoryTxt>Timothy Cupitt tax preparation</CategoryTxt>
+        <Amt>2000</Amt>
+        <NetInvestmentIncomeAmt>1000</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1000</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAssetGrp>
+        <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+        <BasisAmt>4872</BasisAmt>
+        <TotalNetAmt>128</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <GrossSalesPriceAmt>5000</GrossSalesPriceAmt>
+        <BasisAmt>4344</BasisAmt>
+        <TotalNetAmt>656</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpensesScheduleGrp>
+        <Desc>insurance</Desc>
+        <RevenueAndExpensesPerBooksAmt>653</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>653</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>office</Desc>
+        <RevenueAndExpensesPerBooksAmt>753</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>97</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>656</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>122</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>122</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000005">
+      <OtherIncomeDetail>
+        <Desc>membership dues</Desc>
+        <RevenueAndExpensesPerBooksAmt>490</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>490</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>meetings</Desc>
+        <RevenueAndExpensesPerBooksAmt>470</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>470</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="00000006">
+      <OtherIncreasesDetail>
+        <Desc>unrealized gain marketable securities</Desc>
+        <Amt>234</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="00000007">
+      <TaxesDetail>
+        <CategoryTxt>U S Treasury</CategoryTxt>
+        <Amt>13</Amt>
+        <AdjustedNetIncomeAmt>13</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-02T10:31:39-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Tapia &amp; Huckabay PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 38</AddressLine1Txt>
+        <CityNm>Vergennes</CityNm>
+        <StateAbbreviationCd>VT</StateAbbreviationCd>
+        <ZIPCd>05491</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>274113304</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Ann A Mergens Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>ANNA</BusinessNameControlTxt>
+      <PhoneNum>8028635933</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+        <CityNm>Shelburne</CityNm>
+        <StateAbbreviationCd>VT</StateAbbreviationCd>
+        <ZIPCd>05482</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PAUL G MERGENS</PersonNm>
+      <PersonTitleTxt>VICE-PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8028635933</PhoneNum>
+      <SignatureDt>2018-12-06</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>WILLIAM S HUCKABAY CPA</PreparerPersonNm>
+      <PTIN>P00154308</PTIN>
+      <PhoneNum>8028707086</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>50.252.240.121</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-02</IPDt>
+      <IPTm>10:31:28</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>EA447F3804465B63D31BBF9D60E38D31A15B3A1C</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>F5EAD35F26E8E7C6943A0EFFCB5EA88474B008A5</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7225619</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>27574</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>27574</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>82791</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>82791</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">178112</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>242385</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>178112</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>288477</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>288477</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>23384</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>23384</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">1962</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>981</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>981</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="00000007" referenceDocumentName="OtherProfessionalFeesSchedule">4704</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>4704</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="00000008" referenceDocumentName="TaxesSchedule">2875</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000006" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">33796</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>9644</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>24152</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>66721</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>15329</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>48517</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>375000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>375000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>441721</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>15329</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>423517</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-153244</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>273148</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>43667</CashBOYAmt>
+        <CashEOYAmt>16650</CashEOYAmt>
+        <CashEOYFMVAmt>16650</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>2215614</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1836968</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1836968</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>112070</USGovernmentObligationsBOYAmt>
+        <CorporateStockBOYAmt>3088308</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">3327039</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3990946</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1307140</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpBondsSchedule">1432898</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1381055</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>6766799</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6613555</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7225619</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>6766799</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>6613555</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6766799</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6613555</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6766799</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6613555</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6766799</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-153244</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>6613555</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6613555</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Publicly Traded Securities</PropertyDesc>
+          <GrossSalesPriceAmt>242385</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>64273</CostOrOtherBasisAmt>
+          <GainOrLossAmt>178112</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>178112</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>178112</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>375904</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>7228979</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.052000</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>260530</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>5283595</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.049309</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>51435</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1019990</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.050427</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>49683</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1046449</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.047478</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>49523</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1040148</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.047611</DistributionYr5Rt>
+        <TotalDistributionRt>0.246825</TotalDistributionRt>
+        <AverageDistributionRt>0.049365</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>7286993</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>359722</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2731</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>362453</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>423517</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2731</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>2731</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2731</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1700</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1700</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>1700</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>1031</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>VT</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>PAUL G MERGENS</IndividualWithBooksNm>
+        <PhoneNum>8028635933</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+          <CityNm>Shelburne</CityNm>
+          <StateAbbreviationCd>VT</StateAbbreviationCd>
+          <ZIPCd>05482</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>true</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY MERGENS-LOUGHRAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+            <CityNm>Shelburne</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05482</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/TREASURER,</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>23384</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAUL G MERGENS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+            <CityNm>Shelburne</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05482</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice-President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM H WILTSHIRE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO Box 633</AddressLine1Txt>
+            <CityNm>Milton</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05468</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>5129246</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2268716</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7397962</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7397962</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>110969</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7286993</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>364350</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>364350</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2731</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2731</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>361619</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>361619</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>361619</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>423517</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>423517</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2731</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>420786</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>361619</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>35019</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>423517</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>35019</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>361619</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>26879</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>26879</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>26879</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>26879</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MARY MERGENS-LOUGHRAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 662</AddressLine1Txt>
+            <CityNm>Shelburne</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8028635933</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>ANY FORM OF APPLICATION IS ACCEPTABLE. INCLUDE ORGANIZATIONAL INFORMATION AND INTENDED CHARITABLE USE OF THE FUNDS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Live Like Jake Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 31652</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33420</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>55000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Sara Holbrook Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>66 North Avenue</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Burlington City Arts</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>135 Church Street</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Mater Christi School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>50 Mansfield Avenue</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Shelburne Farms</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1161 Harbor Road</AddressLine1Txt>
+            <CityNm>Shelburne</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05482</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Stern Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>183 Talcott Road</AddressLine1Txt>
+            <CityNm>Williston</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05495</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VNA Respite House</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1110 Prim Road</AddressLine1Txt>
+            <CityNm>Colchester</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05446</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Ronald McDonald House</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>16 South Winooski Avenue</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Champlain College</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 670</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05402</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Center for Creative Education</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>425 24th Street</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33407</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Andrew Red Harris Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>18230 River Oaks Drive</AddressLine1Txt>
+            <CityNm>Jupiter</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33458</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Loggerhead Marine Life Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14200 US Highway 1</AddressLine1Txt>
+            <CityNm>North Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33408</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Greater Burlington YMCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>266 College Street</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Howard Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>208 Flynn Avenue Suite 3J</AddressLine1Txt>
+            <CityNm>Burlington</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05401</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OperatingSupport</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>375000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>27574</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>82791</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>178112</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>288477</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>288477</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFeesDetail>
+        <CategoryTxt>Vermont CPA Firm Accounting &amp; Tax Preparation</CategoryTxt>
+        <Amt>1962</Amt>
+        <NetInvestmentIncomeAmt>981</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>981</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>Publicly Traded Securities</AssetDesc>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <PurchaserNameGrp>
+          <PersonNm>UNRELATED THIRD PARTIES</PersonNm>
+        </PurchaserNameGrp>
+        <GrossSalesPriceAmt>242385</GrossSalesPriceAmt>
+        <BasisAmt>64273</BasisAmt>
+        <BasisMethodTxt>Cost</BasisMethodTxt>
+        <TotalNetAmt>178112</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000004">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>113,222 Federal Government Obligation Fund</BondNm>
+        <EOYBookValueAmt>113222</EOYBookValueAmt>
+        <EOYFMVAmt>113222</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>21,880 OW Fixed Income Fund</BondNm>
+        <EOYBookValueAmt>249168</EOYBookValueAmt>
+        <EOYFMVAmt>238049</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>45,864 OW Fixed Income Fund</BondNm>
+        <EOYBookValueAmt>518232</EOYBookValueAmt>
+        <EOYFMVAmt>499002</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>8,943 DoubleLine Total Return Bond Fund I</BondNm>
+        <EOYBookValueAmt>99872</EOYBookValueAmt>
+        <EOYFMVAmt>93095</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>2,792 Guggenheim Macro Opportunities Institutional Fund</BondNm>
+        <EOYBookValueAmt>75025</EOYBookValueAmt>
+        <EOYFMVAmt>74159</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>4,726 Loomis Sayles Bond Fund</BondNm>
+        <EOYBookValueAmt>69332</EOYBookValueAmt>
+        <EOYFMVAmt>63850</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>5,956 Osterweis Strategic Income Fund</BondNm>
+        <EOYBookValueAmt>68667</EOYBookValueAmt>
+        <EOYFMVAmt>67416</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>4,733 T. Rowe Price Institutional Floating Rate Fund</BondNm>
+        <EOYBookValueAmt>48033</EOYBookValueAmt>
+        <EOYFMVAmt>47190</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>12,830 Vanguard Total Bond Market Index Admiral Fund</BondNm>
+        <EOYBookValueAmt>138749</EOYBookValueAmt>
+        <EOYFMVAmt>133943</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>2,266 Vanguard Short-Term Bond Index Admiral Fund</BondNm>
+        <EOYBookValueAmt>24069</EOYBookValueAmt>
+        <EOYFMVAmt>23249</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>2,661 Vanguard Short-Term Investment Grade Admiral Fund</BondNm>
+        <EOYBookValueAmt>28529</EOYBookValueAmt>
+        <EOYFMVAmt>27880</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>49,683sh OW Large Cap Strategies Fund</StockNm>
+        <EOYBookValueAmt>556525</EOYBookValueAmt>
+        <EOYFMVAmt>752193</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>11,054sh OW Small &amp; MidCap Strategies Fund</StockNm>
+        <EOYBookValueAmt>128215</EOYBookValueAmt>
+        <EOYFMVAmt>195101</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>26,922sh OW Strategic Opportunities Fund</StockNm>
+        <EOYBookValueAmt>176702</EOYBookValueAmt>
+        <EOYFMVAmt>214297</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>104,210sh OW Large Cap Strategies Fund</StockNm>
+        <EOYBookValueAmt>1347288</EOYBookValueAmt>
+        <EOYFMVAmt>1577735</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>23,170sh OW Small &amp; MidCap Strategies Fund</StockNm>
+        <EOYBookValueAmt>371064</EOYBookValueAmt>
+        <EOYFMVAmt>408945</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>56,649sh OW Strategic Opportunities Fund</StockNm>
+        <EOYBookValueAmt>404140</EOYBookValueAmt>
+        <EOYFMVAmt>450927</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>421sh Vanguard International Equity Index Fund</StockNm>
+        <EOYBookValueAmt>24032</EOYBookValueAmt>
+        <EOYFMVAmt>23744</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,848sh AQR Diversified Arbitrage Fund Class I</StockNm>
+        <EOYBookValueAmt>20308</EOYBookValueAmt>
+        <EOYFMVAmt>17467</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,886sh Arbitrage Event-Driven Fund</StockNm>
+        <EOYBookValueAmt>19317</EOYBookValueAmt>
+        <EOYFMVAmt>18016</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,714sh Baron Emerging Markets Institutional Fund</StockNm>
+        <EOYBookValueAmt>19720</EOYBookValueAmt>
+        <EOYFMVAmt>23461</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>669sh BBH Core Select N Fund</StockNm>
+        <EOYBookValueAmt>11442</EOYBookValueAmt>
+        <EOYFMVAmt>14347</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,564sh Brandes Emerging Markets Fund I</StockNm>
+        <EOYBookValueAmt>24830</EOYBookValueAmt>
+        <EOYFMVAmt>21766</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>262sh Cove Street Capital Small Cap Value Inst. Fund</StockNm>
+        <EOYBookValueAmt>9000</EOYBookValueAmt>
+        <EOYFMVAmt>9922</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>668sh FMI Large Cap Fund</StockNm>
+        <EOYBookValueAmt>11599</EOYBookValueAmt>
+        <EOYFMVAmt>15217</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>348sh Harbor International Fund - Institutional</StockNm>
+        <EOYBookValueAmt>21970</EOYBookValueAmt>
+        <EOYFMVAmt>22537</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,045sh Oakmark Global Fund</StockNm>
+        <EOYBookValueAmt>26799</EOYBookValueAmt>
+        <EOYFMVAmt>34124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,950sh Lazard International Strategic Equity Institutional Fund</StockNm>
+        <EOYBookValueAmt>22943</EOYBookValueAmt>
+        <EOYFMVAmt>30745</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,272sh Parametric Emerging Markets Fund</StockNm>
+        <EOYBookValueAmt>18567</EOYBookValueAmt>
+        <EOYFMVAmt>18415</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>424sh Touchstone Sands Capital Institutional Growth Fund</StockNm>
+        <EOYBookValueAmt>7442</EOYBookValueAmt>
+        <EOYFMVAmt>11235</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,084sh Vanguard Global Minimum Volume Admiral Fund</StockNm>
+        <EOYBookValueAmt>29121</EOYBookValueAmt>
+        <EOYFMVAmt>31409</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>143sh Vanguard Growth Index Admiral Fund</StockNm>
+        <EOYBookValueAmt>5270</EOYBookValueAmt>
+        <EOYFMVAmt>11831</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200sh Vanguard REIT Indew Admiral Fund</StockNm>
+        <EOYBookValueAmt>23525</EOYBookValueAmt>
+        <EOYFMVAmt>23846</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>830sh Vanguard Total International Stock Index Admiral Fund</StockNm>
+        <EOYBookValueAmt>21147</EOYBookValueAmt>
+        <EOYFMVAmt>24148</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>262sh Vanguard Value Index Admiral Fund</StockNm>
+        <EOYBookValueAmt>6073</EOYBookValueAmt>
+        <EOYFMVAmt>11324</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>386sh Vanguard Total Stock Market Index Admiral Fund</StockNm>
+        <EOYBookValueAmt>20000</EOYBookValueAmt>
+        <EOYFMVAmt>28194</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="00000006">
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>156</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>156</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Operating Cost Reimbursement to G.M. Mergens Foundation</Desc>
+        <RevenueAndExpensesPerBooksAmt>33640</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>9644</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>23996</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000007">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Management Providers Investment Management Services</CategoryTxt>
+        <Amt>4704</Amt>
+        <NetInvestmentIncomeAmt>4704</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="00000008">
+      <TaxesDetail>
+        <CategoryTxt>Federal Excise Taxes</CategoryTxt>
+        <Amt>2875</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-12-26T14:39:34-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>EDMONDS &amp; EDMONDS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>519 30th St</AddressLine1Txt>
+        <CityNm>NEWPORT BEACH</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>92663</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>954718400</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE RONALD AND JANE OLSON FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% RONALD L OLSON</InCareOfNm>
+      <BusinessNameControlTxt>OLSO</BusinessNameControlTxt>
+      <PhoneNum>9492209404</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>350 S GRAND AVENUE 50TH FLOOR</AddressLine1Txt>
+        <CityNm>LOS ANGELES</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>90071</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RONALD L OLSON</PersonNm>
+      <PersonTitleTxt>OFFICER</PersonTitleTxt>
+      <PhoneNum>9492209404</PhoneNum>
+      <SignatureDt>2018-12-31</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>BARBARA EDMONDS</PreparerPersonNm>
+      <PTIN>P00002723</PTIN>
+      <PhoneNum>9492209404</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>172.116.148.149</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>33994920190075000000</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2018-12-26</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>0527314FACB7296AF5EA959B0837138D66CB8D0D</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>63205855D046F78970DA74175FEF6C04544823C8</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4181547</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>199720</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>100359</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>100359</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>100359</DividendsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>300079</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>100359</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>100359</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">3770</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3770</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>3770</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">17419</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>17419</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>17419</TaxesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">150</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>150</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>150</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>21339</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>21339</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>21339</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>200000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>200000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>221339</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>21339</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>21339</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>200000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>78740</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>79020</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>79020</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>958269</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>135131</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>135131</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>688954</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">1511964</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4046416</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>1647223</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1647095</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4181547</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">0</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">10763</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>10763</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>1647223</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1636332</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1647223</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1636332</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1647223</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1647095</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1647223</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>78740</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1725963</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">89631</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1636332</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail />
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>130000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3685894</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.03527</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>193372</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3282916</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.058903</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>124288</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2880088</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.043154</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>129415</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2533294</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.051086</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>35000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2103639</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.016638</DistributionYr5Rt>
+        <TotalDistributionRt>0.205051</TotalDistributionRt>
+        <AverageDistributionRt>0.04101</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>3935161</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>161381</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>790</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>162171</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>200000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>790</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>790</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>790</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4000</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3210</OverpaymentAmt>
+        <AppliedToESTaxAmt>3210</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="SubsContributorsSch">false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>RONALD L OLSON</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2136839111</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>350 S GRAND AVE 50TH FLOOR</AddressLine1Txt>
+          <CityNm>LOS ANGELES</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90071</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANE T OLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>350 S GRAND AVENUE 50TH FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANE T OLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>350 S GRAND AVENUE 50TH FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RONALD L OLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>350 S GRAND AVENUE 50TH FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC., TREA</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RONALD L OLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>350 S GRAND AVENUE 50TH FLOOR</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90071</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3248376</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>746711</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3995087</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3995087</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>59926</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3935161</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>196758</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>196758</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>790</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>790</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>195968</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>195968</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>195968</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>200000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>200000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>790</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>199210</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>195968</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>5393</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <QualifyingDistributionsAmt>200000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>5393</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>194607</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <UndistributedIncomeCYAmt>1361</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>RONALD AND JANE OLSON</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEGAL AID FOUNDATION OF LOS ANGELES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1550 W 8TH STREET</AddressLine1Txt>
+            <CityNm>LOS ANGELES</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>75000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DIRECT RELIEF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6100 WALLACE BECKNELL ROAD</AddressLine1Txt>
+            <CityNm>SANTA BARBARA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93117</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE PURPOSE</GrantOrContributionPurposeTxt>
+          <Amt>125000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>200000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>100359</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp />
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER INCOME - BLACKSTONE GROUP L.P. K-1</Desc>
+          <ExclusionCd>18</ExclusionCd>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>100359</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>100359</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501cInd organization501cTypeTxt="3">X</Organization501cInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>RONALD JANE OLSON</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>4 OAK KNOLL TERRACE</AddressLine1Txt>
+          <CityNm>PASADENA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91106</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>199720</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>1,681 SHARES PEPSICO</NoncashPropertyDesc>
+        <FairMarketValueAmt>199720</FairMarketValueAmt>
+        <ReceivedDt>2017-12-22</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>EDMONDS &amp; EDMONDS, LLP</CategoryTxt>
+        <Amt>3770</Amt>
+        <NetInvestmentIncomeAmt>3770</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>3770</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1581 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>28094</EOYBookValueAmt>
+        <EOYFMVAmt>192787</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1303 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>24913</EOYBookValueAmt>
+        <EOYFMVAmt>158888</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1849 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>35353</EOYBookValueAmt>
+        <EOYFMVAmt>225467</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,267 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>83892</EOYBookValueAmt>
+        <EOYFMVAmt>154498</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1550 SHS JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>39215</EOYBookValueAmt>
+        <EOYFMVAmt>227695</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3032 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>65855</EOYBookValueAmt>
+        <EOYFMVAmt>369722</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2700 SHS JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>111644</EOYBookValueAmt>
+        <EOYFMVAmt>396630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1080 SHS JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>67118</EOYBookValueAmt>
+        <EOYFMVAmt>158652</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2836 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>61598</EOYBookValueAmt>
+        <EOYFMVAmt>345822</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,115 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>45938</EOYBookValueAmt>
+        <EOYFMVAmt>257903</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2013 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>43722</EOYBookValueAmt>
+        <EOYFMVAmt>245465</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>3245 SHS ABBVIE INC</StockNm>
+        <EOYBookValueAmt>81612</EOYBookValueAmt>
+        <EOYFMVAmt>305906</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1681 SHS PEPSICO</StockNm>
+        <EOYBookValueAmt>110089</EOYBookValueAmt>
+        <EOYFMVAmt>204981</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>10000 SHS CVS HEALTH CORP</StockNm>
+        <EOYBookValueAmt>712921</EOYBookValueAmt>
+        <EOYFMVAmt>802000</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>BOOK/TAX DIFFERENCES CONTRIBUTED ASSETS</Desc>
+        <Amt>89631</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>ATTORNEY GENERAL REGISTRY</Desc>
+        <RevenueAndExpensesPerBooksAmt>150</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>150</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>150</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>THE BLACKSTONE GROUP, L.P.</Desc>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>CALL CVS HEALTH CORP (100 SHS)</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>4922</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>CALL PEPSICO INC (150 SHS)</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>5841</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <SubstantialContributorsSch documentId="SubsContributorsSch">
+      <SubstantialContributorDetail>
+        <PersonNm>RONALD JANE OLSON</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>4 OAK KNOLL TERRACE</AddressLine1Txt>
+          <CityNm>PASADENA</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>91106</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FRANCHISE TAX BOARD</CategoryTxt>
+        <Amt>60</Amt>
+        <NetInvestmentIncomeAmt>60</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>60</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>INTERNAL REVENUE SERVICE</CategoryTxt>
+        <Amt>17359</Amt>
+        <NetInvestmentIncomeAmt>17359</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>17359</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

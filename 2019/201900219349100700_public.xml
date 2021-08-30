@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-21T13:48:29-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>942771548</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Nicholson &amp; Olson CPAs</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>729 Sunrise Avenue Suite 303</AddressLine1Txt>
+        <CityNm>Roseville</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95661</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>521772345</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>EXCELERATE FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>EXCE</BusinessNameControlTxt>
+      <PhoneNum>9165868444</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2377 GOLD MEADOW WAY</AddressLine1Txt>
+        <CityNm>GOLD RIVER</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95670</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JONATHAN ALEX SLOAN</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2019-01-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Charles A Nicholson</PreparerPersonNm>
+      <PTIN>P00410549</PTIN>
+      <PhoneNum>9167867997</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>10044815</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>155146</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>155146</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>82875</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1742679</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>82875</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSchedule2">447395</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>685416</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>238021</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>157000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>157000</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="LegalFeesSchedule">542</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>542</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">11073</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>11073</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OtherProfessionalFeesSchedule">38746</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>37369</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1377</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">3292</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>10</TaxesDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>2475</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>2475</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">3403</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>170</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>3233</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>216531</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>37539</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>175710</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>334138</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>334138</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>550669</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>37539</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>509848</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>134747</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>200482</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>127984</CashBOYAmt>
+        <CashEOYAmt>384111</CashEOYAmt>
+        <CashEOYFMVAmt>384111</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>71694</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>449798</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>449798</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1778493</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="InvestmentsGovtObligationsSche">1845033</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1845033</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>6476634</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">6480364</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>6480364</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>818764</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">873309</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>873309</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">11655</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">12200</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">12200</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9285224</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>10044815</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>10044815</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>7112</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>1039</AccountsPayableEOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">3000</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>7112</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>4039</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>9278112</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>10040776</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9278112</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10040776</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9285224</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>10044815</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9278112</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>134747</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">627917</OtherIncreasesAmt>
+        <SubtotalAmt>10040776</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>10040776</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-09-30</AcquiredDt>
+          <SoldDt>2018-09-30</SoldDt>
+          <GrossSalesPriceAmt>1565550</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1506772</CostOrOtherBasisAmt>
+          <GainOrLossAmt>58778</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>58778</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>US BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-09-30</AcquiredDt>
+          <SoldDt>2018-09-30</SoldDt>
+          <GrossSalesPriceAmt>177129</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>153032</CostOrOtherBasisAmt>
+          <GainOrLossAmt>24097</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>24097</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>82875</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>58778</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>425349</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>8823981</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.04820</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>510619</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>8651038</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.05902</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>502768</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>9274332</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.05421</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>306207</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>9520394</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.03216</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>470803</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>10042354</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.04688</DistributionYr5Rt>
+        <TotalDistributionRt>0.240484</TotalDistributionRt>
+        <AverageDistributionRt>0.048097</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>9514036</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>457597</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2005</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>459602</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>509848</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2005</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2005</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2005</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>7584</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>7584</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>5579</OverpaymentAmt>
+        <AppliedToESTaxAmt>5579</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>excelerate-foundation.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>CORE 4 FINANCIAL</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9165868444</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2377 GOLD MEADOW WAY SUITE 100</AddressLine1Txt>
+          <CityNm>GOLD RIVER</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>95670</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JONATHAN ALEX SLOAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 PARKSHORE DRIVE</AddressLine1Txt>
+            <CityNm>FOLSOM</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95630</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>59000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERNEST LEWIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 PARKSHORE DRIVE</AddressLine1Txt>
+            <CityNm>FOLSOM</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95630</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>49000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EDWARD DADAKIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>101 PARKSHORE DRIVE</AddressLine1Txt>
+            <CityNm>FOLSOM</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95630</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>49000</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>9142126</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>516794</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>9658920</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>9658920</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>144884</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>9514036</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>475702</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>475702</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2005</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2005</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>473697</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>473697</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>473697</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>509848</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>509848</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2005</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>507843</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>473697</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>49153</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>509848</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>49153</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>460695</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>13002</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AIDSLifeCycle</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 6000</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94160</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Supporting individual riders in the San Francisco to Los Angeles bike ride.</GrantOrContributionPurposeTxt>
+          <Amt>18000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Grass Roots Gay Rights West</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>584 Castro St 495</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General support of organization's fundraising activities and support of community activities.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Openhouse</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 Market St PMB93</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Assist in organization purpose of providing services and housing support to senior LGBT San Francisco.</GrantOrContributionPurposeTxt>
+          <Amt>10138</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Transportation Association of Green</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13 Riverside Avenue</AddressLine1Txt>
+            <CityNm>Riverside</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06878</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Partial support for the purchase of a new bus.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UC Davis Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1460 Drew Ave Ste 100</AddressLine1Txt>
+            <CityNm>Davis</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95616</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Funding for leadership prize for staff.</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>East Harlem Tutorial</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2050 2nd Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10029</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General operation funds for the program impacting at-risk youth.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Greenwich Point Conservancy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 377</AddressLine1Txt>
+            <CityNm>Old Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06870</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General program support for organization that focuses on historic preservation in town.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Greenwhich Town Party</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>157 Church Street 19th Floor</AddressLine1Txt>
+            <CityNm>New Haven</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06510</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General program support for group that build community and town unification.</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Communinity Centers Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>61 E Putnam Ave</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06830</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To help fund their summer program which seeks to support children in grades 2-12 who predominately live in local housing projects.</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LGBT Historical Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>657 Mission St Ste 300</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support of short term need to cover part of costs to move the Society's collection to a new space for organization that preserves critical archives for the LGBT movement.</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Horizons Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>550 Montgomery St Ste 700</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94111</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support of the organizations $3.5 million five-year "Now and Forever Campaign" which seeks to bolster the organization's capacity to strengthen its fundraising and grantmaking work.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Huckleberry Youth Programs</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3310 Geary Blvd</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General program support of the organization whose purpose is counseling, referral and shelter services for at risk and trafficked youth in SF and Marin counties.</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Light in the Grove</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2270</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsorship of the annual Light in the Grove fundraising event for organization that provides, in perpetuity, a place of remembrance so that the lives of people who died from AIDS are not forgotten and the story is known by future generations.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SF LGBT Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1800 Market St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fundraiser event sponsorship for organization whose charter is to connect LGBT community to opportunities, resources and each other to achieve our vision of a stronger, healthier, and more equitable world for LGBT people.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Positive Resource Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>785 Market Street 10th Floor</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsorship for fundraising event for organization that supports HIV/AIDS, mental health, and substance abuse services.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Heart Association Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2300 Centerpark West Dr</AddressLine1Txt>
+            <CityNm>West Palm Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33409</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsorship of the annual fundraising event for organization that conducts research to develop therapies and cures for heart disease.</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Yankee Institute</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>216 Main Street</AddressLine1Txt>
+            <CityNm>Hartford</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06106</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsorship of the annual Freedom Gala, for organization that develops and advances free market solutions and public policy.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Greenwich Preservation Trust</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>61 E Putnam Ave</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06830</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support organization for annual leadership award for excellence in historical preservation. Organization provides education and advocacy for preservation of historic resources for the town of Greenwich.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Team to End AidsAids Foundation of</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 West Jackson Blvd Suite 2100</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsor participants of Chicago Marathon event, which raises funds for Aids Foundation of Chicago</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Old Greenwich-Riverside Community C</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>90 Harding Road</AddressLine1Txt>
+            <CityNm>Old Greewich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06870</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsor group of players from a community little league baseball team to allow them to play baseball in Cooperstown New York.</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AIDS Walk San Francisco</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>273 9th St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsor participant for annual AIDS walk, helping to raise money for HIV and aging research.</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Family Centers Inc</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 Arch Street</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06830</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Sponsor for annual fundraising event for organization whose charter is to empower children, adults, and communities to realize their full potential.</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Glenville Volunteer Fire Company No</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>266 Glenville Road</AddressLine1Txt>
+            <CityNm>Greenwich</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06831</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>n/a</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support for fundraising event for volunteer firefighter company.</GrantOrContributionPurposeTxt>
+          <Amt>12500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>334138</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>155146</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>82875</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>BAD DEBT RECOVERY</Desc>
+          <ExclusionCd>1</ExclusionCd>
+          <ExclusionAmt>447395</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>685416</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>685416</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>11073</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>11073</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>873309</EOYBookValueAmt>
+        <EOYFMVAmt>873309</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCK</StockNm>
+        <EOYBookValueAmt>6480364</EOYBookValueAmt>
+        <EOYFMVAmt>6480364</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <USGovtObligationsBookVlEOYAmt>1845033</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>1845033</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL</CategoryTxt>
+        <LegalFeesAmt>542</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>542</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCRUED INCOME</Desc>
+        <BOYBookValueAmt>11655</BOYBookValueAmt>
+        <EOYBookValueAmt>12200</EOYBookValueAmt>
+        <EOYFMVAmt>12200</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>170</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>170</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INFORMATION TECHNOLOGY</Desc>
+        <RevenueAndExpensesPerBooksAmt>473</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>473</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2741</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>2741</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>19</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>19</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherIncomeDetail>
+        <Desc>BAD DEBT RECOVERY</Desc>
+        <RevenueAndExpensesPerBooksAmt>447395</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabilitiesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherLiabilitiesDetail>
+        <Desc>CREDIT CARDS PAYABLE</Desc>
+        <EOYBookValueAmt>3000</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CONSULTING FEES</CategoryTxt>
+        <Amt>1377</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1377</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>37369</Amt>
+        <NetInvestmentIncomeAmt>37369</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX</CategoryTxt>
+        <Amt>3282</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>STATE FEE</CategoryTxt>
+        <Amt>10</Amt>
+        <DisbursementsCharitablePrpsAmt>10</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

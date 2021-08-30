@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-20T06:12:54-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Preston &amp; Associates</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>527 E Lancaster Ave</AddressLine1Txt>
+        <CityNm>Wayne</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>19087</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>232828303</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Concord Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CONC</BusinessNameControlTxt>
+      <PhoneNum>6106222100</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>c/o Albert Berman PO Box 359</AddressLine1Txt>
+        <CityNm>Chester Heights</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>19017</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALBERT BERMAN</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>6106222100</PhoneNum>
+      <SignatureDt>2019-01-17</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>EUGENE C PRESTON CPA</PreparerPersonNm>
+      <PTIN>P01440054</PTIN>
+      <PhoneNum>4844554901</PhoneNum>
+      <PreparationDt>2019-02-20</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>71.123.63.83</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-20</IPDt>
+      <IPTm>06:12:43</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>12105134AB4FCC7D8FBF195B2DA422842866FCD6</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>307F4481C8B683FE80B0D3C07311D7A3CCA344D5</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>461183</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>43</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>43</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>11125</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>11125</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">17830</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>282930</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>17830</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>7295</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>28998</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>28998</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>7295</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="00000006" referenceDocumentName="LegalFeesSchedule">1000</LegalFeesRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">2025</AccountingFeesRevAndExpnssAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="00000008" referenceDocumentName="OtherProfessionalFeesSchedule">7263</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>7263</OtherProfFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000007" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">815</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>11103</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7263</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>50172</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>50172</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>61275</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7263</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>50172</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-32277</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>21735</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7295</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>9644</CashBOYAmt>
+        <CashEOYAmt>32209</CashEOYAmt>
+        <CashEOYFMVAmt>32209</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>294338</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000005" referenceDocumentName="InvestmentsCorpStockSchedule">249656</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>268229</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>177539</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpBondsSchedule">167379</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>160745</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>481521</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>449244</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>461183</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>481521</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>449244</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>481521</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>449244</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>481521</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>449244</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>481521</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-32277</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>449244</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>449244</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UBS Financial Services</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-12-01</AcquiredDt>
+          <SoldDt>2018-11-30</SoldDt>
+          <GrossSalesPriceAmt>107038</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>99743</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7295</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>7295</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>UBS Financial Services</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-12-01</AcquiredDt>
+          <SoldDt>2018-11-30</SoldDt>
+          <GrossSalesPriceAmt>175892</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>165357</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10535</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>10535</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>17830</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>7295</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>54385</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>513743</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.105860</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>56179</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>520605</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.107911</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>47531</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>591368</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.080375</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>60716</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>638515</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.095089</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>74446</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>723865</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.102845</DistributionYr5Rt>
+        <TotalDistributionRt>0.492080</TotalDistributionRt>
+        <AverageDistributionRt>0.098416</AverageDistributionRt>
+        <NetInvestmentIncomePctAmt>217</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>217</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>50172</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>217</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>217</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>217</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>227</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>227</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-227</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>10</OverpaymentAmt>
+        <AppliedToESTaxAmt>10</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>The Foundation</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>6106222100</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO Box 359</AddressLine1Txt>
+          <CityNm>Chester Heights</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19017</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NORMAN LOEV</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>510 Township Line Road-Suite 150</AddressLine1Txt>
+            <CityNm>Blue Bell</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19422</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICHAEL ROGERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>510 Township Line Road-Suite 150</AddressLine1Txt>
+            <CityNm>Blue Bell</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19422</ZIPCd>
+          </USAddress>
+          <TitleTxt>Sec./Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Scholarships to Students-Graduates of Garnet Valley High SchoolPenn State University</Description1Txt>
+        <Expenses1Amt>7500</Expenses1Amt>
+        <Description2Txt>Scholarships to Students-Graduates of Garnet Valley High SchoolBloomsburg University</Description2Txt>
+        <Expenses2Amt>16179</Expenses2Amt>
+        <Description3Txt>Scholarships to Students-Graduates of Garnet Valley High SchoolUniversity of Pittsburgh</Description3Txt>
+        <Expenses3Amt>8750</Expenses3Amt>
+        <Description4Txt>The Riddle Healthcare Foundation</Description4Txt>
+        <Expenses4Amt>14000</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>217</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>217</TotalTaxAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>50172</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>50172</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>217</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>49955</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>25451</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>39603</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>28847</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>18379</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>30823</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>54621</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>172273</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>50172</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>50172</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>222445</TotalCorpusAmt>
+        <Taxable2Amt>25451</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>39603</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>182842</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>28847</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>18379</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>30823</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>54621</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>50172</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>RICHARD CASTAFARO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>919 Stoneybrook Drive</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19064</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6103252549</RecipientPhoneNum>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Penn State University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Old Main</AddressLine1Txt>
+            <CityNm>State College</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of Pennsylvania</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3451 Walnut Street</AddressLine1Txt>
+            <CityNm>Philadelphia</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>3145</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>University of Pittsburgh</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4200 5th Avenue</AddressLine1Txt>
+            <CityNm>Pittsburgh</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>15260</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>8750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Bloomsburg University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 E Second Street</AddressLine1Txt>
+            <CityNm>Bloomsburg</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17815</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship</GrantOrContributionPurposeTxt>
+          <Amt>16179</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>The Riddle Healthcare Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1068 W Baltimore Pike</AddressLine1Txt>
+            <CityNm>Media</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19063</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>14000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARY ANN DAMTSRO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 359</AddressLine1Txt>
+            <CityNm>Chester Heights</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Book Reimbursement</GrantOrContributionPurposeTxt>
+          <Amt>598</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>50172</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>43</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>11125</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>17830</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>28998</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>28998</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFeesDetail>
+        <CategoryTxt>Preston &amp; Associates Tax/Accounting</CategoryTxt>
+        <Amt>2025</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS Financial Services, Inc.</AssetDesc>
+        <AcquiredDt>2017-12</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-11</SoldDt>
+        <GrossSalesPriceAmt>107038</GrossSalesPriceAmt>
+        <BasisAmt>99743</BasisAmt>
+        <TotalNetAmt>7295</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS Financial Services, Inc.</AssetDesc>
+        <AcquiredDt>2014-12</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-11</SoldDt>
+        <GrossSalesPriceAmt>175892</GrossSalesPriceAmt>
+        <BasisAmt>165357</BasisAmt>
+        <TotalNetAmt>10535</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="00000004">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Exchange Traded Bond Funds</BondNm>
+        <EOYBookValueAmt>167379</EOYBookValueAmt>
+        <EOYFMVAmt>160745</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000005">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Exchange Traded Equity Funds</StockNm>
+        <EOYBookValueAmt>249656</EOYBookValueAmt>
+        <EOYFMVAmt>268229</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="00000006">
+      <LegalFeesGrp>
+        <CategoryTxt>Salvo Rogers Elinski &amp; Scullin Legal</CategoryTxt>
+        <LegalFeesAmt>1000</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="00000007">
+      <OtherExpensesScheduleGrp>
+        <Desc>Administrative Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>815</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000008">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>UBS Financial Services Asset Management</CategoryTxt>
+        <Amt>7263</Amt>
+        <NetInvestmentIncomeAmt>7263</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

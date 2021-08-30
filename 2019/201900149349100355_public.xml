@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-14T10:35:54-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>351723943</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PARKISON &amp; HINTON INC PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 638</AddressLine1Txt>
+        <CityNm>LAPORTE</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>463520638</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>351955434</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE MACKENZIE FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MACK</BusinessNameControlTxt>
+      <PhoneNum>2198773500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>HARBOUR TRUST 1024 N KARWICK ROAD</AddressLine1Txt>
+        <CityNm>MICHIGAN CITY</CityNm>
+        <StateAbbreviationCd>IN</StateAbbreviationCd>
+        <ZIPCd>46360</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>HARBOUR TRUST</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2198773500</PhoneNum>
+      <SignatureDt>2018-01-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOHN E SPIGGLE CPA</PreparerPersonNm>
+      <PTIN>P00588796</PTIN>
+      <PhoneNum>2193628547</PhoneNum>
+      <PreparationDt>2019-01-09</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>96.74.225.165</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-14</IPDt>
+      <IPTm>10:35:54</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>DD2932C65B781444E5FF53F3AF2111FCE75E402B</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>DD2932C65B781444E5FF53F3AF2111FCE75E402B</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc6">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7558</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1155</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1155</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>6325</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>6325</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">18329</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>72771</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>25809</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7480</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>4250</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>3600</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>650</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">975</AccountingFeesRevAndExpnssAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc5">89</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>89</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>5314</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3689</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>650</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>15240</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>15240</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>20554</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3689</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>15890</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>5255</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>3791</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>26396</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>7558</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>7558</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>201970</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">226064</OtherInvestmentsEOYAmt>
+        <TotalAssetsBOYAmt>228366</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>233622</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7558</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>228366</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>233622</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>228366</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>233622</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>228366</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>233622</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>228366</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>5255</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc4">1</OtherIncreasesAmt>
+        <SubtotalAmt>233622</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>233622</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>16441</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>301020</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.054618</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>19742</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>301147</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.065556</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>101039</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>394912</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.255852</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>42398</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>400645</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.105824</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>47452</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>413309</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.114810</DistributionYr5Rt>
+        <TotalDistributionRt>0.596660</TotalDistributionRt>
+        <AverageDistributionRt>0.119332</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>306060</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>36523</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>38</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>36561</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>15890</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>76</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>76</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>76</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>76</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>IN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>HARBOUR TRUST</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2198773500</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1024 N KARWICK ROAD</AddressLine1Txt>
+          <CityNm>MICHIGAN CITY</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>46360</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>HARBOUR TRUST</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1024 N KARWICK ROAD</AddressLine1Txt>
+            <CityNm>MICHIGAN CITY</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46360</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>4250</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>303048</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>7673</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>310721</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>310721</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4661</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>306060</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>15303</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>15303</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>76</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>76</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>15227</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>15227</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>15227</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>15890</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>15890</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>15890</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>15227</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>6676</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>22654</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>82271</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>4767</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>1445</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>117813</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>15890</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>15227</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>663</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>118476</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>6676</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>111800</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>22654</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>82271</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>4767</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>1445</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>663</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>UNITY FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>619 FRANKLIN STREET</AddressLine1Txt>
+            <CityNm>MICHIGAN CITY</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46360</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE ENDOWMENT</GrantOrContributionPurposeTxt>
+          <Amt>7620</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FCNL EDUCATION FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>245 2ND STREET NE</AddressLine1Txt>
+            <CityNm>WASJINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20002</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>3810</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ROTARY DISTRICT 6000 HEF</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 122</AddressLine1Txt>
+            <CityNm>PELLA</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>50219</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>3810</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>15240</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <ProgramServiceRevPartVIIGrp>
+          <ExclusionCd>18</ExclusionCd>
+        </ProgramServiceRevPartVIIGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1022</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>133</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6325</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>18329</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7347</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>18462</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>25809</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <Amt>975</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>GE</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>5231</GrossSalesPriceAmt>
+        <BasisAmt>8194</BasisAmt>
+        <TotalNetAmt>-2963</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ALTRIA GROUP</AssetDesc>
+        <AcquiredDt>2012-12</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-07</SoldDt>
+        <GrossSalesPriceAmt>5722</GrossSalesPriceAmt>
+        <BasisAmt>3260</BasisAmt>
+        <TotalNetAmt>2462</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>AMERIGAS PARTNERS</AssetDesc>
+        <AcquiredDt>2012-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-04</SoldDt>
+        <GrossSalesPriceAmt>3993</GrossSalesPriceAmt>
+        <BasisAmt>4153</BasisAmt>
+        <TotalNetAmt>-160</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>BANK OF AMERICA BONDS</AssetDesc>
+        <AcquiredDt>2014-02</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-01</SoldDt>
+        <GrossSalesPriceAmt>25000</GrossSalesPriceAmt>
+        <BasisAmt>25000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>CONSUMER STAPLES SECLECT SPDR</AssetDesc>
+        <AcquiredDt>2009-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>5396</GrossSalesPriceAmt>
+        <BasisAmt>2349</BasisAmt>
+        <TotalNetAmt>3047</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>S&amp;P SMALLCAP 600 INDEX FUND</AssetDesc>
+        <AcquiredDt>2011-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-07</SoldDt>
+        <GrossSalesPriceAmt>8595</GrossSalesPriceAmt>
+        <BasisAmt>3271</BasisAmt>
+        <TotalNetAmt>5324</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNITED TECHNOLOGIES</AssetDesc>
+        <AcquiredDt>2012-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>8823</GrossSalesPriceAmt>
+        <BasisAmt>5552</BasisAmt>
+        <TotalNetAmt>3271</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UNITED HEALTH</AssetDesc>
+        <AcquiredDt>2012-08</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>10011</GrossSalesPriceAmt>
+        <BasisAmt>2663</BasisAmt>
+        <TotalNetAmt>7348</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BONDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>55351</BookValueAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>STOCKS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>93830</BookValueAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MUTUAL FUNDS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>42852</BookValueAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>ETFS</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>34031</BookValueAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc4">
+      <OtherIncreasesDetail>
+        <Desc>ROUNDING</Desc>
+        <Amt>1</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc5">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>55</Amt>
+        <NetInvestmentIncomeAmt>55</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES PAID</CategoryTxt>
+        <Amt>34</Amt>
+        <NetInvestmentIncomeAmt>34</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

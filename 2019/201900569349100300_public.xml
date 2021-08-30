@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-25T07:45:42-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FTI Consulting Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>750 Third Avenue</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10017</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>650554692</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE AL LEVINE FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% TAXPAYER</InCareOfNm>
+      <BusinessNameControlTxt>ALLE</BusinessNameControlTxt>
+      <PhoneNum>9736964400</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>One Wayne Hills Mall</AddressLine1Txt>
+        <CityNm>Wayne</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>07470</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANDREW STEIGER</PersonNm>
+      <PersonTitleTxt>director</PersonTitleTxt>
+      <PhoneNum>9736964400</PhoneNum>
+      <SignatureDt>2019-02-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Mark Golden</PreparerPersonNm>
+      <PTIN>P00285161</PTIN>
+      <PhoneNum>9738528100</PhoneNum>
+      <PreparationDt>2019-02-21</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>65.118.222.116</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>20403020190565000000</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-25</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>F19AFE9E50DBAF1664BF8763056DFBFAF64606E9</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>F19AFE9E50DBAF1664BF8763056DFBFAF64606E9</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>11236085</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>54</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>54</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>243977</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>243977</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>557472</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2036868</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>557472</CapGainNetIncmNetInvstIncmAmt>
+        <IncmModificationsAdjNetIncmAmt>2000</IncmModificationsAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">2644</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>644</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>804147</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>802147</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>2000</TotalAdjNetIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>49000</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>4900</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>44100</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">13000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>6500</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>6500</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">5000</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">52112</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>50926</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>1186</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>119112</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>62326</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>51786</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>518800</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>518800</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>637912</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>62326</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>570586</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>166235</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>739821</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2000</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>317025</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>141313</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>141313</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>6289233</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">6011006</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>7734260</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2870375</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">3490550</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>3360512</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>9476633</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>9642869</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>11236085</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>9476633</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>9642868</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>9476633</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9642868</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>9476633</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>9642868</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>9476633</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>166235</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>9642868</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>9642868</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB 6118-1174 - SEE STMT B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-01-01</AcquiredDt>
+          <SoldDt>2018-09-30</SoldDt>
+          <GrossSalesPriceAmt>100176</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>85954</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14222</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14222</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CHARLES SCHWAB 6118-1174 - SEE STMT B</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-01-01</AcquiredDt>
+          <SoldDt>2018-09-30</SoldDt>
+          <GrossSalesPriceAmt>1925020</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1393442</CostOrOtherBasisAmt>
+          <GainOrLossAmt>531578</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>531578</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>11672</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>557472</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>439661</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>10215927</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.043037</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>235643</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>8948940</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.026332</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>294988</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>9411251</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.031344</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>491074</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>9507955</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.051649</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>376686</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>8485062</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.044394</DistributionYr5Rt>
+        <TotalDistributionRt>0.196756</TotalDistributionRt>
+        <AverageDistributionRt>0.039351</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>11002450</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>432957</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>7398</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>440355</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>570586</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>7398</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>7398</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7398</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>8269</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>10000</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>18269</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>10871</OverpaymentAmt>
+        <AppliedToESTaxAmt>10871</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1 BinaryAttachN2">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>TAXPAYER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9736964400</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+          <CityNm>WAYNE</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07470</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROLE ANN STEIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDREW R STEIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ADAM J STEIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID L STEIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PETER L LEVINE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ARTHUR L LEVINE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOEL J STEIGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>ONE WAYNE HILLS MALL</AddressLine1Txt>
+            <CityNm>WAYNE</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>7000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>10927465</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>242535</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>11170000</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>11170000</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>167550</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>11002450</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>550123</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>550123</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7398</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>7398</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>542725</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>2000</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>544725</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>544725</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>570586</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>570586</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>7398</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>563188</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>544725</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>486145</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>570586</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>486145</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>84441</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>460284</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE ATTACHMENT 10A</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>One Wayne Hills Mall</AddressLine1Txt>
+            <CityNm>Wayne</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>07470</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Support</GrantOrContributionPurposeTxt>
+          <Amt>518800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>518800</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>54</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>243977</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>644</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>557472</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>RECOVERY OF QUALIFIED DISTRIBUTION</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>2000</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>804147</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>804147</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+        <RelationshipScheduleDetail>
+          <OrganizationBusinessName>
+            <BusinessNameLine1Txt>NA</BusinessNameLine1Txt>
+          </OrganizationBusinessName>
+          <OrganizationTypeDesc>N/A</OrganizationTypeDesc>
+          <RelationshipDescriptionTxt>N/A</RelationshipDescriptionTxt>
+        </RelationshipScheduleDetail>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>13000</Amt>
+        <NetInvestmentIncomeAmt>6500</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>6500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CHARLES SCHWAB- STMT A</StockNm>
+        <EOYBookValueAmt>5811006</EOYBookValueAmt>
+        <EOYFMVAmt>7534100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>LADENBURG THALMANN FINL SVCS</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PFD SER A 8% 12/31/2049</StockNm>
+        <EOYBookValueAmt>200000</EOYBookValueAmt>
+        <EOYFMVAmt>200160</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>214,754.512 DODGE &amp; COX INCOME</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>2975425</BookValueAmt>
+        <EOYFMVAmt>2869120</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>11,332.842 DODGE &amp; COX INTL ST</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>515125</BookValueAmt>
+        <EOYFMVAmt>491392</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT ADVISORY FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>45937</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>45937</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>FOREIGN TAX PAID</Desc>
+        <RevenueAndExpensesPerBooksAmt>4143</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4143</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>REGISTRATION &amp; FILING FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>61</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>61</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>846</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>846</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1125</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1125</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>FOREIGN TAX RECLAIM</Desc>
+        <RevenueAndExpensesPerBooksAmt>316</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>316</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Other income</Desc>
+        <RevenueAndExpensesPerBooksAmt>328</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>328</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>Recovery of qualified distribution</Desc>
+        <RevenueAndExpensesPerBooksAmt>2000</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES</CategoryTxt>
+        <Amt>5000</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

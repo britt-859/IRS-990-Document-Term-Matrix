@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-28T09:40:02-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>450250958</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>EIDE BAILLY LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>200 EAST 10TH ST PO BOX 5125</AddressLine1Txt>
+        <CityNm>SIOUX FALLS</CityNm>
+        <StateAbbreviationCd>SD</StateAbbreviationCd>
+        <ZIPCd>571175125</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>510190074</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LOUIE &amp; FRANK KRAMER EDUCATIONAL TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LOUI</BusinessNameControlTxt>
+      <PhoneNum>6059957906</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+        <CityNm>MITCHELL</CityNm>
+        <StateAbbreviationCd>SD</StateAbbreviationCd>
+        <ZIPCd>573011306</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JEAN A KOEHLER</PersonNm>
+      <PersonTitleTxt>OFFICER</PersonTitleTxt>
+      <PhoneNum>6059957906</PhoneNum>
+      <SignatureDt>2019-02-26</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LAURIE HANSON</PreparerPersonNm>
+      <PTIN>P00851848</PTIN>
+      <PhoneNum>6053391999</PhoneNum>
+      <PreparationDt>2019-02-26</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>199.247.45.171</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-26</IPDt>
+      <IPTm>14:32:52</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>4C5A063717A814549C27A11C9F4EC15F57398F95</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>63CC26E97BB1FED79B38F32C11916C42E1B9DC98</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>19829</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>659</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>659</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>2665</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>38649</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>2665</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3324</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>3324</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>2700</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>2700</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002100001">152</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>152</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">1464</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1464</AccountingFeesChrtblPrpsAmt>
+        <TotOprExpensesRevAndExpnssAmt>4316</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>2700</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1616</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>38600</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>38600</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>42916</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>2700</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>40216</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-39592</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>624</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>1976</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>6935</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>6935</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>20732</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">12321</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>11019</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>13500</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2044400001">2010</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1875</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>36208</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>21266</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>19829</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>341</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>341</CapitalStockEOYAmt>
+        <AdditionalPaidInCapitalBOYAmt>0</AdditionalPaidInCapitalBOYAmt>
+        <AdditionalPaidInCapitalEOYAmt>0</AdditionalPaidInCapitalEOYAmt>
+        <RetainedEarningBOYAmt>35867</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>20925</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>36208</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21266</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>36208</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>21266</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>36208</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-39592</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc2049700001">24650</OtherIncreasesAmt>
+        <SubtotalAmt>21266</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21266</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF ST PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <GrossSalesPriceAmt>18642</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19147</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-505</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-505</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SALE OF LT PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <GrossSalesPriceAmt>19526</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16837</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2689</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2689</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <GrossSalesPriceAmt>448</GrossSalesPriceAmt>
+          <GainOrLossAmt>448</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>448</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>33</GrossSalesPriceAmt>
+          <GainOrLossAmt>33</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>33</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>2665</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>28808</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>39848</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.722947</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>34023</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>34049</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.999236</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>26543</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>27855</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.952899</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>38761</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>31037</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>1.248864</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>33447</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>40388</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.828142</DistributionYr5Rt>
+        <TotalDistributionRt>4.752088</TotalDistributionRt>
+        <AverageDistributionRt>0.950418</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>31432</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>29874</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>6</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>29880</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>40216</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>6</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>6</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>6</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>SD</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>0</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>FIRST DAKOTA NATIONAL BANK</IndividualWithBooksNm>
+        <PhoneNum>6059957906</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+          <CityNm>MITCHELL</CityNm>
+          <StateAbbreviationCd>SD</StateAbbreviationCd>
+          <ZIPCd>573011306</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>1</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>0</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>1</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>0</TransactionsFailToQlfyAsExcInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FIRST DAKOTA NATIONAL BANK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>57301</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2700</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>28834</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>3077</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>31911</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>31911</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>479</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>31432</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1572</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1572</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>6</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1566</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>24650</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>26216</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>26216</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>40216</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>40216</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>6</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>40210</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>26216</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>13257</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>40216</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>13257</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>26216</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>743</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>743</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>743</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>743</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JEAN KOEHLER FIRST DAKOTA NATIONAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>57301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>6059957906</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>CONTACT JEAN KOELER FOR INFORMATION ON APPLICATION.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>AVAILABLE ONLY TO STUDENTS WHO ARE GRADUATES OF CHAMBERLAIN HIGH SCHOOL IN CHAMBERLAIN, SOUTH DAKOTA.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>GRACE SWANSON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOPE A MCCLOSKEY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASHTON BURKE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RIGGS PREIBE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DIANA MARIA T GONZALES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JAMIE PAZOUR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JACOB MUTZIGER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JETT EVANS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DILLEN J ANDERSON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARRIE KICKLAND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KANBI KNIPPLING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAURA PAZOUR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASHLEY SWANSON</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CARSON POWERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 E NORWAY ST PO BOX 1306</AddressLine1Txt>
+            <CityNm>MITCHELL</CityNm>
+            <StateAbbreviationCd>SD</StateAbbreviationCd>
+            <ZIPCd>573011306</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>38600</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>659</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>2665</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>3324</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>0</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>3324</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1464</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1464</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>NUVEEN PREFERRED SECURITIES FUND I</BondNm>
+        <EOYBookValueAmt>2010</EOYBookValueAmt>
+        <EOYFMVAmt>1875</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DODGE AND COX INTERNATIONAL STOCK</StockNm>
+        <EOYBookValueAmt>1235</EOYBookValueAmt>
+        <EOYFMVAmt>1135</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE EQUITY INCOME FUND #71</StockNm>
+        <EOYBookValueAmt>1002</EOYBookValueAmt>
+        <EOYFMVAmt>848</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE GROWTH STOCK #40</StockNm>
+        <EOYBookValueAmt>1167</EOYBookValueAmt>
+        <EOYFMVAmt>1070</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE MID CAP VALUE FUND #115</StockNm>
+        <EOYBookValueAmt>999</EOYBookValueAmt>
+        <EOYFMVAmt>821</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>T ROWE PRICE MID-CAP GROWTH FUND</StockNm>
+        <EOYBookValueAmt>935</EOYBookValueAmt>
+        <EOYFMVAmt>835</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD 500 INDEX FUND ADMIRAL SHARES</StockNm>
+        <EOYBookValueAmt>884</EOYBookValueAmt>
+        <EOYFMVAmt>920</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OPPENHEIMER INTERNATIONAL GROWTH I</StockNm>
+        <EOYBookValueAmt>1456</EOYBookValueAmt>
+        <EOYFMVAmt>1340</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EMERALD GROWTH INST</StockNm>
+        <EOYBookValueAmt>396</EOYBookValueAmt>
+        <EOYFMVAmt>374</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>OPPENHEIMER DEVELOPING MARKETS FUND CLASS I</StockNm>
+        <EOYBookValueAmt>845</EOYBookValueAmt>
+        <EOYFMVAmt>745</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD HIGH DIVIDEND YIELD INDEX INV SHS</StockNm>
+        <EOYBookValueAmt>999</EOYBookValueAmt>
+        <EOYFMVAmt>944</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MFS GLOBAL REAL ESTATE I</StockNm>
+        <EOYBookValueAmt>788</EOYBookValueAmt>
+        <EOYFMVAmt>740</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DFA US LARGE CAP VALUE PORTFOLIO US VAL CLASS INST</StockNm>
+        <EOYBookValueAmt>1061</EOYBookValueAmt>
+        <EOYFMVAmt>851</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD INTERNATIONAL EXPLORER FUND INTL CLASS INV</StockNm>
+        <EOYBookValueAmt>554</EOYBookValueAmt>
+        <EOYFMVAmt>396</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFeesGrp>
+        <CategoryTxt>ATTORNEY FEES</CategoryTxt>
+        <LegalFeesAmt>152</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>152</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreasesDetail>
+        <Desc>STUDENT LOAN PAYMENT</Desc>
+        <Amt>24650</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-25T10:57:51-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>030410574</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>VICTOR J CANNISTRA CPA PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>43 KENSICO DRIVE 2ND FLOOR</AddressLine1Txt>
+        <CityNm>MOUNT KISCO</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>105491009</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>237021288</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BEAVER DAM SANCTUARY INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BEAV</BusinessNameControlTxt>
+      <PhoneNum>9178555608</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>157 BEAVER DAM ROAD</AddressLine1Txt>
+        <CityNm>KATONAH</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10536</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KIP TESTWUIDE</PersonNm>
+      <PersonTitleTxt>TREASURER/VP</PersonTitleTxt>
+      <PhoneNum>9178555608</PhoneNum>
+      <SignatureDt>2018-11-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>VICTOR J CANNISTRA CPA</PreparerPersonNm>
+      <PTIN>P00287273</PTIN>
+      <PhoneNum>9142413605</PhoneNum>
+      <PreparationDt>2019-01-25</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>69.118.171.35</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-25</IPDt>
+      <IPTm>10:57:51</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>13F64CF15D66BED531D9242545F845ECDB63FC80</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>9BEE3001892106040A78BEDB4FE5A0D234B71EF9</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>489107</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>15200</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>7126</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7126</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>7126</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>22326</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7126</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>7126</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">2750</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2750</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">209</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>209</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4 RetDoc8">4642</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>4318</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>7601</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>7277</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>0</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>0</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>7601</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>7277</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>14725</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7126</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7126</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>88151</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>86481</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>86481</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>15015</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>24788</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>24788</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>331575</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc6">377838</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>377838</CorporateStockEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>373912</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>18231</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>356006</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc7">355681</LandEOYAmt>
+        <TotalAssetsBOYAmt>790747</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>844788</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>489107</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>790747</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>844788</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>790747</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>844788</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>790747</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>844788</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>790747</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>14725</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc9">39316</OtherIncreasesAmt>
+        <SubtotalAmt>844788</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>844788</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>10123</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>402146</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.025172</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>8599</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>367129</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.023422</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>30724</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>389982</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.078783</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>16809</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>351612</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.047806</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>16678</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>303207</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.055005</DistributionYr5Rt>
+        <TotalDistributionRt>0.230188</TotalDistributionRt>
+        <AverageDistributionRt>0.046038</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>459122</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>21137</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>71</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>21208</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>7277</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>143</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>143</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>143</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>143</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>KIP TESTWUIDE</IndividualWithBooksNm>
+        <PhoneNum>9178555608</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>157 BEAVER DAM ROAD</AddressLine1Txt>
+          <CityNm>KATONAH</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10536</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PETER NAGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KIP TESTWUIDE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER/VP</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVEN BERNHARD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>AXEL BANG</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KATY ALLEN MONTGOMERY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEFF CARPENTER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>FRANK FOX</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN FRY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EDWARD W KELLY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STUART ROSS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDREA SAURO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZA SOMMERVILLE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILLIS WARDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 92</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE MAINTENANCE OF A HABITAT FOR WILDLIFE AND NATURE PARK.</Description1Txt>
+        <Expenses1Amt>278</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>396252</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>69862</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>466114</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>466114</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>6992</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>459122</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>22956</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>22956</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>143</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>143</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>22813</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>22813</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>22813</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>7277</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>7277</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>7277</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>22813</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr3Amt>1876</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>1876</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>7277</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>7277</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>1876</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>1876</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>13660</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>KIP TESTWUIDE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>157 BEAVER DAM ROAD</AddressLine1Txt>
+            <CityNm>KATONAH</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10536</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9178555608</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>N/A</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>N/A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>N/A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7126</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7126</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>7126</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>MARILYN SIMPSON CHARITABLE TRUST</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>6 WEST 48TH ST 10TH FLOOR</AddressLine1Txt>
+          <CityNm>NEW YORK</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10036</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>15000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>2750</Amt>
+        <DisbursementsCharitablePrpsAmt>2750</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <AmortizationSchedule documentId="RetDoc4">
+      <AmortizationScheduleDetail>
+        <AmortizedExpensesDesc>SANCTUARY STRATEGIC PLAN</AmortizedExpensesDesc>
+        <AcquiredCompletedOrExpendedDt>2010-12-31</AcquiredCompletedOrExpendedDt>
+        <AmortizedAmt>6500</AmortizedAmt>
+        <DeductionForPriorYearsAmt>2065</DeductionForPriorYearsAmt>
+        <AmortizationPeriodRt>20.0000</AmortizationPeriodRt>
+        <CurrentYearAmortizationAmt>325</CurrentYearAmortizationAmt>
+        <TotalAmortizationAmt>2390</TotalAmortizationAmt>
+      </AmortizationScheduleDetail>
+    </AmortizationSchedule>
+    <DepreciationSchedule documentId="RetDoc5">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SANCTUARY LAND</PropertyDesc>
+        <AcquiredDt>1969-05-27</AcquiredDt>
+        <CostOrOtherBasisAmt>351537</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>IMPROVEMENTS</PropertyDesc>
+        <AcquiredDt>1992-03-31</AcquiredDt>
+        <CostOrOtherBasisAmt>15875</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>15841</PriorYearDepreciationAmt>
+        <LifeRt>20.0000</LifeRt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD 500 INDEX FUND</StockNm>
+        <EOYBookValueAmt>377838</EOYBookValueAmt>
+        <EOYFMVAmt>377838</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="RetDoc7">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>SANCTUARY MANAGEMENT PLAN</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>6500</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>2390</AccumulatedDepreciationAmt>
+        <BookValueAmt>4110</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CategoryOrItemTxt>IMPROVEMENTS</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>15875</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>15841</AccumulatedDepreciationAmt>
+        <BookValueAmt>34</BookValueAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>351537</CostOrOtherBasisAmt>
+        <BookValueAmt>351537</BookValueAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc8">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>3714</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3715</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MAINTENANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>278</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>278</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>325</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>325</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc9">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>39316</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>OTHER TAXES &amp; FEES</CategoryTxt>
+        <Amt>209</Amt>
+        <DisbursementsCharitablePrpsAmt>209</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

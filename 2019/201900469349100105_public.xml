@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-15T08:06:18-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>273625988</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Goff &amp; Herrington PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2833 Ted Trout Drive P O Box 153320</AddressLine1Txt>
+        <CityNm>Lufkin</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>759153320</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>752254591</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Lewis H Pool Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LEWI</BusinessNameControlTxt>
+      <PhoneNum>9727719225</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>P O Box 1316</AddressLine1Txt>
+        <CityNm>Carthage</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75633</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MATTHEW C POOL</PersonNm>
+      <PersonTitleTxt>Trustee</PersonTitleTxt>
+      <SignatureDt>2019-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Ronnie Herrington CPA</PreparerPersonNm>
+      <PTIN>P00028527</PTIN>
+      <PhoneNum>9368753317</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1942934</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>8588</ContriRcvdRevAndExpnssAmt>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>85893</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>85893</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>2517</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>2517</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>23419</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>99607</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>23419</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>15476</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>120417</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>111829</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>15476</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1075</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>538</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>537</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">1105</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>553</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>552</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">468</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>234</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>234</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>2648</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1325</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1323</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>97141</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>97141</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>99789</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1325</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>98464</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>20628</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>110504</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>15476</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>41353</CashBOYAmt>
+        <CashEOYAmt>50954</CashEOYAmt>
+        <CashEOYFMVAmt>50954</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>22256</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>59</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>59</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>28</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYFMVAmt>28</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>1766144</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>1730415</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>1763359</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>49277</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt>45412</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>42033</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>19305</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt>92377</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>86501</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1898363</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1919216</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1942934</TotalAssetsEOYFMVAmt>
+        <GrantsPayableBOYAmt>97141</GrantsPayableBOYAmt>
+        <GrantsPayableEOYAmt>93958</GrantsPayableEOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabilitiesSchedule">225</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>97141</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>94183</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>180000</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>180000</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>1621222</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1645033</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1801222</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1825033</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1898363</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1919216</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1801222</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>20628</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">3183</OtherIncreasesAmt>
+        <SubtotalAmt>1825033</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1825033</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>110 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-08-12</AcquiredDt>
+          <SoldDt>2018-04-18</SoldDt>
+          <GrossSalesPriceAmt>8551</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8402</CostOrOtherBasisAmt>
+          <GainOrLossAmt>149</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>149</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>250 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-02</AcquiredDt>
+          <SoldDt>2018-03-07</SoldDt>
+          <GrossSalesPriceAmt>10563</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9883</CostOrOtherBasisAmt>
+          <GainOrLossAmt>680</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>680</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>375 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-10-11</AcquiredDt>
+          <SoldDt>2018-02-16</SoldDt>
+          <GrossSalesPriceAmt>28449</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22205</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6244</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6244</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>22 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-11-08</AcquiredDt>
+          <SoldDt>2018-01-23</SoldDt>
+          <GrossSalesPriceAmt>12820</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3588</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9232</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9232</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>95 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-08-12</AcquiredDt>
+          <SoldDt>2018-01-23</SoldDt>
+          <GrossSalesPriceAmt>13915</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9322</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4593</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4593</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-19</AcquiredDt>
+          <SoldDt>2018-01-26</SoldDt>
+          <GrossSalesPriceAmt>13159</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10036</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3123</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3123</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 publicly traded securities</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-06-02</AcquiredDt>
+          <SoldDt>2018-01-26</SoldDt>
+          <GrossSalesPriceAmt>12150</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12752</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-602</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-602</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>23419</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>15476</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>99230</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1979075</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.05014</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>99190</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2019637</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.04911</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>95356</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2009090</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.04746</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>97880</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1943431</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.05037</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>97161</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1996363</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.04867</DistributionYr5Rt>
+        <TotalDistributionRt>0.245749</TotalDistributionRt>
+        <AverageDistributionRt>0.049150</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1927726</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>94748</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1105</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>95853</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>98464</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1105</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1105</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1105</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>880</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>880</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>225</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Matthew C Pool</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9727719225</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>737 Avalon Drive</AddressLine1Txt>
+          <CityNm>Heath</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>75032</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROLYN POOL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4540 S Versailles</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75205</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MATTHEW C POOL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>737 Avalon Dr</AddressLine1Txt>
+            <CityNm>Heath</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75032</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MOLLY POOL CHEVES</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9175 Oakland Ave NE</AddressLine1Txt>
+            <CityNm>Alburquerque</CityNm>
+            <StateAbbreviationCd>NM</StateAbbreviationCd>
+            <ZIPCd>87122</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1922638</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>34444</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1957082</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1957082</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>29356</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1927726</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>96386</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>96386</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1105</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1105</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>95281</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>95281</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>95281</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>98464</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>98464</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1105</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>97359</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>95281</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>97141</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>98464</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>97141</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>1323</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>93958</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>MATTHEW C POOL</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MATTHEW C POOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>737 Avalon Drive</AddressLine1Txt>
+            <CityNm>HEATH</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9727719225</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>FURNISH CORRECT NAME, ADDRESS, AND TELEPHONE NUMBER OF APPLICANT; BRIEF RESUME OF (1) OPERATIONS, (2) EXPLANATION OF THE REQUEST EVIDENCING THE NEED, THE SERVICES TO BE RENDERED, HOW AND WHEN MEMBERS OF THE PUBLIC WILL BENEFIT.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>POLICY OF PRIMARILY MAKING GRANTS TO PROJECTS LOCATED IN PANOLA COUNTY AREAS. GRANTS MADE ONLY TO A GOVERNMENT UNIT EXEMPT UNDER IRC CODE OR A NON-PROFIT, CHARITABLE ORGANIZATION HAVING AN EXEMPT LETTER FROM THE IRS EVIDENCING THAT IT IS SUCH AN ORGANIZATION.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CISD Education Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 Bulldog Dr</AddressLine1Txt>
+            <CityNm>Carthage</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>550</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>East Texas Food Bank</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 6974</AddressLine1Txt>
+            <CityNm>Tyler</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75711</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>First United Methodist Church Carth</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>201 S Shelby St</AddressLine1Txt>
+            <CityNm>Carthage</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Heritage Christian Academy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1408 S Goliad St</AddressLine1Txt>
+            <CityNm>Rockwall</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75087</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>21000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MD Anderson Cancer Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 301439</AddressLine1Txt>
+            <CityNm>Houston</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Methodist Children's Home</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 Herring Avenue</AddressLine1Txt>
+            <CityNm>Waco</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76708</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>1591</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mission Carthage</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 1208</AddressLine1Txt>
+            <CityNm>Carthage</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Panola College Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1109 W Panola</AddressLine1Txt>
+            <CityNm>Carthage</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>12000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Prestoncrest Church of Christ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6022 Prestoncrest Lane</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75230</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>33500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Christian Works for Children</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6320 LBJ Freeway suite 126</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75240</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Project String Power</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>212 Cottage Rd</AddressLine1Txt>
+            <CityNm>Carthage</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75633</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATIONS</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Living Hope co Broadstreet Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>408 Broad St</AddressLine1Txt>
+            <CityNm>LaGrange</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30240</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>general operations</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Whispering Pines Free Will Baptist</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 183</AddressLine1Txt>
+            <CityNm>Henderson</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75653</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Operations</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Dream Angels</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9090 Skillman 182A PMB 213</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75243</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>public</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>General Operations</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>97141</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>85893</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2517</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>23419</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>111829</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>111829</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Professional Fees</CategoryTxt>
+        <Amt>1075</Amt>
+        <NetInvestmentIncomeAmt>538</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>537</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Morning Star Subscription</Desc>
+        <RevenueAndExpensesPerBooksAmt>468</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>234</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>234</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherIncreasesDetail>
+        <Desc>decrease in grants payable</Desc>
+        <Amt>3183</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <TaxesDetail>
+        <CategoryTxt>excise tax</CategoryTxt>
+        <Amt>1105</Amt>
+        <NetInvestmentIncomeAmt>553</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>552</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

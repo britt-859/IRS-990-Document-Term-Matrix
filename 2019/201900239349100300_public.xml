@@ -1,0 +1,943 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-23T06:21:33-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Lisa Kubik CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 330</AddressLine1Txt>
+        <CityNm>NEWKIRK</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>746470330</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>731526716</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>MADALYNNE L PEEL FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>MADA</BusinessNameControlTxt>
+      <PhoneNum>5803622583</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>116 S MAIN</AddressLine1Txt>
+        <CityNm>NEWKIRK</CityNm>
+        <StateAbbreviationCd>OK</StateAbbreviationCd>
+        <ZIPCd>74647</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JACK DE MCCARTY</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>5803622583</PhoneNum>
+      <SignatureDt>2018-12-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>LISA KUBIK</PreparerPersonNm>
+      <PTIN>P00364595</PTIN>
+      <PhoneNum>5803626275</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>76.231.22.84</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-23</IPDt>
+      <IPTm>06:21:08</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>8E88B2B249D1337DDCACBAAE0BCF9AAF7A76F9A9</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>DE353AD2E7F5A9A0A3F33DBB9FF6994276B782DA</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4930899</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>285</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>285</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>71640</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>71640</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="00000003" referenceDocumentName="GainLossFromSaleOtherAssetsSchedule">575637</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>2156211</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>575637</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>647562</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>647562</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>2500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>2500</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">1500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1500</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="00000007" referenceDocumentName="OtherProfessionalFeesSchedule">19796</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>19796</OtherProfFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000006" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">182</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>182</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>23978</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>21478</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2500</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>247900</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>247900</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>271878</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>21478</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>250400</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>375684</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>626084</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>7359</CashBOYAmt>
+        <CashEOYAmt>7359</CashEOYAmt>
+        <CashEOYFMVAmt>7359</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3647279</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>4469610</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>4467416</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>804361</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpStockSchedule">348788</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>456124</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>4458999</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4825757</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4930899</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>4458999</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>4825757</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4458999</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4825757</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4458999</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4825757</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4458999</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>375684</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>4834683</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="00000005" referenceDocumentName="OtherDecreasesSchedule">8926</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4825757</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WASH TR CO CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-09-29</AcquiredDt>
+          <SoldDt>2017-10-10</SoldDt>
+          <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>225000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>8125SH ADVENT CLAYMOR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-04-12</AcquiredDt>
+          <SoldDt>2018-02-05</SoldDt>
+          <GrossSalesPriceAmt>44072</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>48258</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4186</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-4186</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1525SH CLOROX CO</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-05-22</AcquiredDt>
+          <SoldDt>2018-02-05</SoldDt>
+          <GrossSalesPriceAmt>196768</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>98037</CostOrOtherBasisAmt>
+          <GainOrLossAmt>98731</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>98731</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1375SH CHEVRON CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-01-10</AcquiredDt>
+          <SoldDt>2018-02-05</SoldDt>
+          <GrossSalesPriceAmt>159150</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>95704</CostOrOtherBasisAmt>
+          <GainOrLossAmt>63446</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>63446</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3461SH DOW DUPONT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-09-17</AcquiredDt>
+          <SoldDt>2018-02-06</SoldDt>
+          <GrossSalesPriceAmt>229954</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>90026</CostOrOtherBasisAmt>
+          <GainOrLossAmt>139928</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>139928</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>3075SH ORACLE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2001-01-12</AcquiredDt>
+          <SoldDt>2018-03-20</SoldDt>
+          <GrossSalesPriceAmt>143932</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>68626</CostOrOtherBasisAmt>
+          <GainOrLossAmt>75306</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>75306</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1500SH HOME DEPOT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-05-20</AcquiredDt>
+          <SoldDt>2018-03-23</SoldDt>
+          <GrossSalesPriceAmt>257335</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>54923</CostOrOtherBasisAmt>
+          <GainOrLossAmt>202412</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>202412</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SAFRA NATL BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-11</AcquiredDt>
+          <SoldDt>2018-04-20</SoldDt>
+          <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>225000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WELLS FARGO BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-04-19</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>225000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ORIENTAL BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-05-10</AcquiredDt>
+          <SoldDt>2018-05-14</SoldDt>
+          <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>225000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ALLY BANK</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-11</AcquiredDt>
+          <SoldDt>2018-07-19</SoldDt>
+          <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>225000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>0</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>0</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>575637</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-4186</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>240460</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4977867</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.048306</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>235770</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4855392</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.048558</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>240603</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4808047</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.050042</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>282848</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>4757726</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.059450</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>117658</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>4706173</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.025001</DistributionYr5Rt>
+        <TotalDistributionRt>0.231357</TotalDistributionRt>
+        <AverageDistributionRt>0.046271</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>5078875</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>235005</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>6261</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>241266</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>250400</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>6261</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>6261</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6261</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>5360</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>5360</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>5360</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>901</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>OK</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JACK DE MCCARTY</IndividualWithBooksNm>
+        <PhoneNum>5803622585</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>116 S MAIN</AddressLine1Txt>
+          <CityNm>NEWKIRK</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>74647</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JACK DE MCCARTY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>116 S MAIN</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS M RIGDON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>116 S MAIN</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC TREAS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILLIP A ROSS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 278</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARYBETH GLASS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>813 W 8TH</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CAROL SCOTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6549 LAKE RD</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74604</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+        <Expenses2Amt>0</Expenses2Amt>
+        <Expenses3Amt>0</Expenses3Amt>
+        <Expenses4Amt>0</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4956442</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>199776</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5156218</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5156218</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>77343</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5078875</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>253944</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>253944</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>6261</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>6261</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>247683</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>247683</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>247683</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>250400</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>250400</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>6261</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>244139</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>247683</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>241542</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>250400</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>241542</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>8858</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>238825</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NA</ContributingManagerNm>
+        <ShareholderManagerNm>NA</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JACK DE MCCARTY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>116 S MAIN</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5803622583</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NO FORMAL REQUIREMENTS</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>MUST MEET THE CRITERIA FOR SUPPORT UNDER THE EXEMPT PURPOSE OF THE FOUNDATION</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PONCA CITY ARTS &amp; HUMANITIES COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2422</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YMCA OF PONCA CITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1604 W GRAND AVE</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BIG BROTHERSBIG SISTERS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>106 S 4TH</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT MENTORINGPROGRAM IN PONCA CITY</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF MARLAND GRAND HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 827</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPPORTUNITY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>225 N UNION</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PONCA CITY HUMANE SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900 W PROSPECT</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CAMP MCFADDEN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1495</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DAUGHTERS OF THE AMERICAN REVOLUTION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 EAST GRAND</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ATTUCKS COMMUNITY ALLIANCE INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 267</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PLAYGROUND EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SCL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>417 E GRAND AVE</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOSPICE OF NORTH CENTRAL OKLAHOMA INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>445 FAIRVIEW AVE</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BEAR CREEK RURAL FIRE DISTRICT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 162</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>3800</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SURVIVOR RESOURCE NETWORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 85</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST UNITED METHODIST CHURCH OF NEWKIRK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 S WALNUT</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FIRST UNITED METHODIST CHURCH OF PONCA CITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>200 SOUTH 6TH ST</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PONCA CITY ARTS ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>819 E CENTRAL AVE</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PONCA CITY LITERACY COUNCIL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>515 E GRANAD AVE</AddressLine1Txt>
+            <CityNm>PONCA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OKLAHOMA MEDICAL RESEARCH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>825 NORTHEAST 13TH ST</AddressLine1Txt>
+            <CityNm>OKLAHOMA CITY</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE RESEARCH</GrantOrContributionPurposeTxt>
+          <Amt>64500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ARTS ADVENTURE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 310</AddressLine1Txt>
+            <CityNm>TONKAWA</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74653</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CONTINUE PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITY OF NEWKIRK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>107 W 7TH</AddressLine1Txt>
+            <CityNm>NEWKIRK</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>74647</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PARK IMPROVEMENTS</GrantOrContributionPurposeTxt>
+          <Amt>12600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>247900</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>285</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>71640</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>575637</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>647562</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>647562</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFeesDetail>
+        <CategoryTxt>LISA KUBIK CPA TAX PREPARATION</CategoryTxt>
+        <Amt>1500</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="00000003">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WASH TR CO CD</AssetDesc>
+        <AcquiredDt>2014-09</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+        <BasisAmt>225000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>8125SH ADVENT CLAYMOR</AssetDesc>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-02</SoldDt>
+        <GrossSalesPriceAmt>44072</GrossSalesPriceAmt>
+        <BasisAmt>48258</BasisAmt>
+        <TotalNetAmt>-4186</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1525SH CLOROX CO</AssetDesc>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-02</SoldDt>
+        <GrossSalesPriceAmt>196768</GrossSalesPriceAmt>
+        <BasisAmt>98037</BasisAmt>
+        <TotalNetAmt>98731</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1375SH CHEVRON CORP</AssetDesc>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-02</SoldDt>
+        <GrossSalesPriceAmt>159150</GrossSalesPriceAmt>
+        <BasisAmt>95704</BasisAmt>
+        <TotalNetAmt>63446</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3461SH DOW DUPONT</AssetDesc>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-02</SoldDt>
+        <GrossSalesPriceAmt>229954</GrossSalesPriceAmt>
+        <BasisAmt>90026</BasisAmt>
+        <TotalNetAmt>139928</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>3075SH ORACLE CORP</AssetDesc>
+        <AcquiredDt>2001-01</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-03</SoldDt>
+        <GrossSalesPriceAmt>143932</GrossSalesPriceAmt>
+        <BasisAmt>68626</BasisAmt>
+        <TotalNetAmt>75306</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>1500SH HOME DEPOT</AssetDesc>
+        <AcquiredDt>2004-05</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-03</SoldDt>
+        <GrossSalesPriceAmt>257335</GrossSalesPriceAmt>
+        <BasisAmt>54923</BasisAmt>
+        <TotalNetAmt>202412</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>SAFRA NATL BANK</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-04</SoldDt>
+        <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+        <BasisAmt>225000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO BANK</AssetDesc>
+        <AcquiredDt>2016-04</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-05</SoldDt>
+        <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+        <BasisAmt>225000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ORIENTAL BANK</AssetDesc>
+        <AcquiredDt>2016-05</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-05</SoldDt>
+        <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+        <BasisAmt>225000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>ALLY BANK</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>Purchased</HowAcquiredTxt>
+        <SoldDt>2018-07</SoldDt>
+        <GrossSalesPriceAmt>225000</GrossSalesPriceAmt>
+        <BasisAmt>225000</BasisAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="00000004">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SECURITIES- CHARLES SCHWAB</StockNm>
+        <EOYBookValueAmt>348788</EOYBookValueAmt>
+        <EOYFMVAmt>456124</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="00000005">
+      <OtherDecreasesDetail>
+        <Desc>INCOME TAXES</Desc>
+        <Amt>8926</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="00000006">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CLERICAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>172</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>172</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000007">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CHARLES SCHWAB MANAGEMENT FEES</CategoryTxt>
+        <Amt>19796</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

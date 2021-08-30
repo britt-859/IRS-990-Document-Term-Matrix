@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-21T14:26:11-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>621719416</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PINKSTAFF SIMPSON &amp; HEADRICK PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>8858 CEDAR SPRINGS LANE SUITE 5000</AddressLine1Txt>
+        <CityNm>KNOXVILLE</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37923</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>621772276</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WEST FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WEST</BusinessNameControlTxt>
+      <PhoneNum>8659709378</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>3450 AIRPORT HIGHWAY</AddressLine1Txt>
+        <CityNm>ALCOA</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37701</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEVE T WEST</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>8659709378</PhoneNum>
+      <SignatureDt>2019-02-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SCOTT L HEADRICK</PreparerPersonNm>
+      <PTIN>P01264154</PTIN>
+      <PhoneNum>8656907010</PhoneNum>
+      <PreparationDt>2019-02-21</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>173.164.10.141</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-21</IPDt>
+      <IPTm>14:26:11</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>902BFC2932EA1043B5DA29B6232F8E7638F9DDB4</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>81955A19B8D7C14E4B701CBC9549E2C478F8E57E</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1574068</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>1459276</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>4</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>4</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>28260</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>28260</DividendsNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>1434</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>1434</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>1434</NetRentalIncomeOrLossAmt>
+        <NetGainSaleAstRevAndExpnssAmt>55298</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>121046</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>55298</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>1544272</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>84996</TotalNetInvstIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc5">150</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>150</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc3">2185</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2185</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">7886</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>7886</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">240</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>93</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>10461</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7979</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2335</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>12000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>12000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>22461</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7979</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>14335</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1521811</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>77017</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4969</CashBOYAmt>
+        <CashEOYAmt>94526</CashEOYAmt>
+        <CashEOYFMVAmt>94526</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>146103</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">1244878</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1479542</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>151072</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1339404</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1574068</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>151072</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>1339404</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>151072</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1339404</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>151072</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1339404</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>151072</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1521811</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>1672883</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">333479</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1339404</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>131 SHS VANGUARD EMERGING</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2011-02-14</AcquiredDt>
+          <SoldDt>2018-06-29</SoldDt>
+          <GrossSalesPriceAmt>5431</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6035</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-604</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-604</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>198 SHS VANGUARD EMERGING</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-05-22</AcquiredDt>
+          <SoldDt>2018-09-11</SoldDt>
+          <GrossSalesPriceAmt>8012</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8335</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-323</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-323</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>28 SHS ISHARES RUSSELL MID CAP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-06</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>2418</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2003</CostOrOtherBasisAmt>
+          <GainOrLossAmt>415</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>415</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>62.639 SHS DODGE &amp; COX INTERNATIONAL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>2867</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1342</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1525</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1525</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>114.437 DODGE &amp; COX STOCK FUND</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>22670</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16241</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6429</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6429</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>160.0 ISHARES S&amp;P SMALL CAP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-04-07</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>24632</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10954</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13678</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13678</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>843.508 VANGUARD EQUITY INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>30400</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15377</CostOrOtherBasisAmt>
+          <GainOrLossAmt>15023</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>15023</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>292.504 VANGUARD MID-CAP INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-03-01</AcquiredDt>
+          <SoldDt>2018-05-04</SoldDt>
+          <GrossSalesPriceAmt>12370</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5461</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6909</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6909</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>55298</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>11822</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>225499</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.052426</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>9576</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>196187</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.048811</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>9202</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>193450</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.047568</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>8400</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>187373</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.044830</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>7400</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>169862</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.043565</DistributionYr5Rt>
+        <TotalDistributionRt>0.237200</TotalDistributionRt>
+        <AverageDistributionRt>0.047440</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1241609</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>58902</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>770</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>59672</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>14335</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1540</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1540</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1540</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc2">X</Form2220AttachedInd>
+        <EsPenaltyAmt>6</EsPenaltyAmt>
+        <TaxDueAmt>1546</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TN</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc8">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>TOM BARNES</IndividualWithBooksNm>
+        <PhoneNum>8659709378</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>3450 AIRPORT HIGHWAY</AddressLine1Txt>
+          <CityNm>ALCOA</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>37701</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVE T WEST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3450 AIRPORT HWY</AddressLine1Txt>
+            <CityNm>ALCOA</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37701</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RUTH L WEST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3450 AIRPORT HIGHWAY</AddressLine1Txt>
+            <CityNm>ALCOA</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES E WEST</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3450 AIRPORT HIGHWAY</AddressLine1Txt>
+            <CityNm>ALCOA</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37701</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRES</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>K RAY PINKSTAFF</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 31408</AddressLine1Txt>
+            <CityNm>KNOXVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37930</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1235342</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>25175</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1260517</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1260517</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>18908</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1241609</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>62080</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>62080</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1540</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1540</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>60540</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>60540</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>60540</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>14335</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>14335</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>14335</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>60540</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>8951</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>14335</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>8951</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>5384</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>55156</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>STEVE RUTH WEST</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>STEVE T WEST</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3450 AIRPORT HWY</AddressLine1Txt>
+            <CityNm>ALCOA</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37701</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8659709378</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>N/A</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>N/A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>N/A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>APPALACHIAN BALLET COMPANY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>215 W BROADWAY AVE</AddressLine1Txt>
+            <CityNm>MARYVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37801</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MISC</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARYVILLE ALCOA CIVITAN CLUB</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1006 WILLIAMS STREET</AddressLine1Txt>
+            <CityNm>MARYVILLE</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>37803</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(4)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SPECIAL PEROPLE'S PARK</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>12000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>4</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>28260</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>1434</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>55298</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>84996</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>84996</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>STEVE RUTH WEST</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3450 AIRPORT HWY</AddressLine1Txt>
+          <CityNm>ALCOA</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>37701</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>60073</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>THE RUSSELL WEST IRREVOCABLE TRUST</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>3450 AIRPORT HWY</AddressLine1Txt>
+          <CityNm>ALCOA</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>37701</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>1399203</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>135 SHS RUSSELL MID CAP</NoncashPropertyDesc>
+        <FairMarketValueAmt>28887</FairMarketValueAmt>
+        <ReceivedDt>2018-03-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>188 SHS RUSSELL 2000</NoncashPropertyDesc>
+        <FairMarketValueAmt>29798</FairMarketValueAmt>
+        <ReceivedDt>2018-03-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>864 SHS SPDR S&amp;P 500</NoncashPropertyDesc>
+        <FairMarketValueAmt>240097</FairMarketValueAmt>
+        <ReceivedDt>2018-03-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>1599 SHS VANGUARD FTSE MARKETS</NoncashPropertyDesc>
+        <FairMarketValueAmt>72003</FairMarketValueAmt>
+        <ReceivedDt>2018-03-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>501 SHS VANGUARD FTSE EMERGING</NoncashPropertyDesc>
+        <FairMarketValueAmt>24221</FairMarketValueAmt>
+        <ReceivedDt>2018-03-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>2</ContributorNum>
+        <NoncashPropertyDesc>VARIOUS MUTUAL FDS &amp;COMMON STOCK</NoncashPropertyDesc>
+        <FairMarketValueAmt>998725</FairMarketValueAmt>
+        <ReceivedDt>2018-04-30</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc3">
+      <AccountingFeesDetail>
+        <CategoryTxt>PREPARATION OF TAX RETURN</CategoryTxt>
+        <Amt>2185</Amt>
+        <DisbursementsCharitablePrpsAmt>2185</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL STOCK MKT</StockNm>
+        <EOYBookValueAmt>99509</EOYBookValueAmt>
+        <EOYFMVAmt>173832</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD EMERGING MARKET</StockNm>
+        <EOYBookValueAmt>23641</EOYBookValueAmt>
+        <EOYFMVAmt>18631</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD MSCI EAFE ETF</StockNm>
+        <EOYBookValueAmt>128217</EOYBookValueAmt>
+        <EOYFMVAmt>112561</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RUSSELL MID CAP</StockNm>
+        <EOYBookValueAmt>28887</EOYBookValueAmt>
+        <EOYFMVAmt>25099</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>RUSSELL 2000</StockNm>
+        <EOYBookValueAmt>29798</EOYBookValueAmt>
+        <EOYFMVAmt>25173</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR S&amp;P 500</StockNm>
+        <EOYBookValueAmt>240097</EOYBookValueAmt>
+        <EOYFMVAmt>215931</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>365931</EOYBookValueAmt>
+        <EOYFMVAmt>428758</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>COMMON STOCK</StockNm>
+        <EOYBookValueAmt>328798</EOYBookValueAmt>
+        <EOYFMVAmt>479557</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc5">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>150</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>150</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED GAIN</Desc>
+        <Amt>333479</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>MANAGEMENT FEES</CategoryTxt>
+        <Amt>7886</Amt>
+        <NetInvestmentIncomeAmt>7886</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc8">
+      <SubstantialContributorDetail>
+        <PersonNm>THE RUSSELL WEST IRREVOCABLE TRUST</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>3450 AIRPORT HWY</AddressLine1Txt>
+          <CityNm>ALCOA</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>37701</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>147</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>93</Amt>
+        <NetInvestmentIncomeAmt>93</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

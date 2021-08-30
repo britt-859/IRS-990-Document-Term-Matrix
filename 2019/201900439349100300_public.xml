@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-12T07:48:46-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>042561994</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KURZMAN DEMPSEY &amp; KOWALKER LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1017 TURNPIKE STREET SUITE 25</AddressLine1Txt>
+        <CityNm>CANTON</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02021</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>204002983</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SCHLAGER FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O ERIC SCHLAGER</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SCHL</BusinessNameControlTxt>
+      <PhoneNum>7817074123</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+        <CityNm>BOSTON</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>02116</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ERIC D SCHLAGER</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>7817074123</PhoneNum>
+      <SignatureDt>2019-01-28</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>STEPHEN A KURZMAN CPA</PreparerPersonNm>
+      <PTIN>P00062876</PTIN>
+      <PhoneNum>7818289420</PhoneNum>
+      <PreparationDt>2019-01-28</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>173.9.71.37</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-28</IPDt>
+      <IPTm>14:36:38</IPTm>
+      <IPTimezoneCd>ES</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>8B0F32096204234DD49702D3C8980A056D7DF5DD</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>3BDDFBE128F5D20B7359F178F1BC58149A037DAF</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>586156</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>263000</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>7642</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7642</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>13273</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>126585</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>13273</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>283915</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>20915</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>0</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>0</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2002200001">3000</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>3000</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>0</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc2002500001">299</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>299</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc2003200001">4100</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>4100</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>0</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>7399</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7399</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>250000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>250000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>257399</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7399</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>250000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>26516</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>13516</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>216742</CashBOYAmt>
+        <CashEOYAmt>230591</CashEOYAmt>
+        <CashEOYFMVAmt>230591</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>267701</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2018900001">280368</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>355565</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>484443</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>510959</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>586156</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>484443</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>510959</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>484443</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>510959</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>484443</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>510959</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>484443</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>26516</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>510959</SubtotalAmt>
+        <OtherDecreasesAmt>0</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>510959</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>S/T PER BROKER STATEMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>54712</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53152</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1560</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1560</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>L/T PER BROKER STATEMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>71873</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>60160</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11713</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11713</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>13273</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>0</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>250000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>361442</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.691674</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>455000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>138902</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>3.275691</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1049724</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>189834</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>5.529694</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>323932</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>263113</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>1.231152</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>388999</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>388521</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>1.001230</DistributionYr5Rt>
+        <TotalDistributionRt>11.729441</TotalDistributionRt>
+        <AverageDistributionRt>2.345888</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>555424</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>1302962</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>135</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>1303097</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>250000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>270</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>270</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>270</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>0</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>270</ExtsnRequestIncomeTaxPaidAmt>
+        <BackupWithholdingWithheldAmt>0</BackupWithholdingWithheldAmt>
+        <TotalPaymentsAndCreditsAmt>270</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <TaxDueAmt>0</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>0</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>0</MoreThan100SpentInd>
+        <Form1120POLFiledInd>0</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>0</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>0</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>0</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>1</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>1</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>1</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>0</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>0</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>0</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>1</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ERIC SCHLAGER</IndividualWithBooksNm>
+        <PhoneNum>7817074130</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02116</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>0</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>0</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>0</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>0</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>0</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>0</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>0</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>0</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>0</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>0</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>0</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>0</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>0</InfluenceLegislationInd>
+        <InfluenceElectionInd>0</InfluenceElectionInd>
+        <GrantsToIndividualsInd>0</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>0</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>0</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>0</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>0</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERIC D SCHLAGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02116</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ROBERT A SCHLAGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02116</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>S LAWRENCE SCHLAGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>125 EL MIRASOL</AddressLine1Txt>
+            <CityNm>PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33480</ZIPCd>
+          </USAddress>
+          <TitleTxt>CLERK AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JUDITH P SCHLAGER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>125 EL MIRASOL</AddressLine1Txt>
+            <CityNm>PALM BEACH</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33480</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASST. CLERK AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOAN SCHLAGER WEINSTEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>23 STONECROFT CIRCLE</AddressLine1Txt>
+            <CityNm>WESTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02493</ZIPCd>
+          </USAddress>
+          <TitleTxt>ASST. CLERK AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SUSAN C SKELLEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>65 DOVER STREET</AddressLine1Txt>
+            <CityNm>SOMERVILLE</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02144</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MYRA KOLTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>222B ALLANDALE ROAD</AddressLine1Txt>
+            <CityNm>CHESTNUT HILL</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02467</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.25</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <TotalAmt>0</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>340464</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>223418</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>563882</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>563882</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>8458</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>555424</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>27771</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>27771</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>270</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>270</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>27501</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>27501</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>27501</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>250000</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>250000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>250000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>27501</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>370075</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>312912</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1040784</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>448055</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>231977</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>2403803</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>250000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>27501</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>222499</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>2626302</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>370075</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>2256227</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>312912</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1040784</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>448055</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>231977</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>222499</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>ERIC D SCHLAGER</ContributingManagerNm>
+        <ContributingManagerNm>ROBERT A SCHLAGER</ContributingManagerNm>
+        <ContributingManagerNm>S LAWRENCE SCHLAGER</ContributingManagerNm>
+        <ContributingManagerNm>JUDITH P SCHLAGER</ContributingManagerNm>
+        <ContributingManagerNm>JOAN SCHLAGER WEINSTEN</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BRIGHAM &amp; WOMEN'S HOSPITAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>116 HUNTINGTON AVENUE</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02116</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR THE SCHLAGER FAMILY FOUNDATION RHEUMATOLOGY &amp; INNOVATION FUNDS</GrantOrContributionPurposeTxt>
+          <Amt>150000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMBINED JEWISH PHILANTHROPIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>126 HIGH STREET</AddressLine1Txt>
+            <CityNm>BOSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC CHARITY</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR THE UNRESTRICTED USE BY RECIPIENTS</GrantOrContributionPurposeTxt>
+          <Amt>100000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>250000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7642</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>13273</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>0</UnrelatedBusinessTaxblIncmAmt>
+          <ExclusionAmt>7642</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>13273</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>20915</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>8</LineNumberTxt>
+          <RelationshipStatementTxt>SALE OF STOCK WAS TO PROVIDE CASH FLOW TO ACCOMPLISH PURPOSE OF EXEMPT ORGANIZATION-CHARITABLE, SCIENTIFIC, LITERARY OR EDUCATIONAL PURPOSES</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>0</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>0</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>0</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>0</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>0</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>0</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>0</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>0</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>0</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>0</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>ROBERT A SCHLAGER</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>5 CARTHAY CIRCLE</AddressLine1Txt>
+          <CityNm>NEWTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02461</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>175000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>ERIC D SCHLAGER</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>445 CONCORD ROAD</AddressLine1Txt>
+          <CityNm>WESTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02493</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>33000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>S LAWRENCE AND JUDITH P SCHLAGER</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>125 EL MIRASOL</AddressLine1Txt>
+          <CityNm>PALM BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33480</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>47500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1Txt>JOAN SCHLAGER WEINSTEN</BusinessNameLine1Txt>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1Txt>23 STONEGATE CIRCLE</AddressLine1Txt>
+          <CityNm>WESTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02493</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>7500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING</CategoryTxt>
+        <Amt>3000</Amt>
+        <NetInvestmentIncomeAmt>3000</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>277 SHARES ABBOTT LABORATORIES</StockNm>
+        <EOYBookValueAmt>11895</EOYBookValueAmt>
+        <EOYFMVAmt>16894</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>101 SHARES ACCENTURE PLC A</StockNm>
+        <EOYBookValueAmt>11231</EOYBookValueAmt>
+        <EOYFMVAmt>16523</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>031 SHARES BLACKROCK INC.</StockNm>
+        <EOYBookValueAmt>12509</EOYBookValueAmt>
+        <EOYFMVAmt>15470</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>062 SHARES BROADCOM INC.</StockNm>
+        <EOYBookValueAmt>14675</EOYBookValueAmt>
+        <EOYFMVAmt>15044</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>444 SHARES CISCO SYSTEMS INC.</StockNm>
+        <EOYBookValueAmt>13926</EOYBookValueAmt>
+        <EOYFMVAmt>19105</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>171 SHARES ELI LILLY &amp; CO</StockNm>
+        <EOYBookValueAmt>13821</EOYBookValueAmt>
+        <EOYFMVAmt>14591</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>090 SHARES EQUIFAX INC</StockNm>
+        <EOYBookValueAmt>10832</EOYBookValueAmt>
+        <EOYFMVAmt>11260</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>079 SHARES HOME DEPOT</StockNm>
+        <EOYBookValueAmt>9664</EOYBookValueAmt>
+        <EOYFMVAmt>15413</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>087 SHARES ILLINOIS TOOL WORKS</StockNm>
+        <EOYBookValueAmt>11827</EOYBookValueAmt>
+        <EOYFMVAmt>12053</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>124 SHARES JOHNSON &amp; JOHNSON</StockNm>
+        <EOYBookValueAmt>13047</EOYBookValueAmt>
+        <EOYFMVAmt>15046</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>161 SHARES MARSH &amp; MCLENNAN COS</StockNm>
+        <EOYBookValueAmt>13530</EOYBookValueAmt>
+        <EOYFMVAmt>13197</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>082 SHARES MCDONALD'S CORP</StockNm>
+        <EOYBookValueAmt>10968</EOYBookValueAmt>
+        <EOYFMVAmt>12848</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>210 SHARES MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>11690</EOYBookValueAmt>
+        <EOYFMVAmt>20708</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>270 SHARES MORGAN STANLEY</StockNm>
+        <EOYBookValueAmt>13288</EOYBookValueAmt>
+        <EOYFMVAmt>12798</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>068 SHARES NEXTERA ENERBY INC.</StockNm>
+        <EOYBookValueAmt>8559</EOYBookValueAmt>
+        <EOYFMVAmt>11358</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>151 SHARES NIKE INC.</StockNm>
+        <EOYBookValueAmt>8320</EOYBookValueAmt>
+        <EOYFMVAmt>12032</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>050 SHARES NORTHROP GRUMMAN CORP</StockNm>
+        <EOYBookValueAmt>12404</EOYBookValueAmt>
+        <EOYFMVAmt>15385</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>145 SHARES PEPSICO INC.</StockNm>
+        <EOYBookValueAmt>14489</EOYBookValueAmt>
+        <EOYFMVAmt>15786</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>170 SHARES PHILLIPS 66</StockNm>
+        <EOYBookValueAmt>13103</EOYBookValueAmt>
+        <EOYFMVAmt>19093</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>127 SHARES PNC FINANCIAL SERVICES GROUP</StockNm>
+        <EOYBookValueAmt>13492</EOYBookValueAmt>
+        <EOYFMVAmt>17158</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>036 SHARES SHERWIN-WILLIAMS</StockNm>
+        <EOYBookValueAmt>10763</EOYBookValueAmt>
+        <EOYFMVAmt>14672</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>168 SHARES TEXAS INSTRUMENTS INC.</StockNm>
+        <EOYBookValueAmt>14135</EOYBookValueAmt>
+        <EOYFMVAmt>18522</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>084 SHARES UNITEDHEALTH GROUP INC.</StockNm>
+        <EOYBookValueAmt>12200</EOYBookValueAmt>
+        <EOYFMVAmt>20609</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpensesScheduleGrp>
+        <Desc>ASSET MANAGEMENT FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>4100</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4100</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributorDetail>
+        <PersonNm>S LAWRENCE SCHLAGER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>125 EL MIRASOL</AddressLine1Txt>
+          <CityNm>PALM BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33480</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>JUDITH A SCHLAGER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>125 EL MIRASOL</AddressLine1Txt>
+          <CityNm>PALM BEACH</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33480</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>ERIC D SCHLAGER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02116</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>ROBERT A SCHLAGER</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02116</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>BULL VENTURES LIMITED PARTNERSHIP</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>116 HUNTINGTON AVE - SUITE 600</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02116</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <TaxesDetail>
+        <CategoryTxt>TAXES - STATE REGISTRATION FEE AND ANNUAL REPORTS</CategoryTxt>
+        <Amt>250</Amt>
+        <NetInvestmentIncomeAmt>250</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAXES - FEDERAL PRIOR YEAR BALANCE DUE</CategoryTxt>
+        <Amt>49</Amt>
+        <NetInvestmentIncomeAmt>49</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

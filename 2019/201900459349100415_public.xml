@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-14T14:32:55-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>WithumSmithBrown PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>200 Jefferson Park Suite 400</AddressLine1Txt>
+        <CityNm>Whippany</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>079811070</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>203693012</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>RAYMOND F SCHINAZI &amp; FAMILY FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>INC</BusinessNameLine2Txt>
+      </BusinessName>
+      <InCareOfNm>% RAYMOND F SCHINAZI</InCareOfNm>
+      <BusinessNameControlTxt>RAYM</BusinessNameControlTxt>
+      <PhoneNum>4048161104</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1860 MONTREAL ROAD</AddressLine1Txt>
+        <CityNm>TUCKER</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30084</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RAYMOND F SCHINAZI</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <SignatureDt>2019-02-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Elizabeth M Gelson</PreparerPersonNm>
+      <PTIN>P00671920</PTIN>
+      <PhoneNum>9738989494</PhoneNum>
+      <PreparationDt>2019-02-14</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>148.77.36.74</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>22006220190455000056</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-14</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>0531270B1DA56B8244292F614D6E05A87CA2A4CF</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>B4F49B62ABB70139397F9A781BA9C9E9BE652F2C</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>27161626</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>2999884</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>547643</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>547643</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>271547</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>406573</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>271547</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">45063</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>45063</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>3864137</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>864253</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">40670</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>31316</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>9354</AccountingFeesChrtblPrpsAmt>
+        <InterestRevAndExpnssAmt>110</InterestRevAndExpnssAmt>
+        <InterestNetInvstIncmAmt>110</InterestNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">122386</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>122356</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>163166</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>153782</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>9354</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>1088214</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>1088214</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>1251380</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>153782</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>1097568</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>2612757</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>710471</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>244209</CashBOYAmt>
+        <CashEOYAmt>596873</CashEOYAmt>
+        <CashEOYFMVAmt>596873</CashEOYFMVAmt>
+        <CorporateStockBOYAmt>14059112</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">16349513</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>21836916</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>2762579</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">2375063</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>2265211</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>1836515</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">2123724</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2343039</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">19587</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">119587</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">119587</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>18922002</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>21564760</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>27161626</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>0</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>30000</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>30000</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>12873903</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>12873902</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>6048100</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>8660858</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>18922003</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21534760</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>18922003</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>21564760</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>18922003</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>2612757</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>21534760</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>21534760</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #12945</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <GrossSalesPriceAmt>379</GrossSalesPriceAmt>
+          <GainOrLossAmt>379</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>379</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #11454</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <CostOrOtherBasisAmt>84110</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-84110</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-84110</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #13556</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <CostOrOtherBasisAmt>3071</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3071</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3071</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY OTHERS</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <GrossSalesPriceAmt>85525</GrossSalesPriceAmt>
+          <GainOrLossAmt>85525</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>85525</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #12945</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <CostOrOtherBasisAmt>18798</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-18798</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-18798</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #11454</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <CostOrOtherBasisAmt>19588</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-19588</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-19588</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #13556</PropertyDesc>
+          <HowAcquiredCd>D</HowAcquiredCd>
+          <GrossSalesPriceAmt>8794</GrossSalesPriceAmt>
+          <GainOrLossAmt>8794</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>8794</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MORGAN STANLEY #14065</PropertyDesc>
+          <GrossSalesPriceAmt>311860</GrossSalesPriceAmt>
+          <GainOrLossAmt>302401</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>311860</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>15</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>271547</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>1166453</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>22343265</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.052206</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>1081682</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>23352152</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.04632</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>1140672</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>22276783</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.051205</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>388365</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>15724806</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.024698</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>420172</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>9866296</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.042587</DistributionYr5Rt>
+        <TotalDistributionRt>0.217016</TotalDistributionRt>
+        <AverageDistributionRt>0.043403</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>24885761</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>1080117</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>7105</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>1087222</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>1097568</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>7105</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>7105</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7105</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>77751</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>77751</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>70646</OverpaymentAmt>
+        <AppliedToESTaxAmt>70646</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <Section4955OrganizationTaxAmt>0</Section4955OrganizationTaxAmt>
+        <Section4955ManagersTaxAmt>0</Section4955ManagersTaxAmt>
+        <TaxReimbursedAmt>0</TaxReimbursedAmt>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>RAYMOND F SCHINAZI</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>4048161104</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1860 MONTREAL ROAD</AddressLine1Txt>
+          <CityNm>TUCKER</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30084</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RAYMOND F SCHINAZI</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1100 BISCAYNE BLVD APT 2101</AddressLine1Txt>
+            <CityNm>MIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33122</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NICHOLAS GUTTRIDGE</PersonNm>
+          <ForeignAddress>
+            <AddressLine1Txt>111 ST JAMES RD</AddressLine1Txt>
+            <CityNm>STRAFORD</CityNm>
+            <ProvinceOrStateNm>LONDON</ProvinceOrStateNm>
+            <CountryCd>UK</CountryCd>
+            <ForeignPostalCd>E15</ForeignPostalCd>
+          </ForeignAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Nadira Schinazi</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1100 BISCAYNE BLVD APT 2101</AddressLine1Txt>
+            <CityNm>mIAMI</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33122</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>24774604</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>420541</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>69587</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>25264732</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>25264732</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>378971</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>24885761</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1244288</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1244288</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>7105</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>7105</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>1237183</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1237183</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1237183</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>1097568</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>1097568</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>7105</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>1090463</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1237183</DistributableAsAdjustedAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <ExcessDistributionCyovYr3Amt>52956</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr1Amt>60556</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>113512</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>1097568</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>1097568</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>113512</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>113512</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>26103</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>RAYMOND F SCHINAZI</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE ATTACHED STATEMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>C/O 1860 MONTREAL ROAD</AddressLine1Txt>
+            <CityNm>TUCKER</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30084</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROGRAM SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>1088214</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>1088214</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>547643</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>45063</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>271547</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>864253</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>864253</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>RAYMOND F SCHINAZI</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>1100 BISCAYNE BOULEVARD APT 2101</AddressLine1Txt>
+          <CityNm>MIAMI</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33132</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>2999884</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>27,404 SHS GILEAD SCIENCE STOCK, 10,361 SHS INCYTE CORP. STOCK.</NoncashPropertyDesc>
+        <FairMarketValueAmt>2999884</FairMarketValueAmt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>40670</Amt>
+        <NetInvestmentIncomeAmt>31316</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>9354</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>MORGAN STANLEY #13556</BondNm>
+        <EOYBookValueAmt>2375063</EOYBookValueAmt>
+        <EOYFMVAmt>2265211</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY #12945</StockNm>
+        <EOYBookValueAmt>12442048</EOYBookValueAmt>
+        <EOYFMVAmt>17074161</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY #14065</StockNm>
+        <EOYBookValueAmt>3003523</EOYBookValueAmt>
+        <EOYFMVAmt>3582264</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MORGAN STANLEY #11454</StockNm>
+        <EOYBookValueAmt>903942</EOYBookValueAmt>
+        <EOYFMVAmt>1180491</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY #14085</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>1623724</BookValueAmt>
+        <EOYFMVAmt>1753068</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MORGAN STANLEY #16129</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>500000</BookValueAmt>
+        <EOYFMVAmt>589971</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>DUE FROM R.F. SCHINAZI</Desc>
+        <BOYBookValueAmt>7937</BOYBookValueAmt>
+        <EOYBookValueAmt>7937</EOYBookValueAmt>
+        <EOYFMVAmt>7937</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Due from Los Cabos Jewish Comm</Desc>
+        <BOYBookValueAmt>11650</BOYBookValueAmt>
+        <EOYBookValueAmt>11650</EOYBookValueAmt>
+        <EOYFMVAmt>11650</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>DUE FROM SOMALOGIC</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>100000</EOYBookValueAmt>
+        <EOYFMVAmt>100000</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES FROM PASSTHROUGHS</Desc>
+        <RevenueAndExpensesPerBooksAmt>46837</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>46837</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK SERVICE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>75519</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>75519</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LICENSE FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>30</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>BLACKSTONE REAL ESTATE DEBT</Desc>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>STRATEGIES III TE FEEDER LP</Desc>
+        <RevenueAndExpensesPerBooksAmt>30715</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>30715</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>BLACKSTONE REAL ESTATE DEBT</Desc>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>STRATEGIES II ONSHORE FEEDER</Desc>
+        <RevenueAndExpensesPerBooksAmt>14348</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>14348</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

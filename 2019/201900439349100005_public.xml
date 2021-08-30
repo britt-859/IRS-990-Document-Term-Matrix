@@ -1,0 +1,1458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-12T11:07:29-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>911664674</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>LEWIS GROUP CPAS PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>600 NE 99TH ST</AddressLine1Txt>
+        <CityNm>VANCOUVER</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>986655901</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>916369053</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HIDDEN CHARITABLE TRUST</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HIDD</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>2610 KAUFFMAN AVENUE</AddressLine1Txt>
+        <CityNm>VANCOUVER</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98660</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RICHARD HIDDEN</PersonNm>
+      <PersonTitleTxt>CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>3606964421</PhoneNum>
+      <SignatureDt>2019-01-31</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHRIS LEWIS CPA</PreparerPersonNm>
+      <PTIN>P00450955</PTIN>
+      <PhoneNum>3608968221</PhoneNum>
+      <PreparationDt>2019-01-30</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>24.20.241.104</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-12</IPDt>
+      <IPTm>11:07:29</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>0A469F55A34CF17FE093156F0CABF043BABBC48F</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>3454508F0D24CAFCD54E1370EA87BD7A42DB1AB2</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>114414</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>24</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>24</InterestOnSavNetInvstIncmAmt>
+        <GrossRentsRevAndExpnssAmt>138319</GrossRentsRevAndExpnssAmt>
+        <GrossRentsNetInvstIncmAmt>138319</GrossRentsNetInvstIncmAmt>
+        <NetRentalIncomeOrLossAmt>120301</NetRentalIncomeOrLossAmt>
+        <TotalRevAndExpnssAmt>138343</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>138343</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">1350</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1350</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">1931</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="RetDoc3">1858</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>1858</DeprecAndDpltnNetInvstIncmAmt>
+        <OccupancyRevAndExpnssAmt>12576</OccupancyRevAndExpnssAmt>
+        <OccupancyNetInvstIncmAmt>12576</OccupancyNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">2234</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2234</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>19949</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>18018</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>120040</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>120040</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>139989</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>18018</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>120040</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-1646</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>120325</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1295</CashBOYAmt>
+        <CashEOYAmt>1507</CashEOYAmt>
+        <CashEOYFMVAmt>1507</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>1444</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>1444</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>1444</SavAndTempCashInvstEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>111463</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>27360</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>85961</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="RetDoc4">84103</LandEOYAmt>
+        <LandEOYFMVAmt>111463</LandEOYFMVAmt>
+        <TotalAssetsBOYAmt>88700</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>87054</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>114414</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>88700</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>87054</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>88700</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>87054</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>88700</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>87054</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>88700</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-1646</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>87054</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>87054</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>54837</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>87054</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.629919</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>70406</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>88700</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.793754</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>90544</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>65685</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>1.378458</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>67680</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>69350</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.975919</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>62179</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>53605</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>1.159948</DistributionYr5Rt>
+        <TotalDistributionRt>4.937998</TotalDistributionRt>
+        <AverageDistributionRt>0.987600</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1203</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>1203</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>120040</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1203</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1203</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1203</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1000</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1000</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>203</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>RICHARD HIDDEN</IndividualWithBooksNm>
+        <PhoneNum>3606964421</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2610 KAUFFMAN AVENUE</AddressLine1Txt>
+          <CityNm>VANCOUVER</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98660</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>NAOMI HIDDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2610 KAUFFMAN AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>RICHARD HIDDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2610 KAUFFMAN AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>OLIVER HIDDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2610 KAUFFMAN AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </USAddress>
+          <TitleTxt>V. CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONNA HIDDEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2610 KAUFFMAN AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JIM CROMER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6800 NE PARR LANE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98662</ZIPCd>
+          </USAddress>
+          <TitleTxt>BOARD MEMBER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>RESTORATION, MAINTENANCE AND MANAGEMENT OF THE "HIDDEN HOUSE" AS A HISTORICAL LANDMARK.</Description1Txt>
+        <Description2Txt>PROVIDE SUPPORT TO THE "FRIENDS OF VANCOUVER SYMPHONY" AN ORGANIZATION DEVOTED TO SERVING VANCOUVER, WA AS A MUSICAL AND EDUCATIONAL RESOURCE.</Description2Txt>
+        <Description3Txt>PROVIDE SUPPORT TO WASHINGTON STATE UNIVERSITY, VANCOUVER, WA CAMPUS, A FOUR YEAR EDUCATIONAL INSTITUTION SERVING SOUTHWEST WASHINGTON.</Description3Txt>
+        <Description4Txt>PROVIDE SUPPORT TO CLARK COLLEGE. A COMMUNITY COLLEGE SERVING SOUTHWEST WASHINGTON.</Description4Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>0</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>0</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>0</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>0</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>0</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <TaxBasedOnInvestmentIncomeAmt>1203</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1203</TotalTaxAmt>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>120040</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>120040</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1203</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>118837</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>0</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>62670</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>68528</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>91430</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>71032</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>55734</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>349394</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>120040</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>120040</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>469434</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>62670</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>406764</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>68528</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>91430</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>71032</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>55734</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>120040</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>RICHARD M HIDDEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>HIDDEN CHARITABLE TRUST</AddressLine1Txt>
+            <AddressLine2Txt>2610 KAUFFMAN AVE</AddressLine2Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3606964421</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>8</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS AND GIRLS CLUB OF SO</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1511 NE ANDRESEN ROAD</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98665</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND PROGRAMS TO ASSIST LOCAL YOU</GrantOrContributionPurposeTxt>
+          <Amt>8200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLARK COUNTY HISTORICAL SOCIETY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1511 MAIN ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>RECORD AND MAINTAIN CLARK COUNTY H</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLARK COLLEGE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1933 FORT VANCOUVER WAY</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98663</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CLARK COUNTY FOOD BANK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 61833</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98666</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOOD FOR HUNGRY</GrantOrContributionPurposeTxt>
+          <Amt>9000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COUNCIL FOR THE HOMELESS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4921 NE HAZEL DELL AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98663</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND VANCOUVER HOMELESS PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DAYBREAK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 E 8TH ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEEN DRUG REHAB</GrantOrContributionPurposeTxt>
+          <Amt>8300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FREE CLINIC OF SW WA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4100 PLOMODON</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE MEDICAL CARE</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEALS ON WHEELS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1009 E MCLOUGHLIN BLVD</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98663</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE MEALS TO SENIORS</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MEDICAL TEAM INTERNATIONAL</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 10</AddressLine1Txt>
+            <CityNm>PORTLAND</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97207</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST IN FUNDING EMERGENCY RELIE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OCEAN PARK RETREAT CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX C</AddressLine1Txt>
+            <CityNm>OCEAN PARK</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98640</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HOST NON-PROFIT GROUPS</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPEN HOUSE MINISTRIES</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>900W 12TH STREET</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98666</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO SUPPORT EDUCATIONAL &amp; SPECIAL NEE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPTION 360 PREGNANCY CLINIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5500 NE 109TH CT C</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98662</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>UNINTENDED PREGNANCY RESOURCES</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALVATION ARMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7509 NE 47TH AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PROVIDE FOOD AND CLOTHING TO THE NEE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEAFARERS CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3405 NW HARBORSIDE DRIVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND PROGRAMS SERVING SPECIAL NEE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHAREVANCOUVER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1115 W 13TH ST</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>LEAD HUNGRY &amp; HOMELESS TO SELF-SUFFI</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VANCOUVER WOMEN'S FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1053 OFFICERS ROW</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST WOMEN IN NEED IN VANCOUVER</GrantOrContributionPurposeTxt>
+          <Amt>4040</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WA STATE UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>14204 NE SALMON CREEK AVE</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98686</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST IN FUNDING SCHOLARSHIPS FO</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YWCA SAFECHOICE SHELTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3609 MAIN STREET</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98663</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND SPECIAL NEEDS PROGRAMS FOR V</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHILDREN'S CENTER OF VANCOUVER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>13500 SE 7TH STREET</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98683</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO ASSIST CHILDREN IN VANCOUVER</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOUGH FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>205 E 11TH STREET STE 20</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98660</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO FUND LOCAL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SALMON CREEK HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 5245</AddressLine1Txt>
+            <CityNm>VANCOUVER</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98668</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NON-PROFIT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TO PROVIDE MEDICAL CARE</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>120040</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <RelatedOrExemptFunctionIncmAmt>24</RelatedOrExemptFunctionIncmAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCd>16</ExclusionCd>
+          <ExclusionAmt>120301</ExclusionAmt>
+        </NetRntlIncmReNotDebtFincdProp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>120301</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>24</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>120325</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>3</LineNumberTxt>
+          <RelationshipStatementTxt>INTEREST AND RENTAL INCOME IS USED TO MAINTAIN AND RESTORE</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>5B</LineNumberTxt>
+          <RelationshipStatementTxt>THE "HIDDEN HOUSE", A HISTORICAL LANDMARK. ANY FUNDS OR RESERVES NOT NEEDED FOR THIS PURPOSE ARE DONATED TO LOCAL COMMUNITY CHARITABLE ORGANIZATIONS AND EDUCATIONAL GOALS OF THE TRUST.</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>RENTAL</CategoryTxt>
+        <Amt>1350</Amt>
+        <NetInvestmentIncomeAmt>1350</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="RetDoc3">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>54 OAK ROLLTOP DESK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>375</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>375</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CASH DRAWER &amp; CREDIT CARD TERMINAL</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>42 OAK 2D DISPLAY CABINET</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>167</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>UPHOLSTERED ARM CHAIR</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>100</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>PLEASE WAIT TO BE SEATED WOOD SIGN</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TALL OAK LIGHTED CURIO DISPLAY CABINET</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>146</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>146</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(12)42 DIA. WOOD PEDESTAL GLASS TOP TABLES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>400</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>400</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)60 X36 OAK PARQUET GLASS TOP TABLES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>125</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)60 X36 WOOD W/GLASS TOP DINING TABLES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>100</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(64)OAK DINING CHAIRS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>1601</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>1601</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)SMALL METAL TABLES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>50</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>50</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(17)TABLE CANDLE HOLDERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SALT &amp; PEPPER SHAKERS, WALL HANGINGS, PLANTS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>146</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>146</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>OAK HIGH CHAIR</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TRAY STANDS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BRASS FIREPLACE SCREEN</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)HARDWOOD SIDEBOARD/DESKS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(4)BRASS CANDLESTICK HOLDERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>33</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>33</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)SMALL PLANT STANDS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LARGE 15-PEG HALLWAY COAT RACK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>STARMASTER DUAL SOUP WARMER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)MINI REFRIGERATORS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>JOHNSON BROTHERS ENGLISH TABLEWARE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>3 PANEL SCREEN</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>38</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>38</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)RUBBERMAID BUS CARTS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>GLASSWARE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>125</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4 NOZZLE SODA DISPENSING SYSTEM</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WATER DISPENSER, PASS THROUGH COUNTER/EXHAUST</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>125</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>36 GAS-FIRED GRILL W/20 OVEN</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>167</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)DUAL GAS FIRED POT STOVES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>24 GAS FIRED STEAK BROILER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>188</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>188</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ALUMINUM COOKWARE, SAUCEPANS, POTS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>146</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>146</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)WYOTT 14 X23 FOOD WARMERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)POLY PREP BOARDS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TRUE 28 S/S SANDWICH PREP STATION W/COOLER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RANDELL 48 S/S SANDWICH PREP STATION W/COOLE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>333</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>333</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>JACKSON 200 SERIES DISHWASHING SYSTEM W/DISP.</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>417</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>417</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>S/S INSERTS, LIDS, BOWLS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>188</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>188</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>UTENSILS AND CUTLERY</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>KITCHEN AID MIXMASTER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>17</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>17</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROBOT COUPE FOOD PROCESSOR</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>25</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>25</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>AMANA COMMERCIAL MICROWAVE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>100 S/S PREP COUNTER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>63</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>63</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>91 S/S SERVICE COUNTER W/NSF SINK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(5)FOLDING TABLES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>63</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>63</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>84 S/S DUAL COMPARTMENT NSF SINK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>146</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>146</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HUSSMAN PEPSI SINGLE DOOR DISPLAY COOLER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CORNELIUS PEPSI SLIDING DOOR DISPLAY COOLER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)35 UPRIGHT FREEZERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>100</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>100</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>90 S/S PREP STATION W/NSF SINK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>167</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SANITARY DELI SLICER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>167</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HOBART STEAKMASTER CUBER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>125</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LARGE MIXER/GRINDER W/ATTACHMENTS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>36 S/S MIXING BOWL</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)GE REGRIGERATORS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>17</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>17</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>RADAR RANGE MICROWAVE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>28 X42 W/W EQUIPMENT STAND</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>6 BURNER ELECTRIC POT STOVE W/OVEN &amp; HOOD</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(4)FOOD SCALES</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>33</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>33</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HEAT LAMP</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>17</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>17</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>CAN OPENER, CAKE PANS, BAKING TRAYS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>104</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>104</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>MANITOWOC SERIES 400 ICE MAKER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>WESTINGHOUSE LARGE CHEST FREEZER</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>FOOD SERVICE WARMERS, BASKET, TRAYS, UTENSILS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>250</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>250</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ALUMINUM PROOFING CABINET</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)METAL KITCHEN RACKS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>63</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>63</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>36 WIDE METAL RACK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>METAL EMPLOYEE LOCKER UNIT W/8 LOCKERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>EMERSON STEREO SYSTEM W/RECEIVER &amp; SPEAKERS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>48 RED KITCHEN TABLE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(10)BROKEN OAK CHAIRS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>HON 4D METAL FILING CABINET</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>L OFFICE WORKSTATION</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>PC SYSTEM</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>21</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>21</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)SHARP CALCULATORS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>SECURITY SYSTEM W/MONITORS &amp; CAMERAS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>83</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>83</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>6' BOOKCASE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>13</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>5' METAL DESK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>4' DESK</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>4</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>4</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(2)BRASS DESK LAMPS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>TELEPHONE &amp; INTERCOM</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2D METAL FILING CABINET</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>8</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>8</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)OFFICE CHAIRS</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>75</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>75</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>COPYSTAR CS-1810 ON WOOD STAND</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>167</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>167</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>(3)CARPET PROTECTORS, CHAIR, CLOSET LIGHT, BO</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>42</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>42</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>POLY PATIO FURNITURE</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>125</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>125</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>7.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>1981 FORD ECONOLINE 150 CARGO VAN</PropertyDesc>
+        <AcquiredDt>2002-06-19</AcquiredDt>
+        <CostOrOtherBasisAmt>497</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>497</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>1304 MAIN ST. SUPPLIES</PropertyDesc>
+        <AcquiredDt>2005-12-29</AcquiredDt>
+        <CostOrOtherBasisAmt>296</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>296</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>5.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>BUILDING- 100 W 13TH</PropertyDesc>
+        <AcquiredDt>1995-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>11470</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>11470</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>200DB</ComputationMethodTxt>
+        <LifeRt>10.0000</LifeRt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAND</PropertyDesc>
+        <AcquiredDt>1995-01-01</AcquiredDt>
+        <CostOrOtherBasisAmt>17230</CostOrOtherBasisAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>ROOF - 100 W. 13TH</PropertyDesc>
+        <AcquiredDt>2013-10-10</AcquiredDt>
+        <CostOrOtherBasisAmt>30000</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>3237</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>769</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>769</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LH IMPROVEMENTS - 100 W 13TH</PropertyDesc>
+        <AcquiredDt>2017-07-01</AcquiredDt>
+        <CostOrOtherBasisAmt>42467</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>499</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>S/L</ComputationMethodTxt>
+        <LifeRt>39.0000</LifeRt>
+        <CurrentYearExpenseAmt>1089</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>1089</NetInvestmentIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <LandEtcSchedule2 documentId="RetDoc4">
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>94233</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>27360</AccumulatedDepreciationAmt>
+        <BookValueAmt>66873</BookValueAmt>
+        <EOYFMVAmt>94233</EOYFMVAmt>
+      </LandEtcGrp>
+      <LandEtcGrp>
+        <CostOrOtherBasisAmt>17230</CostOrOtherBasisAmt>
+        <BookValueAmt>17230</BookValueAmt>
+        <EOYFMVAmt>17230</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>RENTAL</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INSURANCE</Desc>
+        <RevenueAndExpensesPerBooksAmt>2111</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2111</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>123</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>123</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>FIT</CategoryTxt>
+        <Amt>1931</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

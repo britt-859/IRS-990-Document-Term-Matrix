@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-07T10:33:10-07:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>820382813</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SCHILLER &amp; FLORENCE CHTD CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1880 W JUDITH LN STE 200</AddressLine1Txt>
+        <CityNm>BOISE</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>83705</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>467092753</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WILLIAM AND MARTHA MOSELEY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WILL</BusinessNameControlTxt>
+      <PhoneNum>2089082928</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2438 E HERBERT DRIVE</AddressLine1Txt>
+        <CityNm>BOISE</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>83706</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>M CHRISTINE HAYS</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2089082928</PhoneNum>
+      <SignatureDt>2019-01-03</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JEFFREY J SCHILLER</PreparerPersonNm>
+      <PTIN>P01245276</PTIN>
+      <PhoneNum>2083365243</PhoneNum>
+      <PreparationDt>2019-01-03</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>63.228.188.162</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-07</IPDt>
+      <IPTm>11:33:10</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>D3DE5DA4490C23458446C122A6F5E15C3B489363</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>FE6B6EF2B0C741B959244D58054722A3EB5E1648</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc9">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2311882</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>14161</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>6361</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>40442</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>40442</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc2">305612</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1187903</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc6">146</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>146</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>360361</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>46949</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">2605</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2605</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>2605</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc7">26009</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>26009</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>26009</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc8">1273</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1273</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>1273</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>29887</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>29887</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>29887</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>150000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>150000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>179887</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>29887</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>29887</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>150000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>180474</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>17062</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>85899</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>93673</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>93673</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>315762</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc5">224582</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>220785</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1453897</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">1642905</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1801172</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>133155</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">208027</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>196252</CorporateBondsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1988713</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2169187</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2311882</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>1988713</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>2169187</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1988713</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2169187</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1988713</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2169187</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1988713</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>180474</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2169187</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2169187</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>119000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2218604</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.053637</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>117876</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2142043</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.055030</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>117756</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2198905</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.053552</DistributionYr3Rt>
+        <NetVlNoncharitableAssetsYr4Amt>1139552</NetVlNoncharitableAssetsYr4Amt>
+        <TotalDistributionRt>0.162219</TotalDistributionRt>
+        <AverageDistributionRt>0.054073</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2284871</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>123550</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>171</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>123721</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>150000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>171</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>171</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>171</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>171</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>ID</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NONE</WebsiteAddressTxt>
+        <IndividualWithBooksNm>M CHRISTINE HAYS</IndividualWithBooksNm>
+        <PhoneNum>2089082928</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>2438 E HERBERT DRIVE</AddressLine1Txt>
+          <CityNm>BOISE</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>83703</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>M CHRISTINE HAYS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2438 E HERBERT DRIVE</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83703</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBARA A SULLIVAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5049 BROOKMEADOW WAY</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83713</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM H MOSELEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>859 SUNNYHILLS RD</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94610</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NONE</Description1Txt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1782802</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>100300</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>436564</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2319666</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2319666</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>34795</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2284871</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>114244</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>114244</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>171</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>171</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>114073</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>114073</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>114073</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>150000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>150000</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>171</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>149829</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>114073</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>29371</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>150000</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>29371</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>114073</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>6556</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>6556</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>6556</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>6556</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BOYS AND GIRLS CLUB ADA COUNTY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>610 E 42ND STREET</AddressLine1Txt>
+            <CityNm>GARDEN CITY</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83714</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>40000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PIERRES BIRTHDAY FUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5637 MASONIC AVENUE</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94618</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BIKE EAST BAY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1736</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94604</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ZOO BOISE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>355 JULIA DAVIS DRIVE</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LAKEWOOD MONTESSORI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>133 EAST LINDEN</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83706</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DISCOVERY CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>131 W MYRTLE STREET</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83702</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>YOSEMITE CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 MONTGOMERY ST STE1700</AddressLine1Txt>
+            <CityNm>SAN FRANCISCO</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FOOTHILLS SCHOOL OF ART &amp; SCIENCE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5008 PIERCE PARK LANE</AddressLine1Txt>
+            <CityNm>BOISE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83703</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SIX RIVERS MONTESSORI</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>134 ESTHER LANE</AddressLine1Txt>
+            <CityNm>ARCATA</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95521</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>BLINK NOW FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 453</AddressLine1Txt>
+            <CityNm>MENDHAM</CityNm>
+            <StateAbbreviationCd>NJ</StateAbbreviationCd>
+            <ZIPCd>079450453</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ACLU FOUNDATION INC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>125 BROAD STREET 18TH FLO</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10004</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PLANNED PARENTHOOD FEDERATION OF AM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 97166</AddressLine1Txt>
+            <CityNm>WASHINGTON</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>200907166</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>150000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>14161</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>40442</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>146</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>305612</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>54749</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>305612</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>360361</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION</CategoryTxt>
+        <Amt>2605</Amt>
+        <NetInvestmentIncomeAmt>2605</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2605</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>45075</GrossSalesPriceAmt>
+        <BasisAmt>43044</BasisAmt>
+        <TotalNetAmt>2031</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>139440</GrossSalesPriceAmt>
+        <BasisAmt>109953</BasisAmt>
+        <TotalNetAmt>29487</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>27294</GrossSalesPriceAmt>
+        <BasisAmt>27672</BasisAmt>
+        <TotalNetAmt>-378</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>28984</GrossSalesPriceAmt>
+        <BasisAmt>23945</BasisAmt>
+        <TotalNetAmt>5039</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>6080</GrossSalesPriceAmt>
+        <BasisAmt>4801</BasisAmt>
+        <TotalNetAmt>1279</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>14739</GrossSalesPriceAmt>
+        <BasisAmt>15008</BasisAmt>
+        <TotalNetAmt>-269</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>321203</GrossSalesPriceAmt>
+        <BasisAmt>226195</BasisAmt>
+        <TotalNetAmt>95008</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>5693</GrossSalesPriceAmt>
+        <BasisAmt>6393</BasisAmt>
+        <TotalNetAmt>-700</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>15220</GrossSalesPriceAmt>
+        <BasisAmt>13152</BasisAmt>
+        <TotalNetAmt>2068</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>7941</GrossSalesPriceAmt>
+        <BasisAmt>7963</BasisAmt>
+        <TotalNetAmt>-22</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>539</GrossSalesPriceAmt>
+        <BasisAmt>626</BasisAmt>
+        <TotalNetAmt>-87</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>102603</GrossSalesPriceAmt>
+        <BasisAmt>92342</BasisAmt>
+        <TotalNetAmt>10261</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>154790</GrossSalesPriceAmt>
+        <BasisAmt>99586</BasisAmt>
+        <TotalNetAmt>55204</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>79709</GrossSalesPriceAmt>
+        <BasisAmt>73674</BasisAmt>
+        <TotalNetAmt>6035</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>152254</GrossSalesPriceAmt>
+        <BasisAmt>122610</BasisAmt>
+        <TotalNetAmt>29644</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <BasisAmt>4289</BasisAmt>
+        <TotalNetAmt>-4289</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>1913</GrossSalesPriceAmt>
+        <TotalNetAmt>1913</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>6581</GrossSalesPriceAmt>
+        <TotalNetAmt>6581</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>17783</GrossSalesPriceAmt>
+        <TotalNetAmt>17783</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>1043</GrossSalesPriceAmt>
+        <TotalNetAmt>1043</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>4121</GrossSalesPriceAmt>
+        <TotalNetAmt>4121</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>930</GrossSalesPriceAmt>
+        <TotalNetAmt>930</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>21075</GrossSalesPriceAmt>
+        <TotalNetAmt>21075</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>688</GrossSalesPriceAmt>
+        <TotalNetAmt>688</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>1975</GrossSalesPriceAmt>
+        <TotalNetAmt>1975</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>1</GrossSalesPriceAmt>
+        <TotalNetAmt>1</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <BasisAmt>2677</BasisAmt>
+        <TotalNetAmt>-2677</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <BasisAmt>3772</BasisAmt>
+        <TotalNetAmt>-3772</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2018-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>183</GrossSalesPriceAmt>
+        <TotalNetAmt>183</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>WELLS FARGO</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-09</SoldDt>
+        <GrossSalesPriceAmt>15986</GrossSalesPriceAmt>
+        <TotalNetAmt>15986</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>2348</GrossSalesPriceAmt>
+        <TotalNetAmt>2348</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-10</SoldDt>
+        <GrossSalesPriceAmt>3749</GrossSalesPriceAmt>
+        <TotalNetAmt>3749</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS</AssetDesc>
+        <AcquiredDt>2017-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>416</GrossSalesPriceAmt>
+        <TotalNetAmt>416</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>UBS</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <BasisAmt>4589</BasisAmt>
+        <TotalNetAmt>-4589</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>VARIOUS</AssetDesc>
+        <AcquiredDt>2015-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-11</SoldDt>
+        <GrossSalesPriceAmt>7547</GrossSalesPriceAmt>
+        <TotalNetAmt>7547</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>USB 8B 13090</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WELLS FARGO 6093-8661</BondNm>
+        <EOYBookValueAmt>208027</EOYBookValueAmt>
+        <EOYFMVAmt>196252</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13084</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13085</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13086</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13087</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13088</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>USB 8B 13089</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 1563-7751</StockNm>
+        <EOYBookValueAmt>340330</EOYBookValueAmt>
+        <EOYFMVAmt>386037</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 5163-3934</StockNm>
+        <EOYBookValueAmt>206092</EOYBookValueAmt>
+        <EOYFMVAmt>201942</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 4829-4263</StockNm>
+        <EOYBookValueAmt>262614</EOYBookValueAmt>
+        <EOYFMVAmt>290575</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 5160-4643</StockNm>
+        <EOYBookValueAmt>277055</EOYBookValueAmt>
+        <EOYFMVAmt>322041</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 6665-6149</StockNm>
+        <EOYBookValueAmt>294582</EOYBookValueAmt>
+        <EOYFMVAmt>339725</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO 1361-9773</StockNm>
+        <EOYBookValueAmt>262232</EOYBookValueAmt>
+        <EOYFMVAmt>260852</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc5">
+      <StateLocalSecBookVlEOYAmt>224582</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>220785</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncomeDetail>
+        <Desc>WELLS FARGO</Desc>
+        <RevenueAndExpensesPerBooksAmt>146</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>146</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>26009</Amt>
+        <NetInvestmentIncomeAmt>26009</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>26009</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX</CategoryTxt>
+        <Amt>1273</Amt>
+        <NetInvestmentIncomeAmt>1273</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>1273</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

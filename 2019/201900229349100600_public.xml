@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-22T09:16:30-08:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>273067478</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Anita J Linn CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>142 East 33rd Street 3-F</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10016</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>010733312</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Salt Queen Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SALT</BusinessNameControlTxt>
+      <PhoneNum>9174991029</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>c/o E Werner 15 Broad St 2112</AddressLine1Txt>
+        <CityNm>New York</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10005</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Elisabetta Werner</PersonNm>
+      <PersonTitleTxt>Grantor/Trustee</PersonTitleTxt>
+      <PhoneNum>9174991029</PhoneNum>
+      <SignatureDt>2018-11-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Anita J Linn</PreparerPersonNm>
+      <PTIN>P01483269</PTIN>
+      <PhoneNum>2126861489</PhoneNum>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>16990</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>11100</ContriRcvdRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>11100</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">450</AccountingFeesRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>754</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>754</TravConfMeetingNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">12760</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>12760</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>13964</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>13514</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>262</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>262</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>14226</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>13514</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>262</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-3126</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>5065</CashBOYAmt>
+        <CashEOYAmt>14165</CashEOYAmt>
+        <CashEOYFMVAmt>14165</CashEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">2825</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSchedule">2825</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSchedule">2825</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>7890</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>16990</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>16990</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>1100</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>13064</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>1100</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>13064</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>6790</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>3926</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6790</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3926</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>7890</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>16990</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6790</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-3126</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>3664</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3664</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.thesaltqueenfoundation.org</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Elisabetta Werner</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9174991029</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>15 Broad Street 2112</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10005</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Elisabetta Werner</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>15 Broad Street 2112</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10005</ZIPCd>
+          </USAddress>
+          <TitleTxt>Grantor/Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>21.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Joseph A Del Vecchio</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9 Schwenk Road</AddressLine1Txt>
+            <CityNm>Water Mill</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11976</ZIPCd>
+          </USAddress>
+          <TitleTxt>Grantor</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Nicholas T Pierre</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3333 Broadway A21</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10031</ZIPCd>
+          </USAddress>
+          <TitleTxt>Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>5324</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5324</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5324</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>80</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5244</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>262</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>262</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>262</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>262</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>262</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>262</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>262</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>262</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>262</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>493</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>440</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>762</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>1695</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>262</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>262</AppliedToCurrentYearAmt>
+        <TotalCorpusAmt>1695</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>493</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1202</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>440</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>762</ExcessFromYear3Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Elisabetta Werner</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Humane Society of New York</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>306 East 59th Street</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501c3</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Charitable Purpose</GrantOrContributionPurposeTxt>
+          <Amt>262</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>262</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JDV Capital - Joseph Del Vecchio</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>9 Schwenk Road</AddressLine1Txt>
+          <CityNm>Water Mill</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11976</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Bettina Werner</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>15 Broad Street 2112</AddressLine1Txt>
+          <CityNm>New York</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10005</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>6100</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>450</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherAssetsScheduleGrp>
+        <Desc>Donated C-Print Edition</Desc>
+        <BOYBookValueAmt>180</BOYBookValueAmt>
+        <EOYBookValueAmt>180</EOYBookValueAmt>
+        <EOYFMVAmt>1350</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Donated Oil Painting</Desc>
+        <BOYBookValueAmt>595</BOYBookValueAmt>
+        <EOYBookValueAmt>595</EOYBookValueAmt>
+        <EOYFMVAmt>700</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Donated Urethane Artwork</Desc>
+        <BOYBookValueAmt>700</BOYBookValueAmt>
+        <EOYBookValueAmt>700</EOYBookValueAmt>
+        <EOYFMVAmt>595</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>Sculpture for Exhibits</Desc>
+        <BOYBookValueAmt>1350</BOYBookValueAmt>
+        <EOYBookValueAmt>1350</EOYBookValueAmt>
+        <EOYFMVAmt>180</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Advertising &amp; Promotion</Desc>
+        <RevenueAndExpensesPerBooksAmt>165</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>165</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Art Framing</Desc>
+        <RevenueAndExpensesPerBooksAmt>4575</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4575</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Domaine Name</Desc>
+        <RevenueAndExpensesPerBooksAmt>128</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>128</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Exhibition Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>516</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>516</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Internet Provider</Desc>
+        <RevenueAndExpensesPerBooksAmt>59</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>59</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Local Transportation</Desc>
+        <RevenueAndExpensesPerBooksAmt>274</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>274</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Photography</Desc>
+        <RevenueAndExpensesPerBooksAmt>402</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>402</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Storage Art Works - LA</Desc>
+        <RevenueAndExpensesPerBooksAmt>627</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>627</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Storage art Works - NY</Desc>
+        <RevenueAndExpensesPerBooksAmt>5328</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>5328</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>315</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>315</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Website Updates</Desc>
+        <RevenueAndExpensesPerBooksAmt>371</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>371</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

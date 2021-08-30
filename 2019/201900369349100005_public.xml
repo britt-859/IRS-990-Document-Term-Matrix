@@ -1,0 +1,591 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-05T16:38:36-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Grant Thornton LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 1097</AddressLine1Txt>
+        <CityNm>Appleton</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>549121097</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>200529206</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>BAKER FAMILY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% RICHARD BAKER</InCareOfNm>
+      <BusinessNameControlTxt>BAKE</BusinessNameControlTxt>
+      <PhoneNum>9204774982</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+        <CityNm>St Cloud</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>53079</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>KEVIN BAKER</PersonNm>
+      <PersonTitleTxt>SECRETARY/TREASURER</PersonTitleTxt>
+      <PhoneNum>9204774982</PhoneNum>
+      <SignatureDt>2019-02-05</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Michelle L Weber</PreparerPersonNm>
+      <PTIN>P00556798</PTIN>
+      <PhoneNum>9209686700</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>209.220.64.52</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>39417220190365000002</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-05</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>CB08D785F62ADE9BABB832FE1B8C2D8F2D70060D</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>CB08D785F62ADE9BABB832FE1B8C2D8F2D70060D</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>2794058</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>153172</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>578</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>578</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>48896</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>48896</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>91880</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>110562</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>91880</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">17</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>17</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>294543</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>141371</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">3172</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1586</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1586</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">20575</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>20575</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">2126</TaxesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>25873</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>22161</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>1586</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>312500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>312500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>338373</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>22161</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>314086</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-43830</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>119210</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>332555</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>18524</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>18524</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>2219676</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">2489877</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>2775534</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2552231</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2508401</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>2794058</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>2552231</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2508401</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2552231</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2508401</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2552231</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2508401</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2552231</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-43830</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2508401</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2508401</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <GrossSalesPriceAmt>110562</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>18682</CostOrOtherBasisAmt>
+          <GainOrLossAmt>91880</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>91880</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>91880</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>629550</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2680887</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.234829</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>132027</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1866881</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.070721</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>398543</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1372617</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.290353</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>180875</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1007873</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.179462</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>397492</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>643968</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.617254</DistributionYr5Rt>
+        <TotalDistributionRt>1.392619</TotalDistributionRt>
+        <AverageDistributionRt>0.278524</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2757896</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>768140</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1192</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>769332</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>314086</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>2384</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>2384</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2384</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1700</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1700</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>684</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WI</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>RICHARD BAKER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9204774982</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>N5279 COUNTY ROAD G</AddressLine1Txt>
+          <CityNm>St Cloud</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53079</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Richard Baker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+            <CityNm>St Cloud</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53079</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT/DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BRIAN Baker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+            <CityNm>St Cloud</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53079</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT/DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KEVIN BAKER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+            <CityNm>St Cloud</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53079</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY/TREASURER/DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jeffrey Baker</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+            <CityNm>St Cloud</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53079</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2671964</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>127930</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2799894</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2799894</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>41998</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2757896</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>137895</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>137895</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2384</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2384</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>135511</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>135511</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>135511</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>314086</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>314086</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>314086</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>135511</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>366370</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>130771</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>330425</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>39911</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>497182</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>1364659</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>314086</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>135511</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>178575</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>1543234</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>366370</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>1176864</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>130771</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>330425</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>39911</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>497182</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>178575</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>St Marys Springs High School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>255 Country Road K</AddressLine1Txt>
+            <CityNm>Fond du Lac</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54937</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ANNUAL FUND/CAPITAL CAMPAIGN/ENDOWMENT FUND</GrantOrContributionPurposeTxt>
+          <Amt>265000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Friends of Sarnelli House</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>800 university bay drive suite 200</AddressLine1Txt>
+            <CityNm>madison</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>53705</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Outreach Programs</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Holy Family Parish</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>271 Fourth Street Way</AddressLine1Txt>
+            <CityNm>Fond du Lac</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54937</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>none</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Operating Budget</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Marian University</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45 South National Ave</AddressLine1Txt>
+            <CityNm>Fond du Lac</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54935</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ANNUAL FUND</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Boys &amp; Girls Club of Fond du Lac</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>76 W 2nd Street</AddressLine1Txt>
+            <CityNm>Fond du Lac</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54935</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Annual campaign &amp; all kids initiative</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Solutions Center</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>39 North Sophia St</AddressLine1Txt>
+            <CityNm>Fond Du Lac</CityNm>
+            <StateAbbreviationCd>WI</StateAbbreviationCd>
+            <ZIPCd>54935</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OPERATING BUDGET</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>312500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>578</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>48896</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>91880</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>IRS REFUND</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>141371</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>141371</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Baker Cheese Factory Inc</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>N5279 County Road G</AddressLine1Txt>
+          <CityNm>St Cloud</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53079</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>153172</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEES</CategoryTxt>
+        <Amt>3172</Amt>
+        <NetInvestmentIncomeAmt>1586</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1586</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DODGE &amp; COX</CategoryOrItemTxt>
+        <BookValueAmt>324740</BookValueAmt>
+        <EOYFMVAmt>415954</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN MANAGED</CategoryOrItemTxt>
+        <BookValueAmt>322101</BookValueAmt>
+        <EOYFMVAmt>434818</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MADISON CORE</CategoryOrItemTxt>
+        <BookValueAmt>70470</BookValueAmt>
+        <EOYFMVAmt>67175</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>T ROWE PRICE EQUITY INCOME</CategoryOrItemTxt>
+        <BookValueAmt>341803</BookValueAmt>
+        <EOYFMVAmt>374724</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BAIRD FUNDS INC INTER</CategoryOrItemTxt>
+        <BookValueAmt>87708</BookValueAmt>
+        <EOYFMVAmt>84983</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>TEMPLETON FUNDS INCOME</CategoryOrItemTxt>
+        <BookValueAmt>96437</BookValueAmt>
+        <EOYFMVAmt>88965</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LORD ABBETT INVESTMENT</CategoryOrItemTxt>
+        <BookValueAmt>120645</BookValueAmt>
+        <EOYFMVAmt>113657</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN FUNDS CAP WRLD GRWTH</CategoryOrItemTxt>
+        <BookValueAmt>382155</BookValueAmt>
+        <EOYFMVAmt>440936</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>COHEN &amp; STEERS INSTL REALTY</CategoryOrItemTxt>
+        <BookValueAmt>126476</BookValueAmt>
+        <EOYFMVAmt>118907</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>FRANKLIN STRATEGIC</CategoryOrItemTxt>
+        <BookValueAmt>106362</BookValueAmt>
+        <EOYFMVAmt>112864</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>AMERICAN EUROPACIFIC</CategoryOrItemTxt>
+        <BookValueAmt>254074</BookValueAmt>
+        <EOYFMVAmt>278674</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>HARBOR FD HIGH YIELD</CategoryOrItemTxt>
+        <BookValueAmt>121523</BookValueAmt>
+        <EOYFMVAmt>118417</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OAKMARK INTERNATIONAL</CategoryOrItemTxt>
+        <BookValueAmt>135383</BookValueAmt>
+        <EOYFMVAmt>125460</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>IRS Refund / interest</Desc>
+        <RevenueAndExpensesPerBooksAmt>17</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>17</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>20575</Amt>
+        <NetInvestmentIncomeAmt>20575</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>ESTIMATED FEDERAL TAX</CategoryTxt>
+        <Amt>1700</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX DUE</CategoryTxt>
+        <Amt>426</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-01T11:04:12-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>475605985</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>SCOTT FRANCE PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>201 W 9TH ST</AddressLine1Txt>
+        <CityNm>LEXINGTON</CityNm>
+        <StateAbbreviationCd>NE</StateAbbreviationCd>
+        <ZIPCd>688501851</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>470688549</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>COZAD PUBLIC SCHOOLS FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>COZA</BusinessNameControlTxt>
+      <PhoneNum>3087842212</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 540</AddressLine1Txt>
+        <CityNm>COZAD</CityNm>
+        <StateAbbreviationCd>NE</StateAbbreviationCd>
+        <ZIPCd>69130</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ANN BURKHOLDER</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>3087842212</PhoneNum>
+      <SignatureDt>2018-01-21</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>DAVID W MCNALLY</PreparerPersonNm>
+      <PTIN>P00156236</PTIN>
+      <PhoneNum>3083244607</PhoneNum>
+      <PreparationDt>2019-01-23</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>24.223.104.111</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-01</IPDt>
+      <IPTm>11:04:12</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>9AC70BC2521A9FE9B385F0D01F056CCD86B25396</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>BBD0681D5D9FF1CFB3A842EA5685DA980902B005</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc8">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>971035</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>73819</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>6174</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>6174</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>6174</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>22046</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>22046</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>22046</DividendsAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>102039</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>28220</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>28220</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">700</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>700</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>700</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">2750</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>2750</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>2750</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">381</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>381</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>381</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>3831</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3831</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>3831</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>75047</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>75047</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>78878</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3831</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>3831</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>75047</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>23161</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>24389</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>24389</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>329275</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>354441</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>354441</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>285000</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc4">285000</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>285000</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>306932</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">331594</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>331594</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>921207</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>971035</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>971035</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>921207</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>971035</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>921207</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>971035</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>921207</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>971035</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>921207</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>23161</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc5">26667</OtherIncreasesAmt>
+        <SubtotalAmt>971035</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>971035</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>92795</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>901537</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.102930</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>92544</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>884299</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.104652</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>84530</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>885930</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.095414</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>105926</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>878299</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.120604</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>101660</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>838589</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.121227</DistributionYr5Rt>
+        <TotalDistributionRt>0.544827</TotalDistributionRt>
+        <AverageDistributionRt>0.108965</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>927339</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>101047</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>244</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>101291</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>75047</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>488</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>488</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>488</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>488</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NE</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SCOTT TRUSDALE</IndividualWithBooksNm>
+        <PhoneNum>3087842212</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 540</AddressLine1Txt>
+          <CityNm>COZAD</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>69130</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANN BURKHOLDER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 88</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOTT TRUSDALE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O BOX 540</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>2.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BROOKE GENGENBACH</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1805 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC/TREAS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOEL APPLEGATE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1910 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THEA COLE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>9 OWENS DRIVE</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>SCOTT GEISER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1520 D STREET</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOEL CARLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1805 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN GRINDE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>P O 182</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>604263</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>337198</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>941461</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>941461</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14122</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>927339</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>46367</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>46367</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>488</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>488</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>45879</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>45879</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>45879</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>75047</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>75047</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>75047</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>45879</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>60477</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>63094</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>40574</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>48717</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>48099</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>260961</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>75047</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>45879</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>29168</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>290129</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>60477</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>229652</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>63094</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>40574</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>48717</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>48099</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>29168</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <FormAndInfoAndMaterialsTxt>WRITTEN APPLICATION</FormAndInfoAndMaterialsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COZAD SCHOOLS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1910 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TEACHER &amp; STUDENT STIPENDS</GrantOrContributionPurposeTxt>
+          <Amt>16254</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCHOLARSHIPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1910 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NA</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>48950</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COZAD SCHOOLS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1910 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>AFTERZONE</GrantOrContributionPurposeTxt>
+          <Amt>1861</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COZAD SCHOOLS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1910 MERIDIAN</AddressLine1Txt>
+            <CityNm>COZAD</CityNm>
+            <StateAbbreviationCd>NE</StateAbbreviationCd>
+            <ZIPCd>69130</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>N/A</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>7982</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>75047</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>6174</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>22046</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>28220</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>28220</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>BURKHOLDER FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>120 E 6TH</AddressLine1Txt>
+          <CityNm>COZAD</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>69130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>9500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>KOSMAN FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>120 E 6TH</AddressLine1Txt>
+          <CityNm>COZAD</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>69130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>5500</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>3</ContributorNum>
+        <ContributorPersonNm>WILSON FOUNDATION</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>PO BOX 540</AddressLine1Txt>
+          <CityNm>COZAD</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>69130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>7000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>4</ContributorNum>
+        <ContributorPersonNm>YOUNG</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>122 E 7TH</AddressLine1Txt>
+          <CityNm>COZAD</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>69130</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>7417</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <Amt>700</Amt>
+        <NetInvestmentIncomeAmt>700</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>700</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>STOCK</StockNm>
+        <EOYBookValueAmt>331594</EOYBookValueAmt>
+        <EOYFMVAmt>331594</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc4">
+      <StateLocalSecBookVlEOYAmt>285000</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>285000</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <OtherIncreasesSchedule documentId="RetDoc5">
+      <OtherIncreasesDetail>
+        <Desc>UNRECOGNIZED GAIN ON INVESTMENTS</Desc>
+        <Amt>26667</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>AUDIT FEES</CategoryTxt>
+        <Amt>2750</Amt>
+        <NetInvestmentIncomeAmt>2750</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2750</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <Amt>381</Amt>
+        <NetInvestmentIncomeAmt>381</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>381</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

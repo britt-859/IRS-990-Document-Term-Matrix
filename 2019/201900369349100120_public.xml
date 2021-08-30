@@ -1,0 +1,759 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-27T13:43:00-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-04-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Debra A Kolar</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>21351 Boxwood Ct</AddressLine1Txt>
+        <CityNm>Farmington Hills</CityNm>
+        <StateAbbreviationCd>MI</StateAbbreviationCd>
+        <ZIPCd>48336</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-05-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>046130077</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>COWAN SLAVIN FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>COWA</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+        <CityNm>FRAMINGHAM</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>01701</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>MARJORIE S BOVEE</PersonNm>
+      <PersonTitleTxt>PRESIDENT &amp; EXE</PersonTitleTxt>
+      <PhoneNum>7346348884</PhoneNum>
+      <SignatureDt>2019-01-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Debra A Kolar</PreparerPersonNm>
+      <PTIN>P01591405</PTIN>
+      <PhoneNum>2486130011</PhoneNum>
+      <PreparationDt>2019-01-27</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>97.70.123.142</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-05</IPDt>
+      <IPTm>16:50:16</IPTm>
+      <FederalOriginalSubmissionId>4063482019036oumvoxp</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-05</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>EE5D915ADAD4BD4EAE72415E67DF46295DBDE11E</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>EE5D915ADAD4BD4EAE72415E67DF46295DBDE11E</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3191712</FMVAssetsEOYAmt>
+      <MethodOfAccountingOtherInd methodOfAccountingOtherDesc="MODIFIED CASH">X</MethodOfAccountingOtherInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>1981</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>1981</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>94709</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>94709</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="STM139">-2685</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>11781</GrossSalesPriceAmt>
+        <TotalRevAndExpnssAmt>94005</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>96690</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>80924</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>8100</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>72824</CompOfcrDirTrstDsbrsChrtblAmt>
+        <PensionEmplBnftRevAndExpnssAmt>37286</PensionEmplBnftRevAndExpnssAmt>
+        <PensionEmplBnftNetInvstIncmAmt>3730</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftDsbrsChrtblAmt>33556</PensionEmplBnftDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="STM108">2255</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>225</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>2030</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="STM110">125</TaxesRevAndExpnssAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="STM126">1875</DeprecAndDpltnRevAndExpnssAmt>
+        <TravConfMeetingRevAndExpnssAmt>1623</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingNetInvstIncmAmt>162</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingDsbrsChrtblAmt>1606</TravConfMeetingDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="STM103">9201</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>182</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>133289</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>12399</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>110016</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>88150</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>88150</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>221439</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>12399</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>198166</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-127434</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>84291</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>4735</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>152520</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>161569</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>161569</SavAndTempCashInvstEOYFMVAmt>
+        <RcvblFromOfficersBOYAmt>3677</RcvblFromOfficersBOYAmt>
+        <PrepaidExpensesBOYAmt>5499</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>5213</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>5213</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>90657</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="STM136">0</USGovernmentObligationsEOYAmt>
+        <CorporateStockBOYAmt>3243790</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="STM137">3023762</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3023762</CorporateStockEOYFMVAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="STM138">1168</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1168</CorporateBondsEOYFMVAmt>
+        <LandBOYAmt>21611</LandBOYAmt>
+        <TotalAssetsBOYAmt>3522489</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3191712</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3191712</TotalAssetsEOYFMVAmt>
+        <MortgagesAndNotesPayableEOYAmt referenceDocumentId="STM123">0</MortgagesAndNotesPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>3522489</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>3191712</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3522489</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3191712</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3522489</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3191712</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3522489</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-127434</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="STM115">-203343</OtherIncreasesAmt>
+        <SubtotalAmt>3191712</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3191712</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>232358</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3241341</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.071686</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>356215</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>3398848</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.104805</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>462986</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>5008439</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.092441</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>409188</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>5040004</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.081188</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>359275</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>4895850</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.073384</DistributionYr5Rt>
+        <TotalDistributionRt>0.423503</TotalDistributionRt>
+        <AverageDistributionRt>0.084701</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>3241731</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>274578</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>843</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>275421</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>198166</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1686</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>1686</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1686</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>5213</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>5213</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>3527</OverpaymentAmt>
+        <AppliedToESTaxAmt>3527</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>MARJORIE SLAVIN BOVEE</IndividualWithBooksNm>
+        <PhoneNum>7348348884</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+          <CityNm>FRAMINGHAM</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>01701</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARJORIE SLAVIN BOVEE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT &amp; EXECUTIVE OFFICER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>62000</CompensationAmt>
+          <EmployeeBenefitProgramAmt>15500</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ANDREA WEINSTEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>2500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DAVID BOVEE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN AND DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MATTHEW HERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>EMILY WEINSTEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>40.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>16424</CompensationAmt>
+          <EmployeeBenefitProgramAmt>15500</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JESSICA WEINSTEIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANE HERSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>5 JOHN MCQUINN CIRCLE</AddressLine1Txt>
+            <CityNm>FRAMINGHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01701</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE FOUNDATION DID NOT HAVE ANY DIRECT CHARITABLE ACTIVITIES</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>NONE</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>3151843</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>139254</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3291097</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3291097</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>49366</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3241731</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>162087</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>162087</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1686</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1686</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>160401</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>160401</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>160401</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>198166</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>198166</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>198166</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>160401</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>102878</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>167590</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>216290</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>188347</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>78863</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>753968</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>198166</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>160401</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>37765</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>791733</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>102878</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>688855</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>167590</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>216290</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>188347</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>78863</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>37765</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LIFE CONNECTIONS OF THE CAROLINAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>420 E 15TH STREET</AddressLine1Txt>
+            <CityNm>CHARLOTTE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28206</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR HIRING A SOCIAL WORKER TO SUPERVISE VOLUNTEERS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SYNOD COMMUITY SERVICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>615 MANSFIELD</AddressLine1Txt>
+            <CityNm>YPSILANTI</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48198</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MULTIMEDIA PRODUCTIONS FOR AWARENESS OF OVARIAN CA</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FOUNDATION FOR AFRICAN MEDICINEEDU</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4553 CRIMSONWOOD DRIVE</AddressLine1Txt>
+            <CityNm>REDDING</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>96001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUSTAIN &amp; EXPAND QUALITY MEDICAL CARE OF NEUROLOGY</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EXTREME KIDS AND CREW</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>71 SULLIVAN STREET</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OP EXPS FOR DROPIN CENTER FOR CHILDREN W DISABIL</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WEST CHARLOTTE COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2225 FREEDOM DRIVE</AddressLine1Txt>
+            <CityNm>CHARLOTTE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28208</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>OP EXP TO HELP LITERACY ISSUES W READING PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE KITE ZINE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>102 PATCHEN AVE APT 3A</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11221</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>TRANSITIONING YOUTHS 7 WEEK WRITING PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SALINE AREA SOCIAL SERVICES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>224 W MICHIGAN AVE</AddressLine1Txt>
+            <CityNm>SALINE</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48176</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HEALTHY KIDS INITIATIVE ENABLE AFTER SCHOOL ACTIV</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MCCLINTOCK PARTNERS IN EDUCATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4519 PROVIDENCE ROAD</AddressLine1Txt>
+            <CityNm>CHARLOTTE</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28226</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUMMER PROGRAMS FOR YOUTH IN HIGH POVERTY AREAS</GrantOrContributionPurposeTxt>
+          <Amt>3150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROOT AND REBOUND</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 FRANKLIN STREET</AddressLine1Txt>
+            <CityNm>OAKLAND</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94612</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HELPING THOSE IMPACTED BY INCARCERATION</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WATERSIDE WORKSHOPS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>84 BOLIVAR DRIVE</AddressLine1Txt>
+            <CityNm>BERKELEY</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94710</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>JOB TRAINING PROGRAMS FOR AT RISK YOUTHS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ZABS PLACE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 N TRADE STREET</AddressLine1Txt>
+            <CityNm>MATTHEWS</CityNm>
+            <StateAbbreviationCd>NC</StateAbbreviationCd>
+            <ZIPCd>28104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR THRIFT SHOP AND TRAINING FOR YOUNG ADU</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NY WRITERS COALITION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>80 HANSON PLACE 604</AddressLine1Txt>
+            <CityNm>BROOKLYN</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11217</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>POF</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPORT FOR WRITING WORKSHOPS FOR AT RISK YOUTHS</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>88150</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1981</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>94709</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-2685</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>SCHOOL FEES &amp; OTHER</Desc>
+        </OtherRevenueDescribedGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>INCOME</Desc>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>94005</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>94005</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>2255</Amt>
+        <NetInvestmentIncomeAmt>225</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2030</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="STM126">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>2014 TOYOTA STATION WAGON</PropertyDesc>
+        <AcquiredDt>2014-05-01</AcquiredDt>
+        <CostOrOtherBasisAmt>37201</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>15590</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>SL</ComputationMethodTxt>
+        <LifeRt>5</LifeRt>
+        <CurrentYearExpenseAmt>1875</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="STM139">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>TOYOTA STATION WAGON</AssetDesc>
+        <AcquiredDt>2014-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2014-07</SoldDt>
+        <GrossSalesPriceAmt>11781</GrossSalesPriceAmt>
+        <BasisAmt>31931</BasisAmt>
+        <SalesExpenseAmt>0</SalesExpenseAmt>
+        <TotalNetAmt>-2685</TotalNetAmt>
+        <AccumulatedDepreciationAmt>17465</AccumulatedDepreciationAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="STM138">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL NATL MRT ASSN POOL</BondNm>
+        <EOYBookValueAmt>39</EOYBookValueAmt>
+        <EOYFMVAmt>39</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL HOME LOAN MTG CORP</BondNm>
+        <EOYBookValueAmt>336</EOYBookValueAmt>
+        <EOYFMVAmt>336</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL NATINAL MTG ASSN POOL</BondNm>
+        <EOYBookValueAmt>130</EOYBookValueAmt>
+        <EOYFMVAmt>130</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL HOME LOAN MTG CRP</BondNm>
+        <EOYBookValueAmt>221</EOYBookValueAmt>
+        <EOYFMVAmt>221</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL HOME LOAN MTG CRP</BondNm>
+        <EOYBookValueAmt>192</EOYBookValueAmt>
+        <EOYFMVAmt>192</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FEDL NATL MTG ASSN POOL</BondNm>
+        <EOYBookValueAmt>250</EOYBookValueAmt>
+        <EOYFMVAmt>250</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SOUTHERN COMPANY</StockNm>
+        <EOYBookValueAmt>368960</EOYBookValueAmt>
+        <EOYFMVAmt>368960</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AGNC INVT CORP</StockNm>
+        <EOYBookValueAmt>113520</EOYBookValueAmt>
+        <EOYFMVAmt>113520</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ARCHROCK PARTNERS LP COM UNITS</StockNm>
+        <EOYBookValueAmt>76087</EOYBookValueAmt>
+        <EOYFMVAmt>76087</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CSI COMPRESSO LP COM UNIT</StockNm>
+        <EOYBookValueAmt>60160</EOYBookValueAmt>
+        <EOYFMVAmt>60160</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ENERY TRANSFER PTNRS LP</StockNm>
+        <EOYBookValueAmt>888945</EOYBookValueAmt>
+        <EOYFMVAmt>888945</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>APPLE INC</StockNm>
+        <EOYBookValueAmt>809774</EOYBookValueAmt>
+        <EOYFMVAmt>809774</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>DYNEX CAPITAL INC</StockNm>
+        <EOYBookValueAmt>173054</EOYBookValueAmt>
+        <EOYFMVAmt>173054</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CBL &amp; ASSOC PROPERTIES INC COM</StockNm>
+        <EOYBookValueAmt>41800</EOYBookValueAmt>
+        <EOYFMVAmt>41800</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>KINDER MORGAN MANAGEMENT</StockNm>
+        <EOYBookValueAmt>84162</EOYBookValueAmt>
+        <EOYFMVAmt>84162</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>TRITON INTNL LTD SHS CL A</StockNm>
+        <EOYBookValueAmt>310100</EOYBookValueAmt>
+        <EOYFMVAmt>310100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PACIFIC COAST OIL</StockNm>
+        <EOYBookValueAmt>97200</EOYBookValueAmt>
+        <EOYFMVAmt>97200</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="STM136">
+      <USGovtObligationsBookVlEOYAmt>0</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>0</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <MortgagesAndNotesPayableSch documentId="STM123">
+      <NotePayableGrp>
+        <LenderNameGrp>
+          <PersonNm>TOYOTA MOTOR CREDIT</PersonNm>
+        </LenderNameGrp>
+        <LoanOriginalAmt>37202</LoanOriginalAmt>
+        <BalanceDueAmt>0</BalanceDueAmt>
+        <NoteDt>2014-05</NoteDt>
+        <LoanMaturityDt>2019-05</LoanMaturityDt>
+        <RepaymentTermsTxt>MONTHLY PAYMENT</RepaymentTermsTxt>
+        <InterestRt>0.00</InterestRt>
+        <SecurityProvidedBorrowerTxt>2014 TOYOTA ST</SecurityProvidedBorrowerTxt>
+        <LoanPurposeTxt>FINANCE PURCHASE OF VAN</LoanPurposeTxt>
+        <ConsiderationFMVAmt>0</ConsiderationFMVAmt>
+      </NotePayableGrp>
+    </MortgagesAndNotesPayableSch>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpensesScheduleGrp>
+        <Desc>GRANT RELATED EXPENSES</Desc>
+        <RevenueAndExpensesPerBooksAmt>9019</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK CHARGES</Desc>
+        <RevenueAndExpensesPerBooksAmt>182</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>182</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="STM115">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED LOSS OF INVESTMENTS</Desc>
+        <Amt>-203343</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>0</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>CITY OF SALINE</CategoryTxt>
+        <Amt>0</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>COMMONWEALTH OF MASS</CategoryTxt>
+        <Amt>125</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

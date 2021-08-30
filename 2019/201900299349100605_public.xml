@@ -1,0 +1,658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-29T11:40:16-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>752253424</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSON MARX &amp; BOHL PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>119 N MAIN ST</AddressLine1Txt>
+        <CityNm>CORSICANA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75110</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>752227788</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>NAVARRO COUNTY EDUCATIONAL</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>NAVA</BusinessNameControlTxt>
+      <PhoneNum>9038728181</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>401 NORTH 14TH STEET</AddressLine1Txt>
+        <CityNm>CORSICANA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>75110</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>C DAVID CAMPBELL M D</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>9038728181</PhoneNum>
+      <SignatureDt>2019-01-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>FRANK MARX III</PreparerPersonNm>
+      <PTIN>P00475693</PTIN>
+      <PhoneNum>9038722571</PhoneNum>
+      <PreparationDt>2019-01-25</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>24.75.125.121</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-29</IPDt>
+      <IPTm>11:40:16</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>19383776621625062CFBBE1BAE1D2E010D18E586</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>19383776621625062CFBBE1BAE1D2E010D18E586</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4600428</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>112535</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>112535</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>184345</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>379209</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>184345</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">10321</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>10321</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>307201</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>307201</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">6150</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>615</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>5535</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc9">19794</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>19794</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc10">295</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>294</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">6249</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>3125</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>3124</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>32488</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>23828</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>8659</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>225155</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>225155</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>257643</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>23828</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>233814</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>49558</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>283373</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>-22</CashEOYAmt>
+        <CashEOYFMVAmt>-22</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>61076</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>46635</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>46635</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>180</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>1500</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>1500</PrepaidExpensesEOYFMVAmt>
+        <CorporateStockBOYAmt>4064457</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">3634488</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3634488</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>546529</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">491773</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>491773</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>302654</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc4">416679</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>416679</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc5">10566</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc5">9375</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc5">9375</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>4985462</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>4600428</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4600428</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>4985462</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>4600428</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>4985462</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4600428</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>4985462</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>4600428</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>4985462</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>49558</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>5035020</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="RetDoc6">434592</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>4600428</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIR PRODUCTS &amp; CHEMICAL</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2005-11-01</AcquiredDt>
+          <SoldDt>2018-04-25</SoldDt>
+          <GrossSalesPriceAmt>20448</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6606</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13842</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13842</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GE CAP CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2010-08-03</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>40000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>39864</CostOrOtherBasisAmt>
+          <GainOrLossAmt>136</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>136</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-04-25</AcquiredDt>
+          <SoldDt>2018-10-24</SoldDt>
+          <GrossSalesPriceAmt>32022</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10368</CostOrOtherBasisAmt>
+          <GainOrLossAmt>21654</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>21654</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2003-10-22</AcquiredDt>
+          <SoldDt>2018-10-24</SoldDt>
+          <GrossSalesPriceAmt>17078</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4642</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12436</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12436</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TR REAL ESTATE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2008-05-08</AcquiredDt>
+          <SoldDt>2018-08-20</SoldDt>
+          <GrossSalesPriceAmt>22</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>33</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-11</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-11</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TR REAL ESTATE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-04-30</AcquiredDt>
+          <SoldDt>2018-08-20</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TR REAL ESTATE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-05-05</AcquiredDt>
+          <SoldDt>2018-08-20</SoldDt>
+          <GrossSalesPriceAmt>19</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TR REAL ESTATE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2009-07-29</AcquiredDt>
+          <SoldDt>2018-08-20</SoldDt>
+          <GrossSalesPriceAmt>10</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SELECT SECTOR SPDR TR REAL ESTATE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-01-30</AcquiredDt>
+          <SoldDt>2018-08-20</SoldDt>
+          <GrossSalesPriceAmt>8</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-4</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-4</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-05-11</AcquiredDt>
+          <SoldDt>2018-04-25</SoldDt>
+          <GrossSalesPriceAmt>71734</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30920</CostOrOtherBasisAmt>
+          <GainOrLossAmt>40814</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>40814</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>STANDARD &amp; POORS MIDCAP 400 ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-04-26</AcquiredDt>
+          <SoldDt>2018-04-25</SoldDt>
+          <GrossSalesPriceAmt>27327</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12918</CostOrOtherBasisAmt>
+          <GainOrLossAmt>14409</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>14409</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>TEXAS INSTRUMENTS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-01-28</AcquiredDt>
+          <SoldDt>2018-10-24</SoldDt>
+          <GrossSalesPriceAmt>19116</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6295</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12821</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12821</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>WALGREENS BOOTS ALLIANCE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2004-07-28</AcquiredDt>
+          <SoldDt>2018-04-25</SoldDt>
+          <GrossSalesPriceAmt>51631</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>29504</CostOrOtherBasisAmt>
+          <GainOrLossAmt>22127</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>22127</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>ISHARES RUSSELL 2000 INDEX</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2007-04-26</AcquiredDt>
+          <SoldDt>2018-04-25</SoldDt>
+          <GrossSalesPriceAmt>99747</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>53670</CostOrOtherBasisAmt>
+          <GainOrLossAmt>46077</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>46077</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AIG CLASS ACTION SETTLEMENT</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <SoldDt>2018-11-27</SoldDt>
+          <GrossSalesPriceAmt>28</GrossSalesPriceAmt>
+          <GainOrLossAmt>28</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>28</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>184345</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>228548</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4487532</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.050930</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>222108</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4416922</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.050286</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>213726</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4519380</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.047291</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>247120</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>4359950</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.056680</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>183010</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>4221108</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.043356</DistributionYr5Rt>
+        <TotalDistributionRt>0.248543</TotalDistributionRt>
+        <AverageDistributionRt>0.049709</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>5014914</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>249286</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2834</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>252120</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>233814</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>5667</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>5667</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>5667</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1500</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1500</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>4167</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JANIE GOODMAN</IndividualWithBooksNm>
+        <PhoneNum>9038744301</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+          <CityNm>CORSICANA</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>75110</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>C DAVID CAMPBELL M D</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBARA MOE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE-PRESIDE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DON DENBOW</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICKEY HILLOCK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>SEC/TREAS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LARRY MORRISON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MIKE GAGE</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>401 NORTH 14TH STREET</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOSH TACKETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>912 MADISON AVENUE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </USAddress>
+          <TitleTxt>DIRECTOR</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4930551</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>109757</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>50975</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>5091283</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>5091283</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>76369</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>5014914</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>250746</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>250746</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>5667</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>5667</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>245079</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>245079</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>245079</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>233814</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>233814</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>233814</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>245079</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>4845</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>4845</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>233814</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>233814</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>4845</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>4845</ExcessDistributionCyovAppCYAmt>
+        <UndistributedIncomeCYAmt>6420</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>NAVARRO COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3200 W 7TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>9038746501</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SEE EXHIBIT A</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>SEE EXHIBIT A</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>SEE EXHIBIT A</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NAVARRO COLLEGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3200 WEST 7TH AVE</AddressLine1Txt>
+            <CityNm>CORSICANA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>N/A</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>225155</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>225155</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>112535</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>15</ExclusionCd>
+          <ExclusionAmt>10321</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>184345</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>307201</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>307201</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>6150</Amt>
+        <NetInvestmentIncomeAmt>615</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>5535</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>SCHEDULE ATTACHED</BondNm>
+        <EOYBookValueAmt>491773</EOYBookValueAmt>
+        <EOYFMVAmt>491773</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SCHEDULE ATTACHED</StockNm>
+        <EOYBookValueAmt>3634488</EOYBookValueAmt>
+        <EOYFMVAmt>3634488</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CERTIFICATES OF DEPOSIT</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>416679</BookValueAmt>
+        <EOYFMVAmt>416679</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc5">
+      <OtherAssetsScheduleGrp>
+        <Desc>ACCRUED INCOME ON SECURITIES</Desc>
+        <BOYBookValueAmt>10566</BOYBookValueAmt>
+        <EOYBookValueAmt>9375</EOYBookValueAmt>
+        <EOYFMVAmt>9375</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+      <OtherAssetsScheduleGrp>
+        <Desc>ROYALTY INTERESTS</Desc>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="RetDoc6">
+      <OtherDecreasesDetail>
+        <Desc>UNREALIZED LOSSES ON INVESTMENTS</Desc>
+        <Amt>433401</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>DECREASE IN ACCRUED DIV/INT</Desc>
+        <Amt>1191</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OTHER</Desc>
+        <RevenueAndExpensesPerBooksAmt>6249</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>3125</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>3124</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>OIL &amp; GAS ROYALTIES</Desc>
+        <RevenueAndExpensesPerBooksAmt>10321</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10321</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc9">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>TRUST FEES</CategoryTxt>
+        <Amt>19794</Amt>
+        <NetInvestmentIncomeAmt>19794</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc10">
+      <TaxesDetail>
+        <CategoryTxt>990 PF TAX</CategoryTxt>
+        <Amt>1</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>AD VALOREM</CategoryTxt>
+        <Amt>294</Amt>
+        <NetInvestmentIncomeAmt>294</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

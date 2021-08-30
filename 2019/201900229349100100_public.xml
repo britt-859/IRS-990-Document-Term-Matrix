@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-22T07:49:57-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>841103523</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Gates Kirby &amp; Company PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>300 Boardwalk Drive Bldg 5B</AddressLine1Txt>
+        <CityNm>Fort Collins</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>80525</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>841524699</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Briggs-Kerst Family Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BRIG</BusinessNameControlTxt>
+      <PhoneNum>9702219396</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1334 W Oak Street</AddressLine1Txt>
+        <CityNm>Fort Collins</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>80521</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>A Fred Kerst</PersonNm>
+      <PersonTitleTxt>Director</PersonTitleTxt>
+      <SignatureDt>2019-01-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Tom L Gates</PreparerPersonNm>
+      <PTIN>P00578436</PTIN>
+      <PhoneNum>9702261704</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>207314</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>33</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>33</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>33</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>5841</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>5841</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>5841</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>1891</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>16128</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>1891</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>7765</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7765</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>5874</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">850</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>850</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">61</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>61</TaxesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">38</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>38</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>949</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>949</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>20370</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>20370</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>21319</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>21319</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-13554</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>7765</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>5874</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>3282</CashBOYAmt>
+        <CashEOYAmt>3284</CashEOYAmt>
+        <CashEOYFMVAmt>3284</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>5611</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>6292</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>6292</SavAndTempCashInvstEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>199182</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">197738</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>197738</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>208075</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>207314</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>207314</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>208075</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>207314</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>208075</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>207314</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>208075</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>207314</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>208075</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-13554</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">12793</OtherIncreasesAmt>
+        <SubtotalAmt>207314</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>207314</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>350 Shares Dodge &amp; Cox Intl Stock Fd</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2006-04-21</AcquiredDt>
+          <SoldDt>2018-04-12</SoldDt>
+          <GrossSalesPriceAmt>16128</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>14237</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1891</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1891</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>1891</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>33639</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>219049</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.15357</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>12391</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>227833</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.05439</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>30048</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>240521</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.12493</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>35996</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>257174</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.13997</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>35165</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>246419</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.14270</DistributionYr5Rt>
+        <TotalDistributionRt>0.615554</TotalDistributionRt>
+        <AverageDistributionRt>0.123111</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>206182</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>25383</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>78</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>25461</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>21319</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>155</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>155</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>155</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>155</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>The Organization</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>9702219396</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1334 W Oak Street</AddressLine1Txt>
+          <CityNm>Fort Collins</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>80521</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Amy J Kerst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1334 West Oak Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Ardith B Kerst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1334 West Oak Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Charles B Kerst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1334 West Oak Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>A Fred Kerst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1334 West Oak Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Melinda E Kerst</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1334 West Oak Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>N/A</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>192449</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>16873</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>209322</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>209322</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3140</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>206182</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>10309</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>10309</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>155</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>155</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>10154</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>10154</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>10154</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>21319</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>21319</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>21319</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>10154</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>22960</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>23331</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>18213</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>1121</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>22809</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>88434</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>21319</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>10154</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>11165</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>99599</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>22960</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>76639</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>23331</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>18213</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>1121</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>22809</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>11165</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Foothills Unitarian Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1815 Yorktown Avenue</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80526</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religion</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Crossroads Safe House</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 993</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80522</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Assist victims of domestic abuse</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CSU Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>510 University Services Suite 100</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80523</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship support</GrantOrContributionPurposeTxt>
+          <Amt>9000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Project Self Sufficiency</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>375 West 37th St Suite 150</AddressLine1Txt>
+            <CityNm>Loveland</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80538</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Help low income, single parents</GrantOrContributionPurposeTxt>
+          <Amt>420</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>March of Dimes</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1275 Mamaroneck Ave</AddressLine1Txt>
+            <CityNm>White Plains</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10605</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Infant health</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Wray United Methodist Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>500 Blake Street</AddressLine1Txt>
+            <CityNm>Wray</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80758</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship fund</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Heart Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7272 Greenville Avenue</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75231</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Fight cardiovascular disease</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AUSCS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1310 L Street NW Suite 200</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20005</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religious freedom</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Blackburn Family Association</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>25474 Wareham Drive</AddressLine1Txt>
+            <CityNm>Hungington</CityNm>
+            <StateAbbreviationCd>MI</StateAbbreviationCd>
+            <ZIPCd>48070</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Blackburn family genealogy</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Denver Art Museum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 W 14th Avenue Parkway</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80204</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Support art</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Energy Outreach Colorado</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>205 E 16th Avenue</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Help Coloradoan's pay for energy</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Food Bank Larimer County</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1301 Blue Spruce</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80526</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Hunger relief</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of the UUA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO 843510</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02284</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religion</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Leukemia Lymphoma Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 98018</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20090</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Leukemia research</GrantOrContributionPurposeTxt>
+          <Amt>150</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MDD of the UUA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2242 South Albion Street</AddressLine1Txt>
+            <CityNm>Denver</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Religion</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>National Resource Defense Council</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>40 West 20th Street 11th Floor</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Protect the environment</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>United Negro College Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1805 7th Street NW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Scholarship support</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Community for Sustainable Energy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>237 Lyons Street</AddressLine1Txt>
+            <CityNm>Fort Collins</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>80521</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>(c)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Promotes sustainable energy policy</GrantOrContributionPurposeTxt>
+          <Amt>200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>20370</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>33</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5841</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>1891</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>5874</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>1891</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>7765</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <AccountingFeesDetail>
+        <CategoryTxt>Return Preparation Fees</CategoryTxt>
+        <Amt>850</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>850</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Merck &amp; Co Inc.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>36805</BookValueAmt>
+        <EOYFMVAmt>36805</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Altria Group Inc.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>32520</BookValueAmt>
+        <EOYFMVAmt>32520</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Dodge &amp; Cox Intl. Stock Fund</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>14755</BookValueAmt>
+        <EOYFMVAmt>14755</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Kraft Foods Inc.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>6322</BookValueAmt>
+        <EOYFMVAmt>6322</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Philip Morris Intl.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>44035</BookValueAmt>
+        <EOYFMVAmt>44035</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Express Scripts</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>48776</BookValueAmt>
+        <EOYFMVAmt>48776</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>Mondelez Intl. Inc.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>FMV</ListedAtCostOrFMVCd>
+        <BookValueAmt>14525</BookValueAmt>
+        <EOYFMVAmt>14525</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>28</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>28</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Office Expense</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>10</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <OtherIncreasesDetail>
+        <Desc>Unrealized Gain</Desc>
+        <Amt>12793</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="17005038" softwareVersionNum="2017v2.2">
+      <TaxesDetail>
+        <CategoryTxt>Excise Taxes</CategoryTxt>
+        <Amt>61</Amt>
+        <DisbursementsCharitablePrpsAmt>61</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

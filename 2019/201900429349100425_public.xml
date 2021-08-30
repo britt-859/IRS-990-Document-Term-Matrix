@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-11T17:49:21-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>421144302</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>CPA ASSOCIATES PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO BOX 547</AddressLine1Txt>
+        <CityNm>BURLINGTON</CityNm>
+        <StateAbbreviationCd>IA</StateAbbreviationCd>
+        <ZIPCd>52601</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>352162520</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>JAMES W &amp; CAROLYN BRAY SCHOLARSHIP</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>JAME</BusinessNameControlTxt>
+      <PhoneNum>3193924261</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>109 N MAIN PO BOX 295</AddressLine1Txt>
+        <CityNm>DANVILLE</CityNm>
+        <StateAbbreviationCd>IA</StateAbbreviationCd>
+        <ZIPCd>52623</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>DANVILLE STATE SAVINGS BANK</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3193924261</PhoneNum>
+      <SignatureDt>2019-02-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SARAH H BECKMAN</PreparerPersonNm>
+      <PTIN>P01257287</PTIN>
+      <PhoneNum>3197526348</PhoneNum>
+      <PreparationDt>2019-01-29</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>69.18.14.45</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-11</IPDt>
+      <IPTm>17:49:21</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>1014C0EC1BB3263A0C6D4A75665D30185137CB10</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>24BFE9630F90B6ADE93E8FDC7FC4F50868A52116</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="RetDoc7">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>309671</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>7594</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7594</DividendsNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc5">500</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>8094</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>7594</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>500</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>250</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstAdjNetIncmAmt>250</CompOfcrDirTrstAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">420</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>420</AccountingFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc6">190</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc4">2750</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>2750</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>3860</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>3420</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>250</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>15000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>15000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>18860</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>3420</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>250</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>15000</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-10766</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>4174</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>22437</CashBOYAmt>
+        <CashEOYAmt>24671</CashEOYAmt>
+        <CashEOYFMVAmt>24671</CashEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>235000</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="RetDoc2">235000</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>235000</USGovtObligationsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>63000</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc3">50000</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>50000</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>320437</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>309671</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>309671</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>320437</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>309671</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>320437</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>309671</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>320437</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>309671</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>320437</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-10766</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>309671</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>309671</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>15500</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>318799</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.048620</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>15500</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>325329</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.047644</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>17000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>332848</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.051074</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>16500</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>340625</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.048440</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>18894</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>348990</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.054139</DistributionYr5Rt>
+        <TotalDistributionRt>0.249917</TotalDistributionRt>
+        <AverageDistributionRt>0.049983</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>310328</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>15511</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>42</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>15553</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>15000</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>83</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>83</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>83</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>83</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>JOEL PROTTSMAN</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3193924261</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>109 N MAIN</AddressLine1Txt>
+          <CityNm>DANVILLE</CityNm>
+          <StateAbbreviationCd>IA</StateAbbreviationCd>
+          <ZIPCd>52601</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DANVILLE STATE SAVINGS BANK</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>109 N MAIN STREET</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 295</AddressLine2Txt>
+            <CityNm>DANVILLE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52623</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>500</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>285000</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>23554</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>6500</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>315054</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>315054</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>4726</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>310328</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>15516</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>15516</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>83</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>83</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>15433</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>15433</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>15433</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>15000</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>15000</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>15000</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>15433</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>1406</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr3Amt>538</ExcessDistributionCyovYr3Amt>
+        <TotalExcessDistributionCyovAmt>1944</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>15000</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>15000</AppliedToCurrentYearAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>433</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>433</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>1511</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>973</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>538</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear3Amt>538</ExcessFromYear3Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>DANVILLE STATE SAVINGS BANK</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>109 N MAIN ST</AddressLine1Txt>
+            <CityNm>DANVILLE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52623</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3193924261</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>SEE ATTACHED</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>APRIL 1</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>5</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PIDGEON DARIEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17548 DIAMOND RD</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>STROTHMAN REBECCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2597 280TH ST</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WILSON MEGAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>600 WESTGATE ST APT 2</AddressLine1Txt>
+            <CityNm>IOWA CITY</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52246</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VORWERK SARAH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>401 NORTH NORTHFIELD ST</AddressLine1Txt>
+            <CityNm>MEDIAPOLIS</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52637</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCHROEDER ERIKA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>901 DOVER ST</AddressLine1Txt>
+            <CityNm>IOWA CITY</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52245</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TOPPING DANIEL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2516 312TH ST</AddressLine1Txt>
+            <CityNm>DANVILLE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52623</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHANNAN TAYLOR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2227 239TH ST</AddressLine1Txt>
+            <CityNm>DONNELLSON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52625</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DOWN JESSICA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1203 PLANK ST</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>METTLER BREANNA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>807 E ADAMS ST</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CARR LANDRY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15151 WASHINGTON RD</AddressLine1Txt>
+            <CityNm>WEST BURLINGTON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JOHANNS GRACE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>811 CANTERBURY DR</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HILL TYLER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>11040 146TH AVE</AddressLine1Txt>
+            <CityNm>WEST BURLINGTON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MCALLISTER KATHERINE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2627 250TH ST</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>BECKMAN BAILEY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10757 220TH AVE</AddressLine1Txt>
+            <CityNm>DANVILLE</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52623</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MUNSUN BILLIE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>437 MAY AVE</AddressLine1Txt>
+            <CityNm>BURLINGTON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PROTTSMAN GAVIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2523 ROCKY LANE</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PRY EMMA SUE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>206 S MAIN ST</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HENECKE JUSTIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>17022 220TH AVE</AddressLine1Txt>
+            <CityNm>NEW LONDON</CityNm>
+            <StateAbbreviationCd>IA</StateAbbreviationCd>
+            <ZIPCd>52645</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIP</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>15000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7594</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>REFUNDS</Desc>
+          <RelatedOrExemptFunctionIncmAmt>500</RelatedOrExemptFunctionIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>7594</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>500</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>8094</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>INDIRECT ACCOUNTING FEES</CategoryTxt>
+        <Amt>420</Amt>
+        <NetInvestmentIncomeAmt>420</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2">
+      <USGovtObligationsBookVlEOYAmt>235000</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>235000</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LAND CONTRACTS RECEIVABLE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DSSB CD 24819</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20000</BookValueAmt>
+        <EOYFMVAmt>20000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DSSB CD 24820</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>20000</BookValueAmt>
+        <EOYFMVAmt>20000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>DSSB CD 24821</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>10000</BookValueAmt>
+        <EOYFMVAmt>10000</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>INVESTMENT</Desc>
+        <RevenueAndExpensesPerBooksAmt>2750</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>2750</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncomeDetail>
+        <Desc>REFUNDS</Desc>
+        <RevenueAndExpensesPerBooksAmt>500</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc6">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>190</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-20T18:43:39-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>364192068</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KENNING NEELY LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>53 West Jackson - Suite 400</AddressLine1Txt>
+        <CityNm>Chicago</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60604</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>454923183</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>The Lisa Family Foundation Inc</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LISA</BusinessNameControlTxt>
+      <PhoneNum>3123205888</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>7113 N Desert Fairways Drive</AddressLine1Txt>
+        <CityNm>Paradise Valley</CityNm>
+        <StateAbbreviationCd>AZ</StateAbbreviationCd>
+        <ZIPCd>85253</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Steven G Lisa</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2019-02-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Peter R Neely</PreparerPersonNm>
+      <PTIN>P00193357</PTIN>
+      <PhoneNum>3122946400</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId="GeneralExplanation" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>660729</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>2924</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2924</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>12669</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>12669</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>57703</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>430450</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>57703</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>73296</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>73296</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">2765</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>2765</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">456</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>199</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>3221</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>199</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>2765</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>25000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>25000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>28221</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>199</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>27765</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>45075</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>73097</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>195172</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>328975</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>328949</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>337630</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">225588</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>273801</CorporateStockEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>36600</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvestmentsOtherSchedule2">60136</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>57979</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSchedule">1</OtherAssetsBOYAmt>
+        <TotalAssetsBOYAmt>569403</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>614699</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>660729</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>569403</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>614699</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>569403</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>614699</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>569403</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>614699</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>569403</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>45075</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="OtherIncreasesSchedule">221</OtherIncreasesAmt>
+        <SubtotalAmt>614699</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>614699</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1,800 IShares Core Conservative Allocation ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-01-19</AcquiredDt>
+          <SoldDt>2018-12-13</SoldDt>
+          <GrossSalesPriceAmt>59647</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>62680</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3033</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3033</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>904.751 Vanguard Star Investor Class</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-06-15</AcquiredDt>
+          <SoldDt>2018-12-13</SoldDt>
+          <GrossSalesPriceAmt>23406</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>25251</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1845</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1845</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 Vanguard Whitehall Funds International D</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-01-02</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>25898</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>26726</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-828</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-828</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Vanguard Whitehall Funds International H</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-01-02</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>18771</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20284</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1513</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1513</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30,000 Ally Bk Midvale Utah CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-03</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30,000 First St Bk Webster City Iowa CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-05</AcquiredDt>
+          <SoldDt>2018-01-12</SoldDt>
+          <GrossSalesPriceAmt>30000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>30000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 IShares Core Conservative Allocation ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-05-03</AcquiredDt>
+          <SoldDt>2018-12-13</SoldDt>
+          <GrossSalesPriceAmt>16569</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16804</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-235</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-235</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>240 IShares Edge MSCI Min Vol Emerging Marke</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-11</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>13775</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12865</CostOrOtherBasisAmt>
+          <GainOrLossAmt>910</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>910</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 IShares Edge MSCI Min Vol USA ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-01-06</AcquiredDt>
+          <SoldDt>2018-01-19</SoldDt>
+          <GrossSalesPriceAmt>32387</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20546</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11841</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11841</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>140 IShares Trust Core Divid Gwth</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-11</AcquiredDt>
+          <SoldDt>2018-01-16</SoldDt>
+          <GrossSalesPriceAmt>5059</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3322</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1737</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1737</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 IShares Trust IShares Core High Dividend</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-12</AcquiredDt>
+          <SoldDt>2018-01-16</SoldDt>
+          <GrossSalesPriceAmt>9138</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7459</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1679</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1679</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>550 Proshares Trust S&amp;P 500 Divid Aristocrat</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-14</AcquiredDt>
+          <SoldDt>2018-01-19</SoldDt>
+          <GrossSalesPriceAmt>36159</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>22626</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13533</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13533</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>640 Schwab Strategic Tr Emerging Mkts Equity</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-11</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>16451</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13805</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2646</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2646</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 Schwab Strategic Tr US Dividend Equity E</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-09-11</AcquiredDt>
+          <SoldDt>2018-01-19</SoldDt>
+          <GrossSalesPriceAmt>31701</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>20651</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11050</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11050</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 SPDR Ser Tr S&amp;P Divid ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-09-11</AcquiredDt>
+          <SoldDt>2018-01-16</SoldDt>
+          <GrossSalesPriceAmt>14380</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10421</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3959</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3959</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 Vanguard Intl Equity Index Fund Inc FTSE</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-11</AcquiredDt>
+          <SoldDt>2018-07-05</SoldDt>
+          <GrossSalesPriceAmt>16710</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13881</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2829</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2829</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>300 Vanguard Specialized Funds Div App ETF</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-09-11</AcquiredDt>
+          <SoldDt>2018-01-19</SoldDt>
+          <GrossSalesPriceAmt>31769</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>21010</CostOrOtherBasisAmt>
+          <GainOrLossAmt>10759</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>10759</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>10,000 Wells Fargo Bank Natl Assn CD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-05-22</AcquiredDt>
+          <SoldDt>2018-06-25</SoldDt>
+          <GrossSalesPriceAmt>10000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10000</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>160 Wisdomtree Tr US Quality Divid Growth Fd</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-02-11</AcquiredDt>
+          <SoldDt>2018-01-16</SoldDt>
+          <GrossSalesPriceAmt>6900</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4416</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2484</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2484</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>Capital Gain Dividends</PropertyDesc>
+          <GainOrLossAmt>1730</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>57703</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>-7219</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>8765</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>620588</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.01412</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>71917</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>566981</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.12684</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>2800</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>521439</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.00537</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>14867</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>515126</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.02886</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>1193</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>249773</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.00478</DistributionYr5Rt>
+        <TotalDistributionRt>0.179973</TotalDistributionRt>
+        <AverageDistributionRt>0.035995</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>689519</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>24819</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>731</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>25550</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>27765</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>731</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>731</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>731</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="IRS2220">X</Form2220AttachedInd>
+        <EsPenaltyAmt>7</EsPenaltyAmt>
+        <TaxDueAmt>738</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>false</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>AZ</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Steven G Lisa</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3123205888</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>7113 N Desert Fairways Drive</AddressLine1Txt>
+          <CityNm>Paradise Valley</CityNm>
+          <StateAbbreviationCd>AZ</StateAbbreviationCd>
+          <ZIPCd>852533338</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <ExcessBusinessHoldingsInd>false</ExcessBusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <TransactionsFailToQlfyAsExcInd>false</TransactionsFailToQlfyAsExcInd>
+        <MaintainedExpenditureRspnsInd>false</MaintainedExpenditureRspnsInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <ProceedsOrNetIncomeInd>false</ProceedsOrNetIncomeInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Steven G Lisa</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7113 N Desert Fairways Drive</AddressLine1Txt>
+            <CityNm>Paradise Valley</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>852533338</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Laurie O Lisa</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>7113 N Desert Fairways Drive</AddressLine1Txt>
+            <CityNm>Paradise Valley</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>852533338</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Caitlin L Bosch</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>3305 W Belle Plaine Avenue</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60618</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Michelle B Lisa</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4046 SE Caruthers St</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>972145932</ZIPCd>
+          </USAddress>
+          <TitleTxt>LegalCounsel</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>497005</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>203014</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>700019</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>700019</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>10500</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>689519</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>34476</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>34476</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>731</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>731</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>33745</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>33745</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>33745</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>27765</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>27765</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>731</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>27034</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>33745</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>22846</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>27765</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>22846</AppliedToYear1Amt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>4919</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>28826</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Steven G Lisa</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chicago Fire Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7000 South Harlem Avenue</AddressLine1Txt>
+            <CityNm>Bridgeview</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60455</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>To provide sports-based youth development and direct-service programs to under-served communities.</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>25000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2924</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12669</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>57703</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>73296</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>73296</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>N/A</LineNumberTxt>
+          <RelationshipStatementTxt>N/A</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <AccountingFeesDetail>
+        <CategoryTxt>Tax Preparation</CategoryTxt>
+        <Amt>2765</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2765</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>740 IShares Edge MSCI Min Vol Glbl(ACWV)</StockNm>
+        <EOYBookValueAmt>56020</EOYBookValueAmt>
+        <EOYFMVAmt>60132</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>240 IShares Inc MSCI Emrg Mkts Min(EEMV)</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 IShares Edge MSCI Min Vol EAFE(EFAV)</StockNm>
+        <EOYBookValueAmt>12215</EOYBookValueAmt>
+        <EOYFMVAmt>13332</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>720 IShares Edge MSCI Min Vol USA (USMV)</StockNm>
+        <EOYBookValueAmt>23962</EOYBookValueAmt>
+        <EOYFMVAmt>37728</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>420 IShares Trust Core Divid Gwth (DGRO)</StockNm>
+        <EOYBookValueAmt>9931</EOYBookValueAmt>
+        <EOYFMVAmt>13936</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>330 Proshares Trust S&amp;P 500 Divid (NOBL)</StockNm>
+        <EOYBookValueAmt>13576</EOYBookValueAmt>
+        <EOYFMVAmt>19978</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>240 SPDR Ser Tr S&amp;P Divid ETF (SDY)</StockNm>
+        <EOYBookValueAmt>16517</EOYBookValueAmt>
+        <EOYFMVAmt>21485</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>640 Schwab Strategic Tr Emerging (SCHE)</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>360 Schwab Strategic Tr US Divid(SCHD)</StockNm>
+        <EOYBookValueAmt>12175</EOYBookValueAmt>
+        <EOYFMVAmt>16909</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>425 Schwab Strategic Tr Intl Equty(SCHF)</StockNm>
+        <EOYBookValueAmt>12097</EOYBookValueAmt>
+        <EOYFMVAmt>12049</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>190 Vanguard Group Div App ETF (VIG)</StockNm>
+        <EOYBookValueAmt>13202</EOYBookValueAmt>
+        <EOYFMVAmt>18611</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>400 Vanguard Intl Equity Index Fds (VWO)</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>360 Wisdomtree Tr US Quality Divid(DGRW)</StockNm>
+        <EOYBookValueAmt>9932</EOYBookValueAmt>
+        <EOYFMVAmt>13799</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>120 IShares Trust IShares Core High(HDV)</StockNm>
+        <EOYBookValueAmt>8677</EOYBookValueAmt>
+        <EOYFMVAmt>10126</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,000 IShares Core Conservative (AOK)</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 Invesco Exchng Traded Fd Tr II(XMLV)</StockNm>
+        <EOYBookValueAmt>9064</EOYBookValueAmt>
+        <EOYFMVAmt>8878</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>200 Invesco Exchng Traded Fd Tr II(SPLV)</StockNm>
+        <EOYBookValueAmt>9597</EOYBookValueAmt>
+        <EOYFMVAmt>9330</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>300 Legg Mason ETF Investment Tr (LVHD)</StockNm>
+        <EOYBookValueAmt>9418</EOYBookValueAmt>
+        <EOYFMVAmt>8604</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>100 SPDR SSGA US Large Cap Low (LGLV)</StockNm>
+        <EOYBookValueAmt>9205</EOYBookValueAmt>
+        <EOYFMVAmt>8904</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1,253.843 Vanguard Lifestrategy (VASIX)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>18273</BookValueAmt>
+        <EOYFMVAmt>18645</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>1,610.074 Vanguard/Wellesley Inco(VWINX)</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>41863</BookValueAmt>
+        <EOYFMVAmt>39334</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <OtherIncreasesDetail>
+        <Desc>Net Dividends in Transit</Desc>
+        <Amt>221</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="18007218" softwareVersionNum="2018v3.1">
+      <TaxesDetail>
+        <CategoryTxt>Federal Excise Tax</CategoryTxt>
+        <Amt>257</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign Tax Paid (1099-DIV)</CategoryTxt>
+        <Amt>199</Amt>
+        <NetInvestmentIncomeAmt>199</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

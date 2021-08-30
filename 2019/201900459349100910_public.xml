@@ -1,0 +1,854 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-14T16:21:17-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>GELFAND RENNERT &amp; FELDMAN LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>360 HAMILTON AVE SUITE 100</AddressLine1Txt>
+        <CityNm>WHITE PLAINS</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10601</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>942538647</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE MILLER FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% GELFAND RENNERT &amp; FELDMAN L</InCareOfNm>
+      <BusinessNameControlTxt>MILL</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>c/o GRF LLC 360 HAMILTON AVE Suit</AddressLine1Txt>
+        <CityNm>WHITE PLAINS</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>10601</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>STEVEN H MILLER</PersonNm>
+      <PersonTitleTxt>PRESIDENT</PersonTitleTxt>
+      <PhoneNum>2123078000</PhoneNum>
+      <SignatureDt>2019-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Todd Kamelhar</PreparerPersonNm>
+      <PTIN>P00176477</PTIN>
+      <PhoneNum>2123078000</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>216.200.161.122</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>95705720190455000000</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-14</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>0551325C50D2E6FAC065A868E83DB433BFCAD20A</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>1B41C8F43D3253DC45B178CCA01DF5817C4754CA</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1313488</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>0</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>260</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>260</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>17533</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>17533</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>79575</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>243501</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>79575</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>97368</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>97368</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt>500</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>0</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>0</LegalFeesAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">13667</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>13667</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">158</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>104</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">208</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>14533</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>13771</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>86500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>86500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>101033</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>13771</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>86500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-3665</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>83597</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>30727</CashBOYAmt>
+        <CashEOYAmt>10964</CashEOYAmt>
+        <CashEOYFMVAmt>10964</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>3892</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>9762</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>9762</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>886315</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestCorpStockSch">881573</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>1207488</CorporateStockEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">44818</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">59788</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="OtherAssetsSch">85274</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>965752</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>962087</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1313488</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>965752</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>962087</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>965752</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>962087</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>965752</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>962087</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>965752</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-3665</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>962087</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>962087</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 AIR LEASE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>4193</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3673</CostOrOtherBasisAmt>
+          <GainOrLossAmt>520</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>520</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 AIR LEASE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2018-01-31</SoldDt>
+          <GrossSalesPriceAmt>4852</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3673</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1179</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1179</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 AIR LEASE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2018-01-31</SoldDt>
+          <GrossSalesPriceAmt>4852</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3463</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1389</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1389</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1 DELPHI TECHNOLOGIES PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2017-12-06</SoldDt>
+          <GrossSalesPriceAmt>36</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>23</CostOrOtherBasisAmt>
+          <GainOrLossAmt>13</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>13</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>16 DELPHI TECHNOLOGIES PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>631</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>561</CostOrOtherBasisAmt>
+          <GainOrLossAmt>70</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>70</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 DELPHI TECHNOLOGIES PLC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>1971</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1652</CostOrOtherBasisAmt>
+          <GainOrLossAmt>319</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>319</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 ENVISION HEALTHCARE CO.</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-11-13</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>26871</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>15626</CostOrOtherBasisAmt>
+          <GainOrLossAmt>11245</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>11245</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 HOLLYFRONTIER CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2018-01-25</SoldDt>
+          <GrossSalesPriceAmt>9715</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9243</CostOrOtherBasisAmt>
+          <GainOrLossAmt>472</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>472</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 HOLLYFRONTIER CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-06-20</AcquiredDt>
+          <SoldDt>2018-01-25</SoldDt>
+          <GrossSalesPriceAmt>9715</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4867</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4848</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4848</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 IAC/INTERACTIVE CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2016-12-21</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>9309</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3322</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5987</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5987</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 ILLUMINA INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>16407</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9149</CostOrOtherBasisAmt>
+          <GainOrLossAmt>7258</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>7258</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 MACYS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>7058</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7914</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-856</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-856</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 MICROSOFT CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>8354</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4294</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4060</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4060</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 NVIDIA CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>10646</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1571</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9075</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>9075</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>400 PREMIER INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>15032</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>13424</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1608</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1608</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 PRAXAIR INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2018-10-31</SoldDt>
+          <GrossSalesPriceAmt>8173</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6433</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1740</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1740</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 PRAXAIR INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2018-10-31</SoldDt>
+          <GrossSalesPriceAmt>8173</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6502</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1671</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1671</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>600 REXNORD CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>14350</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>12333</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2017</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2017</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 SANOFI SPONSORED ADR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>8899</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10637</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1738</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1738</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 SANOFI SPONSORED ADR</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-03-12</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>4450</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4759</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-309</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-309</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 V F CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-07-22</AcquiredDt>
+          <SoldDt>2018-10-11</SoldDt>
+          <GrossSalesPriceAmt>12969</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11128</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1841</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1841</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 V F CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2018-10-11</SoldDt>
+          <GrossSalesPriceAmt>8646</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6473</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2173</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2173</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>200 VALERO ENERGY CORP</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>22285</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10124</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12161</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12161</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100 XPO LOGISTICS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-11-30</AcquiredDt>
+          <SoldDt>2018-08-15</SoldDt>
+          <GrossSalesPriceAmt>9945</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3088</CostOrOtherBasisAmt>
+          <GainOrLossAmt>6857</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>6857</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50 YUM BRANDS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-11-17</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>3992</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2597</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1395</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1395</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150 YUM BRANDS INC</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-08-01</AcquiredDt>
+          <SoldDt>2017-11-13</SoldDt>
+          <GrossSalesPriceAmt>11977</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7397</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4580</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4580</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>79575</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>53879</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>957110</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.056293</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>55559</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>963710</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.057651</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>57178</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1147757</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.049817</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>59732</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1119361</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.053363</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>598328</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1548453</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.386404</DistributionYr5Rt>
+        <TotalDistributionRt>0.603528</TotalDistributionRt>
+        <AverageDistributionRt>0.120706</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>957712</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>115602</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>836</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>116438</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>86500</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>1672</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1672</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1672</TaxBasedOnInvestmentIncomeAmt>
+        <TotalPaymentsAndCreditsAmt>0</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>15</EsPenaltyAmt>
+        <TaxDueAmt>1687</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>false</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>GELFAND RENNERT &amp; FELDMAN LLC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2123078000</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>360 HAMILTON AVE 100</AddressLine1Txt>
+          <CityNm>WHITE PLAINS</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>10601</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>STEVEN H MILLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O GRF - 360 HAMILTON AVE 100</AddressLine1Txt>
+            <CityNm>WHITE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10601</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANICE GINSBERG MILLER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O GRF - 360 HAMILTON AVE 100</AddressLine1Txt>
+            <CityNm>WHITE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10601</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TODD KAMELHAR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>C/O GRF - 360 HAMILTON AVE 100</AddressLine1Txt>
+            <CityNm>WHITE PLAINS</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10601</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>THE ONLY ACTIVITY OF THE MILLER FOUNDATION IS TO MAKE DONATIONS TO OTHER SECTION 501 (C)(3) ORGANIZATIONS</Description1Txt>
+        <Expenses1Amt>86500</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>938547</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>33749</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>972296</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>972296</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>14584</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>957712</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>47886</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>47886</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1672</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1672</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>46214</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>46214</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>46214</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>86500</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>86500</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>86500</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>46214</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>453907</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>6137</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>1190</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>8302</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>6547</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>476083</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>86500</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>46214</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>40286</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>516369</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>453907</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>62462</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>6137</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>1190</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>8302</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>6547</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>40286</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>STEVEN H MILLER</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CITY MEALS ON WHEELS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>355 LEXINGTON AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUDSON VALLEY ANIMAL RESCUE &amp; SANCTUARY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>15 BARNES DR</AddressLine1Txt>
+            <CityNm>POUGHKEEPSIE</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12603</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>ASPCA OF NY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>424 EAST 92ND STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10128</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MARTY STUART CENTER FOR COUNTRY MUSIC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 330 256 WEST BEACON STREET</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>MS</StateAbbreviationCd>
+            <ZIPCd>39350</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HUMANE SOCIETY OF NEW YORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>306 EAST 59TH STREET</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10022</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>JAZZ AT LINCOLN CENTER - BLUES PEDEGOGY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3 COLUMBUS CIRCLE 12Fl</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>RIVERSIDE PARK CONSERVANCY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>475 RIVERSIDE DRIVE STE 455</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10115</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE BLUES FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>421 SOUTH MAIN</AddressLine1Txt>
+            <CityNm>MEMPHIS</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38103</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>VISITING NURSE SERVICE OF NEW YORK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>107 EAST 70TH STREET 5TH Fl</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10021</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DEPARTMENT OF MUSICAL INSTRUMENT DEPT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>MET MUSEUM OF ART 1000 5TH AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10028</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DUTCHESS COUNTY SPCA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>636 VIOLET AVE</AddressLine1Txt>
+            <CityNm>HYDE PARK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>12538</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOSPICE OF NY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>45-18 COURT SQR SUITE 500</AddressLine1Txt>
+            <CityNm>LONG ISLAND CITY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11101</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOUNT SINAI - DEPT OF SURGERY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 10TH AVE</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10019</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GENERAL SUPPORT</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>86500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>260</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17533</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>79575</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>97368</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>97368</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>INVESTMENT CORPORATE STOCK</StockNm>
+        <EOYBookValueAmt>881573</EOYBookValueAmt>
+        <EOYFMVAmt>1207488</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>INVESTMENT OTHER ASSETS</Desc>
+        <BOYBookValueAmt>44818</BOYBookValueAmt>
+        <EOYBookValueAmt>59788</EOYBookValueAmt>
+        <EOYFMVAmt>85274</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>18</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>LICENSE &amp; FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>175</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>OFFICE</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>CHARLES SCHWAB -</CategoryTxt>
+        <Amt>27</Amt>
+        <NetInvestmentIncomeAmt>27</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>13640</Amt>
+        <NetInvestmentIncomeAmt>13640</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL EXCISE TAX</CategoryTxt>
+        <Amt>54</Amt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES WITHHELD</CategoryTxt>
+        <Amt>104</Amt>
+        <NetInvestmentIncomeAmt>104</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

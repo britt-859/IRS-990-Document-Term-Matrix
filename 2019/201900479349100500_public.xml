@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-16T09:24:42-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>741249829</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ROLOFF HNATEK AND CO LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>120 S MAIN ST SUITE 300</AddressLine1Txt>
+        <CityNm>VICTORIA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>77901</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>742318575</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CLOYDE AND ETHEL LEE TRACY</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>FOUNDATION</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CLOY</BusinessNameControlTxt>
+      <PhoneNum>3614858514</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 1969</AddressLine1Txt>
+        <CityNm>VICTORIA</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>779021969</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN MCQUILLEN</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>3614858514</PhoneNum>
+      <SignatureDt>2019-01-25</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>RUSSELL A HODON</PreparerPersonNm>
+      <PTIN>P00149470</PTIN>
+      <PhoneNum>3615782915</PhoneNum>
+      <PreparationDt>2019-02-16</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>208.180.6.4</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-16</IPDt>
+      <IPTm>09:24:42</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>93E0A82DF2F54FC386F5DFB0BA870B064C4077A5</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>AA83C61CB928B52CC4FABFFD302B9E778E123B7A</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="10">
+    <IRS990PF documentId="RetDoc11">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3174996</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>76221</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>76221</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>76221</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>165428</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1056404</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>165428</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc6">12</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>12</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>12</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>241661</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>241661</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>76233</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">4125</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4125</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>4125</AccountingFeesAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc8">32412</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>32412</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>32412</OtherProfFeesAdjNetIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">4699</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>4699</TaxesNetInvstIncmAmt>
+        <TaxesAdjNetIncmAmt>4699</TaxesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>41236</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>41236</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>41236</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>120500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>120500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>161736</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>41236</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>41236</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>120500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>79925</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>200425</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>34997</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>1097</CashBOYAmt>
+        <CashEOYAmt>1266</CashEOYAmt>
+        <CashEOYFMVAmt>1266</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>91632</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>89339</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>89339</SavAndTempCashInvstEOYFMVAmt>
+        <PrepaidExpensesEOYAmt>491</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>491</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>223728</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt>231892</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>230462</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>1873638</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc3">2463139</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2601694</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>256440</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc2">257527</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>251742</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="RetDoc4">2</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="RetDoc4">2</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="RetDoc4">2</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>2446537</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3043656</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3174996</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="RetDoc7">431</OtherLiabilitiesBOYAmt>
+        <TotalLiabilitiesBOYAmt>431</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>2446106</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>3043656</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2446106</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3043656</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2446537</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3043656</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2446106</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>79925</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="RetDoc5">517625</OtherIncreasesAmt>
+        <SubtotalAmt>3043656</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3043656</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2018-12-31</AcquiredDt>
+          <SoldDt>2018-12-31</SoldDt>
+          <GrossSalesPriceAmt>1035809</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>890976</CostOrOtherBasisAmt>
+          <GainOrLossAmt>144833</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>144833</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>165428</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>121000</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>2444424</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.049500</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>117000</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2438014</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.047990</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>113000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>2468671</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.045774</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>156524</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2524957</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.061991</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>120450</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2909576</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.041398</DistributionYr5Rt>
+        <TotalDistributionRt>0.246653</TotalDistributionRt>
+        <AverageDistributionRt>0.049331</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>2546810</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>125637</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2004</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>127641</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>120500</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>4009</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>4009</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4009</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4500</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4500</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>491</OverpaymentAmt>
+        <AppliedToESTaxAmt>491</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>NONE</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ROLOFF HNATEK &amp; CO LLP</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3615782915</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>120 S MAIN ST SUITE 300</AddressLine1Txt>
+          <CityNm>VICTORIA</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>77901</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAN SCOTT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 1969</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77902</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN MCQUILLEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 4227</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77903</ZIPCd>
+          </USAddress>
+          <TitleTxt>TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MYRA STARKEY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>404 W GUADALUPE ST</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2502806</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>82788</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>2585594</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>2585594</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>38784</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>2546810</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>127341</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>127341</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>4009</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>4009</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>123332</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>123332</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>123332</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>120500</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>120500</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>120500</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>123332</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>119545</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>120500</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>119545</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>955</AppliedToCurrentYearAmt>
+        <UndistributedIncomeCYAmt>122377</UndistributedIncomeCYAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JAN SCOTT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1969</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77902</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3615739191</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>LETTER CONTAINING INFORMATION ON APPLICANT</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHRIST'S KITCHEN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3391</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77903</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>PROVIDE MEALS FOR THE NEEDY</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VICTORIA FINE ARTS ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1393</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77902</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROMOTE THE ARTS IN THE COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GRACE PRESBYTERIAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3406 N BEN JORDAN</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPLEMENT CHURCH INCOME</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SCHREINER UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2100 MEMORIAL BLVD</AddressLine1Txt>
+            <CityNm>KERRVILLE</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>78028</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT STAFF AND STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VICTORIA BACH FESTIVAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3522</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77903</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO PROMOTE THE ARTS IN THE COMMUNITY</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>VICTORIA COLLEGE FOUNDATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2200 E RED RIVER</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT STAFF AND STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF HOUSTON-VICTORIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2506 E RED RIVER</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT STAFF AND STUDENTS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CITY OF VICTORIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>700 MAIN CENTER</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>IMPROVEMENTS TO TRACY PARK</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>YMCA OF THE GOLDEN CRESCENT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1806 N NIMITZ ST</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT RECREATIONAL PROGRAMS</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST JOSEPH HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>110 E RED RIVER ST</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO SUPPORT CATHOLIC HIGH SCHOOL</GrantOrContributionPurposeTxt>
+          <Amt>20000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CHILDREN'S DISCOVERY MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1205 SAM HOUSTON DR</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CHILDREN'S EDUCATIONAL DEVELOPMENT</GrantOrContributionPurposeTxt>
+          <Amt>11000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HOSPICE OF SOUTH TEXAS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>605 E LOCUST AVE</AddressLine1Txt>
+            <CityNm>VICTORIA</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>77901</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>TO ASSIST THE TERMINALLY ILL</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>120500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>76221</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <OtherInvestmentIncmPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>12</ExclusionAmt>
+        </OtherInvestmentIncmPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>165428</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>241661</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>241661</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>BOOKKEEPING &amp; FORM 990-PF</CategoryTxt>
+        <Amt>4125</Amt>
+        <NetInvestmentIncomeAmt>4125</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4125</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CORPORATE BONDS</BondNm>
+        <EOYBookValueAmt>257527</EOYBookValueAmt>
+        <EOYFMVAmt>251742</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>CORPORATE STOCKS</StockNm>
+        <EOYBookValueAmt>2463139</EOYBookValueAmt>
+        <EOYFMVAmt>2601694</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherAssetsSchedule documentId="RetDoc4">
+      <OtherAssetsScheduleGrp>
+        <Desc>MINERAL INTERESTS</Desc>
+        <BOYBookValueAmt>2</BOYBookValueAmt>
+        <EOYBookValueAmt>2</EOYBookValueAmt>
+        <EOYFMVAmt>2</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncomeDetail>
+        <Desc>MISC. INVESTMENT INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>12</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>12</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>12</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="RetDoc5">
+      <OtherIncreasesDetail>
+        <Desc>TRANSFERS IN FROM CRG TRUST</Desc>
+        <Amt>517625</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc7">
+      <OtherLiabilitiesDetail>
+        <Desc>EXCISE TAX PAYABLE</Desc>
+        <BOYBookValueAmt>431</BOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc8">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>32412</Amt>
+        <NetInvestmentIncomeAmt>32412</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>32412</AdjustedNetIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>TAXES ON FOREIGN DIVIDENDS</CategoryTxt>
+        <Amt>690</Amt>
+        <NetInvestmentIncomeAmt>690</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>690</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>4009</Amt>
+        <NetInvestmentIncomeAmt>4009</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4009</AdjustedNetIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

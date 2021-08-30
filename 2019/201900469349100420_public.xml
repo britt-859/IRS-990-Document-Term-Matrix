@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-15T14:39:01-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>John L Jarzab CPA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>693 Pleasant Dr</AddressLine1Txt>
+        <CityNm>Warren</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>163653498</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>256060174</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Wendell W McMillen Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WEND</BusinessNameControlTxt>
+      <PhoneNum>8149685479</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>511 School Street PO Box 638</AddressLine1Txt>
+        <CityNm>Sheffield</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>16347</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JAMES W MCMILLEN</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>8149685479</PhoneNum>
+      <SignatureDt>2018-07-16</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOHN L JARZAB CPA</PreparerPersonNm>
+      <PTIN>P00227880</PTIN>
+      <PhoneNum>8147260948</PhoneNum>
+      <PreparationDt>2019-02-15</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>209.203.198.111</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-15</IPDt>
+      <IPTm>14:38:50</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>1D7F801360A717C51EBEFFAA482C2B1BF56E9107</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>1D7F801360A717C51EBEFFAA482C2B1BF56E9107</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="7">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>610786</FMVAssetsEOYAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>32</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>32</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>32</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>17357</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>17357</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>17357</DividendsAdjNetIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="00000006" referenceDocumentName="OtherIncomeSchedule2">4852</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>4852</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>4852</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>22241</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>22241</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>22241</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">4210</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4210</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>4210</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4210</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="00000007" referenceDocumentName="OtherProfessionalFeesSchedule">1275</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>1275</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>1275</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>1275</OtherProfFeesDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000005" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">152</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>152</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>152</OtherExpensesAdjNetIncmAmt>
+        <OtherExpensesDsbrsChrtblAmt>152</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>5637</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>5637</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>5637</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>5637</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>32850</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>32850</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>38487</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>5637</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>5637</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>38487</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-16246</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>16604</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>16604</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>2386</CashBOYAmt>
+        <CashEOYAmt>3320</CashEOYAmt>
+        <CashEOYFMVAmt>3320</CashEOYFMVAmt>
+        <AcctRcvblAmt>312376</AcctRcvblAmt>
+        <AcctRcvblAllwncDbtflAcctAmt>43023</AcctRcvblAllwncDbtflAcctAmt>
+        <AcctRcvblBOYAmt>309138</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>269353</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>269353</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>232825</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpStockSchedule">244956</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>338113</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>544349</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>517629</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>610786</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>650</AccountsPayableBOYAmt>
+        <TotalLiabilitiesBOYAmt>650</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>543699</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>517629</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>543699</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>517629</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>544349</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>517629</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>543699</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-16246</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>527453</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="00000004" referenceDocumentName="OtherDecreasesSchedule">9824</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>517629</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>500 Shares General Electric</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1994-07-18</AcquiredDt>
+          <SoldDt>2017-11-07</SoldDt>
+          <GrossSalesPriceAmt>10167</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>10890</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-723</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>-723</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>-723</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>52176</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>425553</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.122608</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>59543</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>336267</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.177071</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>25195</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>348490</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.072298</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>22500</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>344293</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.065351</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>9950</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>304922</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.032631</DistributionYr5Rt>
+        <TotalDistributionRt>0.469959</TotalDistributionRt>
+        <AverageDistributionRt>0.093992</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>413262</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>38843</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>166</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>39009</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>69829</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>166</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>166</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>166</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>36</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>325</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>361</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnOverpaymentAmt>-361</OriginalReturnOverpaymentAmt>
+        <OverpaymentAmt>195</OverpaymentAmt>
+        <AppliedToESTaxAmt>195</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>Paulette Grove</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>8149685489</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>511 School St PO Box 683</AddressLine1Txt>
+          <CityNm>Sheffield</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>16347</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JAMES W MCMILLEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>511 School Street PO Box 638</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director/Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>842</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOYCE E OLSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>103 Van Ettan</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director/Trustee</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>3.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>842</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Providing education loans to sixteen individuals for collegeor technical education to use for tuitution, fees, and othereducation costs during the fiscal year April 1, 2017 to March 31, 2018</Description1Txt>
+        <Expenses1Amt>22850</Expenses1Amt>
+        <Description2Txt>Providing education awards to individuals for post secondaryeducation to use for tuition, fees, and other educationcosts during the fiscal year April 1, 2017 to March 31, 2018</Description2Txt>
+        <Expenses2Amt>10000</Expenses2Amt>
+        <Expenses3Amt>0</Expenses3Amt>
+        <Expenses4Amt>0</Expenses4Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>Use of princial and interest from repaid student loansto purchase securities that generate income to providefuture student loans or grants during the fiscal year</Description1Txt>
+        <Expenses1Amt>13953</Expenses1Amt>
+        <Description2Txt>Use of principal appreciation and earnings from investmentsto provide educational awards to students during the fiscal yearApril 1, 2017 to March 31. 2018</Description2Txt>
+        <Expenses2Amt>17389</Expenses2Amt>
+        <TotalAmt>31342</TotalAmt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>413439</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>6116</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>419555</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>419555</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>6293</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>413262</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>20663</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>20663</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>166</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>166</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>20497</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>20497</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>20497</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>38487</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>31342</ProgramRelatedInvstTotalAmt>
+        <QualifyingDistributionsAmt>69829</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>166</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>69663</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>20497</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>20970</UndistributedIncomePYAmt>
+        <ExcessDistributionCyovYr5Amt>9950</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>22500</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>25368</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>59726</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>52484</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>170028</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>69829</QualifyingDistributionsAmt>
+        <RemainingDistriFromCorpusAmt>69829</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>239857</TotalCorpusAmt>
+        <Taxable2Amt>20970</Taxable2Amt>
+        <UndistributedIncomeCYAmt>20497</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>9950</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>229907</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>22500</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>25368</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>59726</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>52484</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>69829</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>PAULETTE GROVE CO WWMCMILLEN FOUNDA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4058 Route 6</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>8147302702</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>WRITE OR CALL FOR AN APPLICATION, INSTITUTION ATTENDING, AND FINANCIAL NEED.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>APPLICATIONS ARE ACCEPTED ANYTIME. NOTICE OF APROVAL, REJECTION, OR ADDITIONAL INFORMATION</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MADELINE J FISCUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 732</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ROGER K DUNHAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Pratt Street</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KENNEDE EBERSOLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>248 East Main Street</AddressLine1Txt>
+            <CityNm>Youngsville</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16371</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HUNTER EGGER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>128 Weiler Road</AddressLine1Txt>
+            <CityNm>Warren</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16365</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>1200</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MARY FISCUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 732</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>600</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HANNA FITCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 142</AddressLine1Txt>
+            <CityNm>Ludlow</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16333</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>750</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>JENNIFER GIANNELLI</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>461 W 31st Street</AddressLine1Txt>
+            <CityNm>Erie</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>165081740</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>700</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>EMILY C GROVE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4058 Route 6</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16365</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Academic Award</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>M LEICHTENBERGER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 331</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loan</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LANDON MCNEAL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 44</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loan</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CLARENCE PIERSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>215 Country Lane</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loan</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>DANIEL W PIERSON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>215 Country Lane</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TANNER BARR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 99</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loans</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KAMERON ORINKO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>222 Four Mile RoadPO Box 154</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loan</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RYAN LEMAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 683</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Academic Ward</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>RACHEL M LEMAY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 683</AddressLine1Txt>
+            <CityNm>Sheffield</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>16347</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>None</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Education Loan</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>32850</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <BusinessCd>611710</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>32</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <BusinessCd>611710</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>17357</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <BusinessCd>611710</BusinessCd>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>-723</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Student Loan Interst</Desc>
+          <BusinessCd>611710</BusinessCd>
+          <ExclusionCd>3</ExclusionCd>
+          <ExclusionAmt>4852</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>21518</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>21518</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFeesDetail>
+        <CategoryTxt>Paulette Grove Bookkeeping</CategoryTxt>
+        <Amt>2526</Amt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>Joyce Olson Bookkeeping</CategoryTxt>
+        <Amt>842</Amt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>James McMillen Recording Keeping</CategoryTxt>
+        <Amt>842</Amt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000003">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>AT&amp;T</StockNm>
+        <EOYBookValueAmt>18217</EOYBookValueAmt>
+        <EOYFMVAmt>26096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>General Electric</StockNm>
+        <EOYBookValueAmt>10744</EOYBookValueAmt>
+        <EOYFMVAmt>6740</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson &amp; Johnson</StockNm>
+        <EOYBookValueAmt>13474</EOYBookValueAmt>
+        <EOYFMVAmt>25630</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Merrill Lynch Ready Asset Fund</StockNm>
+        <EOYBookValueAmt>13125</EOYBookValueAmt>
+        <EOYFMVAmt>13351</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>PP&amp;L Reinvested Dividends</StockNm>
+        <EOYBookValueAmt>189396</EOYBookValueAmt>
+        <EOYFMVAmt>266296</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="00000004">
+      <OtherDecreasesDetail>
+        <Desc>Student Loan Repayments</Desc>
+        <Amt>9101</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>Loss on Sale of Investment not reportable on Part 1, line 27a</Desc>
+        <Amt>723</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="00000005">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Fees</Desc>
+        <RevenueAndExpensesPerBooksAmt>36</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>36</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>36</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>36</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage</Desc>
+        <RevenueAndExpensesPerBooksAmt>116</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>116</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>116</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>116</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000006">
+      <OtherIncomeDetail>
+        <Desc>Student Loan Interest</Desc>
+        <RevenueAndExpensesPerBooksAmt>4852</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>4852</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>4852</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="00000007">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>John Jarzab, CPA Tax Preparation</CategoryTxt>
+        <Amt>1275</Amt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

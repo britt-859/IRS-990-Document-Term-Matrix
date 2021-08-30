@@ -1,0 +1,1783 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-22T15:00:18-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-11-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>134008324</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>PRICEWATERHOUSECOOPERS LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>600 GRANT STREET</AddressLine1Txt>
+        <CityNm>PITTSBURGH</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>15219</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-12-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>277012186</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>CLARY MEMORIAL TRUST UMA</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>CLAR</BusinessNameControlTxt>
+      <PhoneNum>3144182643</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 0634</AddressLine1Txt>
+        <CityNm>MILWAUKEE</CityNm>
+        <StateAbbreviationCd>WI</StateAbbreviationCd>
+        <ZIPCd>532010634</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>U S BANK N A BY</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3144182643</PhoneNum>
+      <SignatureDt>2019-02-01</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOSEPH J CASTRIANO</PreparerPersonNm>
+      <PTIN>P01251603</PTIN>
+      <PhoneNum>4123556000</PhoneNum>
+      <PreparationDt>2019-02-01</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>155.201.188.7</IPv4AddressTxt>
+      </IPAddress>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>E232637F30758EF4755D4901DB2D8222A000A11D</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>2C6337963F461FDCFC5940EA502E7ACF630D46DB</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>1437897</FMVAssetsEOYAmt>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>39555</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>39555</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>16797</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>570301</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>16797</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>0</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>56352</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>56352</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>22862</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>20575</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>2286</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsNetInvstIncmAmt>0</OthEmplSlrsWgsNetInvstIncmAmt>
+        <OthEmplSlrsWgsAdjNetIncmAmt>0</OthEmplSlrsWgsAdjNetIncmAmt>
+        <OthEmplSlrsWgsDsbrsChrtblAmt>0</OthEmplSlrsWgsDsbrsChrtblAmt>
+        <PensionEmplBnftNetInvstIncmAmt>0</PensionEmplBnftNetInvstIncmAmt>
+        <PensionEmplBnftAdjNetIncmAmt>0</PensionEmplBnftAdjNetIncmAmt>
+        <LegalFeesDsbrsChrtblAmt>0</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSchedule">1500</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>0</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1500</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesDsbrsChrtblAmt>0</OtherProfFeesDsbrsChrtblAmt>
+        <InterestDsbrsChrtblAmt>0</InterestDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4776</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>1192</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>0</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt>0</DeprecAndDpltnRevAndExpnssAmt>
+        <DeprecAndDpltnNetInvstIncmAmt>0</DeprecAndDpltnNetInvstIncmAmt>
+        <TravConfMeetingNetInvstIncmAmt>0</TravConfMeetingNetInvstIncmAmt>
+        <TravConfMeetingAdjNetIncmAmt>0</TravConfMeetingAdjNetIncmAmt>
+        <PrintingAndPubNetInvstIncmAmt>0</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>0</PrintingAndPubAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSchedule">157</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>157</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>29295</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>21924</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>3786</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>74672</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>74672</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>103967</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>21924</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>78458</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-47615</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>34428</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>58737</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>66940</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>66940</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblEOYAmt>0</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>0</AcctRcvblEOYFMVAmt>
+        <OtherRcvblAllwncDbtflAcctAmt>0</OtherRcvblAllwncDbtflAcctAmt>
+        <CorporateStockBOYAmt>990789</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="InvestmentsCorpStockSchedule">807437</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>875301</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>356736</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestmentsCorpBondsSchedule">515146</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>495656</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>30984</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYFMVAmt>0</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>1437246</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>1389523</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>1437897</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>1437246</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>1389523</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>1437246</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1389523</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>1437246</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>1389523</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>1437246</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-47615</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>0</OtherIncreasesAmt>
+        <SubtotalAmt>1389631</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSchedule">108</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>1389523</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1. PRUDENTIAL FINANCIAL INC</PropertyDesc>
+          <AcquiredDt>1911-11-11</AcquiredDt>
+          <SoldDt>2017-12-11</SoldDt>
+          <GrossSalesPriceAmt>30</GrossSalesPriceAmt>
+          <GainOrLossAmt>30</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>30</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50000. WELLS FARGO CO 5.625% 12/11/17</PropertyDesc>
+          <AcquiredDt>2009-12-17</AcquiredDt>
+          <SoldDt>2017-12-11</SoldDt>
+          <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>52722</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2722</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2722</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. SEATTLE SPINCO, INC.</PropertyDesc>
+          <AcquiredDt>2015-01-28</AcquiredDt>
+          <SoldDt>2018-01-01</SoldDt>
+          <GrossSalesPriceAmt>547</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>443</CostOrOtherBasisAmt>
+          <GainOrLossAmt>104</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>104</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40. ALBEMARLE CORP</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>5295</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5487</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-192</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-192</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>385. AVIANCA HOLDINGS A D R</PropertyDesc>
+          <AcquiredDt>2014-03-10</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>3030</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6195</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-3165</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-3165</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>80. CARNIVAL PLC A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>5469</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5137</CostOrOtherBasisAmt>
+          <GainOrLossAmt>332</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>332</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>35. CELGENE CORPORATION COM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>3683</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5111</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1428</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1428</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>390. FLY LEASING LTD A D R</PropertyDesc>
+          <AcquiredDt>2014-03-10</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>5031</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6104</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1073</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1073</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. FRESENIUS MED AKTIENGESELLSCHAFT ADR</PropertyDesc>
+          <AcquiredDt>2015-01-28</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>7320</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5080</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2240</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2240</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>120. GLAXO SMITHKLINE P L C A D R</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>4361</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5148</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-787</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-787</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>160. MOMO INC A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>4278</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5166</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-888</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-888</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>84. NATIONAL GRID PLC A D R</PropertyDesc>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>4764</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6540</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1776</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1776</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>2379.548 NUVEEN INFLATION PRO SEC CL I</PropertyDesc>
+          <AcquiredDt>2011-08-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>26484</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>27103</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-619</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-619</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>655.487 NUVEEN INFLATION PRO SEC CL I</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>7296</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7335</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-39</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-39</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25. O REILLY AUTOMOTIVE INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>6476</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5344</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1132</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1132</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>165. PFIZER INC</PropertyDesc>
+          <AcquiredDt>2011-08-29</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>6008</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3108</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2900</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2900</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. SCHLUMBERGER LTD ORD</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>4526</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5040</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-514</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-514</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>465. TRIVAGO NV A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>3320</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5073</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1753</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1753</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125. WNS HOLDINGS LTD ADR</PropertyDesc>
+          <AcquiredDt>2014-03-10</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>5058</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2479</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2579</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2579</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. WACOAL HOLDINGS CORP A D R</PropertyDesc>
+          <AcquiredDt>2014-03-20</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>7847</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5038</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2809</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2809</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>165. WESTPAC BANKING COPR SPON ADR</PropertyDesc>
+          <AcquiredDt>2014-08-06</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>4069</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5204</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1135</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1135</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. LYONDELLBASELL INDUSTRIES CL A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-01-10</SoldDt>
+          <GrossSalesPriceAmt>5741</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4980</CostOrOtherBasisAmt>
+          <GainOrLossAmt>761</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>761</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. MASTERCARD INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-06-04</SoldDt>
+          <GrossSalesPriceAmt>9860</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7158</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2702</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2702</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>80. SPLUNK INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-06-04</SoldDt>
+          <GrossSalesPriceAmt>9176</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5249</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3927</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3927</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>390. STMICROELECTRONICS N V</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-06-04</SoldDt>
+          <GrossSalesPriceAmt>9266</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7765</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1501</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1501</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>30. TRANSDIGM GROUP INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-06-04</SoldDt>
+          <GrossSalesPriceAmt>10106</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7841</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2265</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2265</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>185. ABB LTD A D R</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4015</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5100</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1085</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1085</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>255. ATT INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>8097</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10062</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1965</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1965</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4. AMAZON COM INC COM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>7385</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3831</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3554</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3554</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>36. APPLE COMPUTER INC COM</PropertyDesc>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>6886</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2418</CostOrOtherBasisAmt>
+          <GainOrLossAmt>4468</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>4468</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>145. ARCELORMITTAL CLASS A N Y REGISTRY</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4389</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5195</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-806</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-806</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>55. CVS CORP COM</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>3735</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6059</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2324</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2324</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75. CVS CORP COM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5093</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6075</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-982</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-982</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>190. CABOT OIL GAS CORP CL A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4532</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5062</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-530</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-530</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>150. CANADIAN NATURAL RESOURCES LTD</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5404</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5085</CostOrOtherBasisAmt>
+          <GainOrLossAmt>319</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>319</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>245. CANON INC ADR REPSTG 5 SHS</PropertyDesc>
+          <AcquiredDt>2014-08-06</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>7769</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8072</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-303</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-303</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>95. CANON INC ADR REPSTG 5 SHS</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>3012</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3268</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-256</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-256</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. COMCAST CORP CL A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4647</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5160</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-513</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-513</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. DOLLAR TREE INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5169</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5210</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-41</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-41</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. EDWARDS LIFESCIENCES CORP COM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>7428</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5416</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2012</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2012</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. GILEAD SCIENCES INC COM</PropertyDesc>
+          <AcquiredDt>2015-01-28</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>3864</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5174</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1310</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1310</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>130. HORMEL FOODS CORPORATIONCOM</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4760</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4607</CostOrOtherBasisAmt>
+          <GainOrLossAmt>153</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>153</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>275. I N G GROEP NV SPONSORED ADR</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>3960</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5090</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1130</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1130</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. JP MORGAN CHASE &amp; CO COM</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5519</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3453</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2066</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2066</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>75. MARATHON PETROLEUM CORP</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5422</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5211</CostOrOtherBasisAmt>
+          <GainOrLossAmt>211</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>211</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>15. MARATHON PETROLEUM CORP</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>1084</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>874</CostOrOtherBasisAmt>
+          <GainOrLossAmt>210</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>210</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>195. MELCO CROWN ENTERTAINMENT LMTD A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4795</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4719</CostOrOtherBasisAmt>
+          <GainOrLossAmt>76</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>76</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. MICROSOFT CORP COM</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5304</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2321</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2983</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2983</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1415. MIZUHO FNL GRP A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4684</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5066</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-382</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-382</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100. NESTLE S A SPONSORED ADR REPSTG REG SH</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>7916</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8565</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-649</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-649</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65. NOVARTIS AG SPONSORED ADR</PropertyDesc>
+          <AcquiredDt>2014-08-06</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5100</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5597</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-497</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-497</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. POSCO A D R</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4238</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5267</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1029</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1029</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>50. PPG INDS INC COM W/RTS ATTACHED EXP 04/30/2008</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5244</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5587</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-343</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-343</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>185. ROCHE HLDG LTD SPONSORED ADR</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5358</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5940</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-582</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-582</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>45. SERVICENOW INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>8582</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5317</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3265</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3265</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>260. SMITH NEPHEW P L C A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>9243</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9506</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-263</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-263</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. SONY CORP AMERN SH NEW</PropertyDesc>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>7259</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6359</CostOrOtherBasisAmt>
+          <GainOrLossAmt>900</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>900</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105. TRANSCANADA CORP</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>4515</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5157</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-642</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-642</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105. VERIZON COMMUNICATIONS</PropertyDesc>
+          <AcquiredDt>2015-07-17</AcquiredDt>
+          <SoldDt>2018-07-17</SoldDt>
+          <GrossSalesPriceAmt>5426</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5002</CostOrOtherBasisAmt>
+          <GainOrLossAmt>424</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>424</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>230. AMERICAN CAMPUS COMMUNITIES</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>9568</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>10212</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-644</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-644</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>35. APPLE COMPUTER INC COM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>7739</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5415</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2324</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2324</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14. APPLE COMPUTER INC COM</PropertyDesc>
+          <AcquiredDt>2011-08-01</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>3096</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>790</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2306</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2306</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>320. DANONE SPONS A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>4938</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5103</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-165</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-165</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>95. RIO TINTO PLC SPONSORED ADR</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>4844</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5180</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-336</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-336</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. YY INC A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-09-20</SoldDt>
+          <GrossSalesPriceAmt>4437</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5410</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-973</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-973</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>170. AIA GROUP LTD ADR</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5374</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5078</CostOrOtherBasisAmt>
+          <GainOrLossAmt>296</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>296</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>352.858 AQR LONG SHORT EQUITY I</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>4270</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5000</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-730</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-730</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65.749 AQR LONG SHORT EQUITY I</PropertyDesc>
+          <AcquiredDt>2017-01-12</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>796</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>856</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-60</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-60</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>820. AEGON N V NY REG SHR</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>4996</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5058</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-62</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-62</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>1403.044 INV BALANCE RISK COMM STR Y</PropertyDesc>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>9625</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9090</CostOrOtherBasisAmt>
+          <GainOrLossAmt>535</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>535</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>16. BIOGEN, INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5431</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5074</CostOrOtherBasisAmt>
+          <GainOrLossAmt>357</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>357</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. CELGENE CORPORATION COM</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5060</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5161</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-101</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-101</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. CHINA PETROLEUM CHEM A D R</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5091</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5417</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-326</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-326</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. DELTA AIR LINES INC</PropertyDesc>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>7379</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6880</CostOrOtherBasisAmt>
+          <GainOrLossAmt>499</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>499</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>85. 51JOB INC A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5142</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5236</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-94</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-94</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>4. GARRETT MOTION INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>60</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>61</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>205. GENERAL ELEC CO</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>2509</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5072</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2563</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2563</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>105. MAGNA INTL INC CL A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5161</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5668</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-507</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-507</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>495. MELCO CROWN ENTERTAINMENT LMTD A D R</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>9208</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>11979</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2771</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2771</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40. PNC FINL SVCS GROUP INC COM W/RIGHTS ATTACHED EXP 5/25/2010</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5084</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5360</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-276</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-276</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>420. PEARSON P L C A D R</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>4570</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5061</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-491</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-491</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>115. SCHWAB CHARLES CORP COM NEW</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5534</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5114</CostOrOtherBasisAmt>
+          <GainOrLossAmt>420</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>420</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>100. SONY CORP AMERN SH NEW</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>5786</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>3762</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2024</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2024</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>14. TRANSDIGM GROUP INC</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-10-17</SoldDt>
+          <GrossSalesPriceAmt>4847</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5104</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-257</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-257</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>.6667 RESIDEO TECHNOLOGIES INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-11-05</SoldDt>
+          <GrossSalesPriceAmt>16</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>16</CostOrOtherBasisAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>35. CENTENE CORP COM</PropertyDesc>
+          <AcquiredDt>2018-10-17</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>4873</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5080</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-207</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-207</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125. ENBRIDGE INC</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>4037</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4906</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-869</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-869</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>40. FACEBOOK INC A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>5412</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6799</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1387</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1387</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>135. HORMEL FOODS CORPORATIONCOM</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>6041</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>4294</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1747</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1747</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>125. KONINKLIJKE PHILIPS ELECTRS SPONSORED ADR NEW 2000</PropertyDesc>
+          <AcquiredDt>2018-10-17</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>4657</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5182</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-525</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-525</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>25. MASTERCARD INC</PropertyDesc>
+          <AcquiredDt>2018-07-17</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>5008</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5159</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-151</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-151</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>190. PARSLEY ENERGY INC-CLASS A</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>3950</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5075</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1125</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1125</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>6. RESIDEO TECHNOLOGIES INC</PropertyDesc>
+          <AcquiredDt>2017-10-03</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>121</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>148</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-27</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-27</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>60. WESTERN DIGITAL CORP COM</PropertyDesc>
+          <AcquiredDt>2016-08-25</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>2794</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>2795</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-1</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-1</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>65. WESTERN DIGITAL CORP COM</PropertyDesc>
+          <AcquiredDt>2018-01-10</AcquiredDt>
+          <SoldDt>2018-11-28</SoldDt>
+          <GrossSalesPriceAmt>3026</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>5234</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-2208</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-2208</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>10946</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>16797</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>78804</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>1475528</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.053407</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>80446</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>1418446</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.056714</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>79974</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>1388205</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.05761</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>109622</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>1564427</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.070072</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>69986</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1539605</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.045457</DistributionYr5Rt>
+        <TotalDistributionRt>0.28326</TotalDistributionRt>
+        <AverageDistributionRt>0.056652</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>1488776</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>84342</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>344</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>84686</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>78458</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>689</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>689</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>689</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1860</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>0</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>1860</TotalPaymentsAndCreditsAmt>
+        <EsPenaltyAmt>0</EsPenaltyAmt>
+        <OverpaymentAmt>1171</OverpaymentAmt>
+        <AppliedToESTaxAmt>692</AppliedToESTaxAmt>
+        <RefundAmt>479</RefundAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MO</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>US BANK NA</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>3144182643</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 387</AddressLine1Txt>
+          <CityNm>ST LOUIS</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>63166</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>U S BANK NA</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 387</AddressLine1Txt>
+            <CityNm>ST LOUIS</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>63166</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>22862</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>1438395</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>73053</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>1511448</TotalFMVOfUnusedAssetsAmt>
+        <ReductionClaimedAmt>0</ReductionClaimedAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>1511448</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>22672</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>1488776</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>74439</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>74439</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>689</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>689</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>73750</DistributableBeforeAdjAmt>
+        <RecoveriesQualfiedDistriAmt>0</RecoveriesQualfiedDistriAmt>
+        <DistributableBeforeDedAmt>73750</DistributableBeforeDedAmt>
+        <DeductionFromDistributableAmt>0</DeductionFromDistributableAmt>
+        <DistributableAsAdjustedAmt>73750</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>78458</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>78458</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>0</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>78458</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>73750</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>0</UndistributedIncomePYAmt>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr5Amt>0</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>0</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>11560</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>9792</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>6888</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>28240</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>78458</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>0</AppliedToYear1Amt>
+        <AppliedToPriorYearsAmt>0</AppliedToPriorYearsAmt>
+        <TreatedAsDistriFromCorpusAmt>0</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>73750</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4708</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>32948</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <PriorYearDeficiencyOrTaxAmt>0</PriorYearDeficiencyOrTaxAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <Taxable2Amt>0</Taxable2Amt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>0</CorpusDistri170b1EOr4942g3Amt>
+        <ExcessDistriCyovFromYr5Amt>0</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>32948</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>0</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>11560</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>9792</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>6888</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>4708</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SHRINERS HOSPITALS FOR CHILDREN</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2900 N ROCKY POINT DRIVE</AddressLine1Txt>
+            <CityNm>TAMPA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>336071435</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>GENERAL OPERATING</GrantOrContributionPurposeTxt>
+          <Amt>74672</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>74672</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>39555</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>16797</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>56352</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>56352</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp />
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEE (NON-ALLOC</CategoryTxt>
+        <Amt>1500</Amt>
+        <DisbursementsCharitablePrpsAmt>1500</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="InvestmentsCorpBondsSchedule">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>369604BD4 GENERAL ELECTRIC CO</BondNm>
+        <EOYBookValueAmt>51018</EOYBookValueAmt>
+        <EOYFMVAmt>45114</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>037833AZ3 APPLE INC</BondNm>
+        <EOYBookValueAmt>49183</EOYBookValueAmt>
+        <EOYFMVAmt>46550</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>594918AC8 MICROSOFT CORP</BondNm>
+        <EOYBookValueAmt>51114</EOYBookValueAmt>
+        <EOYFMVAmt>50305</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>822582BD3 SHELL INTERNATIONAL</BondNm>
+        <EOYBookValueAmt>51382</EOYBookValueAmt>
+        <EOYFMVAmt>48459</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>0258M0EB1 AMERICAN EXPRESS MTN</BondNm>
+        <EOYBookValueAmt>49973</EOYBookValueAmt>
+        <EOYFMVAmt>48486</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>38148JHQ7 GOLDMAN SACHS BK C D</BondNm>
+        <EOYBookValueAmt>25000</EOYBookValueAmt>
+        <EOYFMVAmt>24801</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>06406RAD9 BANK OF NY MTN</BondNm>
+        <EOYBookValueAmt>50675</EOYBookValueAmt>
+        <EOYFMVAmt>47633</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>949746NX5 WELLS FARGO CO</BondNm>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>78010USN8 ROYAL BANK OF CANADA</BondNm>
+        <EOYBookValueAmt>50032</EOYBookValueAmt>
+        <EOYFMVAmt>49901</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>68381K606 OPPENHEIMER SENIOR F</BondNm>
+        <EOYBookValueAmt>44540</EOYBookValueAmt>
+        <EOYFMVAmt>43766</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>843879BM8 SOUTHERN STATES C D</BondNm>
+        <EOYBookValueAmt>50000</EOYBookValueAmt>
+        <EOYFMVAmt>49873</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>670690387 NUVEEN INFLATION PRO</BondNm>
+        <EOYBookValueAmt>42229</EOYBookValueAmt>
+        <EOYFMVAmt>40768</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>78409V104 S P GLOBAL INC</StockNm>
+        <EOYBookValueAmt>5575</EOYBookValueAmt>
+        <EOYFMVAmt>6400</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>H1467J104 CHUBB LTD</StockNm>
+        <EOYBookValueAmt>7541</EOYBookValueAmt>
+        <EOYFMVAmt>10699</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>670690387 NUVEEN INFLATION PRO</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>755111507 RAYTHEON COMPANY</StockNm>
+        <EOYBookValueAmt>6583</EOYBookValueAmt>
+        <EOYFMVAmt>6137</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>464287804 I SHARES S P SMALLC</StockNm>
+        <EOYBookValueAmt>41541</EOYBookValueAmt>
+        <EOYFMVAmt>48770</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>30303M102 FACEBOOK INC A</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>151020104 CELGENE CORPORATION</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>23636T100 DANONE SPONS A D R</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>922038104 VANGUARD STRATEGIC E</StockNm>
+        <EOYBookValueAmt>68230</EOYBookValueAmt>
+        <EOYFMVAmt>72989</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>03027X100 AMERICAN TOWER CORP</StockNm>
+        <EOYBookValueAmt>8896</EOYBookValueAmt>
+        <EOYFMVAmt>10692</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>437076102 HOME DEPOT INC</StockNm>
+        <EOYBookValueAmt>5779</EOYBookValueAmt>
+        <EOYFMVAmt>6311</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>458140100 INTEL CORP</StockNm>
+        <EOYBookValueAmt>5128</EOYBookValueAmt>
+        <EOYFMVAmt>6410</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>771195104 ROCHE HOLDINGS LTD S</StockNm>
+        <EOYBookValueAmt>5546</EOYBookValueAmt>
+        <EOYFMVAmt>5675</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>808513105 SCHWAB CHARLES CORP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>126650100 CVS HEALTH CORPORATI</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>585464100 MELCO CROWN ENTERTAI</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>60687Y109 MIZUHO FNL GRP A D R</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>686330101 ORIX CORP SPONS A D</StockNm>
+        <EOYBookValueAmt>5286</EOYBookValueAmt>
+        <EOYFMVAmt>5264</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>92932M101 WNS HOLDINGS LTD ADR</StockNm>
+        <EOYBookValueAmt>2678</EOYBookValueAmt>
+        <EOYFMVAmt>6593</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>256746108 DOLLAR TREE INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>N59465109 MYLAN NV</StockNm>
+        <EOYBookValueAmt>10087</EOYBookValueAmt>
+        <EOYFMVAmt>10497</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>83175M205 SMITH NEPHEW P L C</StockNm>
+        <EOYBookValueAmt>9420</EOYBookValueAmt>
+        <EOYFMVAmt>10694</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>22160K105 COSTCO WHSL CORP</StockNm>
+        <EOYBookValueAmt>5793</EOYBookValueAmt>
+        <EOYFMVAmt>8095</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>375558103 GILEAD SCIENCES INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>559222401 MAGNA INTL INC CL</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>958102105 WESTERN DIGITAL CORP</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>835699307 SONY CORP A D R</StockNm>
+        <EOYBookValueAmt>3386</EOYBookValueAmt>
+        <EOYFMVAmt>4754</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>806857108 SCHLUMBERGER LTD</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>369604103 GENERAL ELECTRIC CO</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>500467501 KONINKLIJKE AHOLD DE</StockNm>
+        <EOYBookValueAmt>5116</EOYBookValueAmt>
+        <EOYFMVAmt>8516</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>001317205 AIA GROUP LTD ADR</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>149498107 CAUSEWAY EMERGING MA</StockNm>
+        <EOYBookValueAmt>76344</EOYBookValueAmt>
+        <EOYFMVAmt>77861</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>67103H107 O REILLY AUTOMOTIVE</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>92826C839 VISA INC</StockNm>
+        <EOYBookValueAmt>5291</EOYBookValueAmt>
+        <EOYFMVAmt>7086</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>75955B102 RELX NV SPON A D R</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>893641100 TRANSDIGM GROUP INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>68381K606 OPPENHEIMER SENIOR F</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>56585A102 MARATHON PETROLEUM C</StockNm>
+        <EOYBookValueAmt>9583</EOYBookValueAmt>
+        <EOYFMVAmt>10100</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>05367G100 AVIANCA HOLDINGS A D</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>86562M209 SUMITOMO MITSUI FINL</StockNm>
+        <EOYBookValueAmt>5050</EOYBookValueAmt>
+        <EOYFMVAmt>4765</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>20030N101 COMCAST CORP CL A</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>N53745100 LYONDELLBASELL INDUS</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>247361702 DELTA AIR LINES INC</StockNm>
+        <EOYBookValueAmt>9728</EOYBookValueAmt>
+        <EOYFMVAmt>10928</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>46625H100 J P MORGAN CHASE CO</StockNm>
+        <EOYBookValueAmt>5567</EOYBookValueAmt>
+        <EOYFMVAmt>10007</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>62942M201 NTT DOCOMO INC A D R</StockNm>
+        <EOYBookValueAmt>5931</EOYBookValueAmt>
+        <EOYFMVAmt>8441</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>28176E108 EDWARDS LIFESCIENCES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>57636Q104 MASTERCARD INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>012653101 ALBEMARLE CORP</StockNm>
+        <EOYBookValueAmt>5330</EOYBookValueAmt>
+        <EOYFMVAmt>5298</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>440452100 HORMEL FOODS CORP</StockNm>
+        <EOYBookValueAmt>3535</EOYBookValueAmt>
+        <EOYFMVAmt>4960</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>693506107 P P G INDS INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>31620M106 FIDELITY NATL INFORM</StockNm>
+        <EOYBookValueAmt>5141</EOYBookValueAmt>
+        <EOYFMVAmt>5937</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>024835100 AMERICAN CAMPUS COMM</StockNm>
+        <EOYBookValueAmt>5197</EOYBookValueAmt>
+        <EOYFMVAmt>5260</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>136385101 CANADIAN NATURAL RES</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>60879B107 MOMO INC A D R</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>636274409 NATIONAL GRID PLC A</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>438516106 HONEYWELL INTERNATIO</StockNm>
+        <EOYBookValueAmt>5475</EOYBookValueAmt>
+        <EOYFMVAmt>5870</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>G1151C101 ACCENTURE PLC CL A</StockNm>
+        <EOYBookValueAmt>5374</EOYBookValueAmt>
+        <EOYFMVAmt>6581</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>060505104 BANK OF AMERICA CORP</StockNm>
+        <EOYBookValueAmt>9335</EOYBookValueAmt>
+        <EOYFMVAmt>10224</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>023135106 AMAZON.COM INC</StockNm>
+        <EOYBookValueAmt>10537</EOYBookValueAmt>
+        <EOYFMVAmt>18592</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>670100205 NOVO NORDISK AS A D</StockNm>
+        <EOYBookValueAmt>10358</EOYBookValueAmt>
+        <EOYFMVAmt>9324</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>641069406 NESTLE SA SPONSORED</StockNm>
+        <EOYBookValueAmt>8137</EOYBookValueAmt>
+        <EOYFMVAmt>8096</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>04623U102 ASTELLAS PHARMA INC</StockNm>
+        <EOYBookValueAmt>5105</EOYBookValueAmt>
+        <EOYFMVAmt>5971</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>00203H446 AQR LONG SHORT EQUIT</StockNm>
+        <EOYBookValueAmt>61865</EOYBookValueAmt>
+        <EOYFMVAmt>55593</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>48268K101 KT CORP SP A D R</StockNm>
+        <EOYBookValueAmt>10060</EOYBookValueAmt>
+        <EOYFMVAmt>10525</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>91324P102 UNITED HEALTH GROUP</StockNm>
+        <EOYBookValueAmt>12552</EOYBookValueAmt>
+        <EOYFMVAmt>16882</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>848637104 SPLUNK INC</StockNm>
+        <EOYBookValueAmt>5381</EOYBookValueAmt>
+        <EOYFMVAmt>6145</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>861012102 STMICROELECTRONICS N</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>37733W105 GLAXO SMITHKLINE P L</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>594918104 MICROSOFT CORP</StockNm>
+        <EOYBookValueAmt>11005</EOYBookValueAmt>
+        <EOYFMVAmt>21624</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>693475105 P N C FINANCIAL SERV</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>037833100 APPLE INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>00888Y508 INV BALANCE RISK COM</StockNm>
+        <EOYBookValueAmt>24568</EOYBookValueAmt>
+        <EOYFMVAmt>25099</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>02079K305 ALPHABET INC CL A</StockNm>
+        <EOYBookValueAmt>8636</EOYBookValueAmt>
+        <EOYFMVAmt>14425</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>34407D109 FLY LEASING LTD A D</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>92343V104 VERIZON COMMUNICATIO</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>654624105 NIPPON TELEGRAPH TEL</StockNm>
+        <EOYBookValueAmt>4961</EOYBookValueAmt>
+        <EOYFMVAmt>7221</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>701877102 PARSLEY ENERGY INC-C</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>66987V109 NOVARTIS AG A D R</StockNm>
+        <EOYBookValueAmt>5118</EOYBookValueAmt>
+        <EOYFMVAmt>5492</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>358029106 FRESENIUS MED AKTIEN</StockNm>
+        <EOYBookValueAmt>5180</EOYBookValueAmt>
+        <EOYFMVAmt>5095</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>127097103 CABOT OIL GAS CORP C</StockNm>
+        <EOYBookValueAmt>5160</EOYBookValueAmt>
+        <EOYFMVAmt>5284</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>931142103 WAL MART STORES INC</StockNm>
+        <EOYBookValueAmt>5141</EOYBookValueAmt>
+        <EOYFMVAmt>6347</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>717081103 PFIZER INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>00206R102 ATT INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>670678507 NUVEEN REAL ESTATE S</StockNm>
+        <EOYBookValueAmt>65761</EOYBookValueAmt>
+        <EOYFMVAmt>60850</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>09062X103 BIOGEN, INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>89353D107 TRANSCANADA CORP</StockNm>
+        <EOYBookValueAmt>5003</EOYBookValueAmt>
+        <EOYFMVAmt>5115</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>456463108 INDUSTRIAS BACHOCO S</StockNm>
+        <EOYBookValueAmt>4757</EOYBookValueAmt>
+        <EOYFMVAmt>4589</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>81762P102 SERVICENOW INC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>961214301 WESTPAC BANKING COPR</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>138006309 CANON INC SPONS A D</StockNm>
+        <EOYBookValueAmt>7009</EOYBookValueAmt>
+        <EOYFMVAmt>6082</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>00687A107 ADIDAS AG A D R</StockNm>
+        <EOYBookValueAmt>5199</EOYBookValueAmt>
+        <EOYFMVAmt>4982</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>653656108 NICE SYS LTD SPONSOR</StockNm>
+        <EOYBookValueAmt>12862</EOYBookValueAmt>
+        <EOYFMVAmt>13356</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>759530108 RELX PLC SPON A D R</StockNm>
+        <EOYBookValueAmt>5083</EOYBookValueAmt>
+        <EOYFMVAmt>6756</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>78462F103 SPDR S P 500 ETF</StockNm>
+        <EOYBookValueAmt>80272</EOYBookValueAmt>
+        <EOYFMVAmt>78836</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>29446M102 EQUINOR ASA SPON ADR</StockNm>
+        <EOYBookValueAmt>5013</EOYBookValueAmt>
+        <EOYFMVAmt>4442</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>126132109 CNOOC LTD A D R</StockNm>
+        <EOYBookValueAmt>11086</EOYBookValueAmt>
+        <EOYFMVAmt>11790</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>024524217 AMERICAN BEACON STEP</StockNm>
+        <EOYBookValueAmt>32000</EOYBookValueAmt>
+        <EOYFMVAmt>29829</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>46434G103 ISHARES CORE MSCI EM</StockNm>
+        <EOYBookValueAmt>20835</EOYBookValueAmt>
+        <EOYFMVAmt>19788</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>756577102 RED HAT INC COM</StockNm>
+        <EOYBookValueAmt>5327</EOYBookValueAmt>
+        <EOYFMVAmt>5357</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>316827104 51JOB INC A D R</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>89686D105 TRIVAGO NV A D R</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>456837103 I N G GROEP NV SPONS</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>14365C103 CARNIVAL PLC A D R</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>930004304 WACOAL HOLDINGS CORP</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>98426T106 YY INC A D R</CategoryOrItemTxt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule">
+      <OtherDecreasesDetail>
+        <Desc>COST BASIS ADJUSTMENT</Desc>
+        <Amt>108</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule">
+      <OtherExpensesScheduleGrp>
+        <Desc>ADR FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>157</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>157</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>1151</Amt>
+        <NetInvestmentIncomeAmt>1151</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAX PAYMENT - PRIOR YE</CategoryTxt>
+        <Amt>1724</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL ESTIMATES - PRINCIPAL</CategoryTxt>
+        <Amt>1860</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES ON NONQUALIFIED</CategoryTxt>
+        <Amt>41</Amt>
+        <NetInvestmentIncomeAmt>41</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

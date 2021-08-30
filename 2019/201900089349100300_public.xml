@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2018-12-26T14:32:25-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-10-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>042628601</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FLETCHER TILTON PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>370 MAIN ST 11TH FLOOR</AddressLine1Txt>
+        <CityNm>WORCESTER</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>016081779</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-11-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>042775692</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>HART FOUNDATION</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>C/O PHILLIPS S DAVIS</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>HART</BusinessNameControlTxt>
+      <PhoneNum>5084598000</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>370 MAIN STREET 12TH FLOOR</AddressLine1Txt>
+        <CityNm>WORCESTER</CityNm>
+        <StateAbbreviationCd>MA</StateAbbreviationCd>
+        <ZIPCd>01608</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>PHILLIPS S DAVIS</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>5084598000</PhoneNum>
+      <SignatureDt>2019-03-15</SignatureDt>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ROBERT H THOMPSON CPA</PreparerPersonNm>
+      <PTIN>P01236382</PTIN>
+      <PhoneNum>5084598000</PhoneNum>
+      <PreparationDt>2018-12-07</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>131.239.15.98</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2018-12-26</IPDt>
+      <IPTm>13:32:25</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>3489BFB31DCCBEBC14730CCF75F02EC7907EE7AD</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>3489BFB31DCCBEBC14730CCF75F02EC7907EE7AD</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="5">
+    <IRS990PF documentId="RetDoc6">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>645033</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>10</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>10</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>9744</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>9744</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>47587</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>69837</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>47587</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>57341</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>57341</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">8834</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4416</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4416</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc4">72</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc3">50</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>50</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>8956</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>4416</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>4466</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>32500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>32500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>41456</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>4416</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>36966</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>15885</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>52925</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>10721</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>9253</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>9253</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>473004</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc2">490357</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>635780</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>483725</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>499610</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>645033</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>435760</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>435760</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>47965</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>63850</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>483725</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>499610</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>483725</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>499610</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>483725</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>15885</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>499610</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>499610</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>AMCAP FUND INC A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2013-10-18</AcquiredDt>
+          <SoldDt>2018-10-23</SoldDt>
+          <GrossSalesPriceAmt>9993</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>8414</CostOrOtherBasisAmt>
+          <GainOrLossAmt>1579</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>1579</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>GROWTH FUND AMERICA CL A</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>1998-10-12</AcquiredDt>
+          <SoldDt>2018-10-23</SoldDt>
+          <GrossSalesPriceAmt>19993</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>7259</CostOrOtherBasisAmt>
+          <GainOrLossAmt>12734</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>12734</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>NEW PERSPECTIVE FD</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2000-01-05</AcquiredDt>
+          <SoldDt>2018-10-23</SoldDt>
+          <GrossSalesPriceAmt>9993</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>6577</CostOrOtherBasisAmt>
+          <GainOrLossAmt>3416</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>3416</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>47587</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>58540</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>634852</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.092210</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>1423</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>578592</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.002459</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>29566</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>604783</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.048887</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>28000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>606527</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.046164</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>26200</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>548695</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.047750</DistributionYr5Rt>
+        <TotalDistributionRt>0.237470</TotalDistributionRt>
+        <AverageDistributionRt>0.047494</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>692410</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>32885</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>529</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>33414</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>36966</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>529</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>529</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>529</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>316</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>316</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>213</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>MA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>FLETCHER TILTON PC</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>5084598000</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>370 MAIN STREET 11TH FLOOR</AddressLine1Txt>
+          <CityNm>WORCESTER</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>016081779</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PHILLIPS S DAVIS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>10 BAYPATH DRIVE</AddressLine1Txt>
+            <CityNm>BOYLSTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01505</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BARBARA E FARGO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>38 SOUTH STREET</AddressLine1Txt>
+            <CityNm>GRAFTON</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01519</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MATTHEW A FARGO</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>509 WOODS HOLLOW RD</AddressLine1Txt>
+            <CityNm>WESTFORD</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05494</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>TAYLOR FARGO STRACHAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>19 GOLDSMITH ST 3</AddressLine1Txt>
+            <CityNm>JAMAICA PLAIN</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02130</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>695584</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>7370</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>702954</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>702954</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>10544</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>692410</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>34621</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>34621</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>529</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>529</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>34092</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>34092</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>34092</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>36966</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>36966</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>529</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>36437</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>34092</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>649</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>649</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>36966</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>34092</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>2874</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>3523</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>3523</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>649</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>2874</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>MATTHEW A FARGO</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>509 WOODS HOLLOW RD</AddressLine1Txt>
+            <CityNm>WESTFORD</CityNm>
+            <StateAbbreviationCd>VT</StateAbbreviationCd>
+            <ZIPCd>05494</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>5084598000</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>REQUESTS SHOULD BE SUBMITTED IN LETTER FORM WITH EVIDENCE OF THE ORGAIZATION'S TAX EXEMPT STATUS</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>REQUESTS SHOULD BE SUBMITTED PRIOR TO AUGUST 31.</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SEE ATTACHED</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>370 MAIN STREET 11TH FLO</AddressLine1Txt>
+            <CityNm>WORCESTER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01608</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SEE ATTACHED</GrantOrContributionPurposeTxt>
+          <Amt>32500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>32500</TotalGrantOrContriPdDurYrAmt>
+        <GrantOrContriApprvForFutGrp>
+          <RecipientPersonNm>SEE ATTACHED</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>370 MAIN STREET 11TH FLO</AddressLine1Txt>
+            <CityNm>WORCESTER</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01608</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SEE ATTACHED</GrantOrContributionPurposeTxt>
+          <Amt>13500</Amt>
+        </GrantOrContriApprvForFutGrp>
+        <TotalGrantOrContriApprvFutAmt>13500</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>9744</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>47587</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>57341</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>57341</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>FLETCHER TILTON PC</CategoryTxt>
+        <Amt>5847</Amt>
+        <NetInvestmentIncomeAmt>2923</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>2923</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX PREPARATION FEE</CategoryTxt>
+        <Amt>2987</Amt>
+        <NetInvestmentIncomeAmt>1493</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1493</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WELLS FARGO</StockNm>
+        <EOYBookValueAmt>490357</EOYBookValueAmt>
+        <EOYFMVAmt>635780</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc3">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>CYBERGRANT</Desc>
+        <RevenueAndExpensesPerBooksAmt>15</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>15</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>COMM MASS PC FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>35</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>35</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc4">
+      <TaxesDetail>
+        <CategoryTxt>FEDERAL TAXES PAID</CategoryTxt>
+        <Amt>72</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

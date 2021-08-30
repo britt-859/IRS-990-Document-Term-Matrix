@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-28T10:16:00-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>591874580</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HALIDAY BAIR &amp; HUX PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+        <CityNm>LEESBURG</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>34748</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>597163598</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WILLIAM M AND MARIAN R HAYWOOD</BusinessNameLine1Txt>
+        <BusinessNameLine2Txt>CHARITABLE TRUST</BusinessNameLine2Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WILL</BusinessNameControlTxt>
+      <PhoneNum>3527873445</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+        <CityNm>LEESBURG</CityNm>
+        <StateAbbreviationCd>FL</StateAbbreviationCd>
+        <ZIPCd>347485017</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>ALFRED C HALIDAY JR</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>3527873445</PhoneNum>
+      <SignatureDt>2019-01-14</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>ALFRED C HALIDAY JR</PreparerPersonNm>
+      <PTIN>P01258812</PTIN>
+      <PhoneNum>3527873445</PhoneNum>
+      <PreparationDt>2019-01-14</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>207.30.164.30</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-28</IPDt>
+      <IPTm>10:16:00</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>BB13D2B981B465CE0B11D759C7D0A68737A56125</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>C98AC3DF309B2D64E03795A2E5CAE20E062E3314</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc12">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>3315402</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>33908</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>33908</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>62149</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>62149</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="RetDoc4">36158</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>135100</GrossSalesPriceAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc8">5</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>132220</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>96057</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>86196</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstNetInvstIncmAmt>40335</CompOfcrDirTrstNetInvstIncmAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>45861</CompOfcrDirTrstDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2774</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1387</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>1387</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc9">912</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>912</TaxesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc7">1708</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>1708</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>91590</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>44342</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>47248</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>124000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>124000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>215590</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>44342</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>171248</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-83370</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>51715</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>41241</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>41544</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>41544</SavAndTempCashInvstEOYFMVAmt>
+        <AcctRcvblAmt>623</AcctRcvblAmt>
+        <AcctRcvblBOYAmt>7561</AcctRcvblBOYAmt>
+        <AcctRcvblEOYAmt>623</AcctRcvblEOYAmt>
+        <AcctRcvblEOYFMVAmt>623</AcctRcvblEOYFMVAmt>
+        <CorporateStockBOYAmt>1719077</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc6">1678652</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>2810098</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>56024</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc5">53148</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>4000</CorporateBondsEOYFMVAmt>
+        <MortgageLoansBOYAmt>489579</MortgageLoansBOYAmt>
+        <MortgageLoansEOYAmt>459137</MortgageLoansEOYAmt>
+        <MortgageLoansEOYFMVAmt>459137</MortgageLoansEOYFMVAmt>
+        <TotalAssetsBOYAmt>2313482</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2233104</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>3315402</TotalAssetsEOYFMVAmt>
+        <DeferredRevenueBOYAmt>34386</DeferredRevenueBOYAmt>
+        <DeferredRevenueEOYAmt>37378</DeferredRevenueEOYAmt>
+        <TotalLiabilitiesBOYAmt>34386</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>37378</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>2279096</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>2195726</CapitalStockEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2279096</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2195726</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2313482</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2233104</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2279096</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-83370</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2195726</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2195726</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>133590</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>3066091</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.043570</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>158542</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>2941779</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.053893</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>178617</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>3168859</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.056366</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>130941</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>3085761</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.042434</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>136360</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>2778709</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.049073</DistributionYr5Rt>
+        <TotalDistributionRt>0.245336</TotalDistributionRt>
+        <AverageDistributionRt>0.049067</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>3287585</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>161312</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>517</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>161829</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>171248</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>517</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>517</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>517</TaxBasedOnInvestmentIncomeAmt>
+        <Form2220AttachedInd referenceDocumentId="RetDoc1">X</Form2220AttachedInd>
+        <EsPenaltyAmt>18</EsPenaltyAmt>
+        <TaxDueAmt>535</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>true</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>FL</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="RetDoc3">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>GUIDESTAR.ORG</WebsiteAddressTxt>
+        <IndividualWithBooksNm>ALFRED C HALIDAY JR</IndividualWithBooksNm>
+        <PhoneNum>3527873445</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+          <AddressLine2Txt>400 WEBSTER STREET</AddressLine2Txt>
+          <CityNm>LEESBURG</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>34748</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ALFRED C HALIDAY JR</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+            <AddressLine2Txt>400 WEBSTER STREET</AddressLine2Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>6.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>40197</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM BARBIEUX</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>33438 PICCIOLA DRIVE</AddressLine1Txt>
+            <CityNm>FRUITLAND PARK</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>347316136</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>9.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>19951</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KIMBALL D HALIDAY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>10.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>5248</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANN K BARBIEUX</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>33438 PICCIOLA DRIVE</AddressLine1Txt>
+            <CityNm>FRUITLAND PARK</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>347316136</ZIPCd>
+          </USAddress>
+          <TitleTxt>GRANT COMMIT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>9.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>20800</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>2803918</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>40528</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>493204</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>3337650</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>3337650</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>50065</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>3287585</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>164379</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>164379</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>517</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>517</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>163862</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>163862</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>163862</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>171248</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>171248</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>517</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>170731</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>163862</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>2463</UndistributedIncomePYAmt>
+        <QualifyingDistributionsAmt>171248</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>2463</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>163862</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>4923</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>4923</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>4923</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>4923</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>NONE</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>ALFRED C HALIDAY JR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 WEBSTER STREET</AddressLine1Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>3527873445</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>NONE</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NONE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>LIMITED TO ORGANIZATIONS DULY AUTHORIZED TO CARRY ON CHARITABLE ACTIVITIES AND WHICH HAVE ESTABLISHED THEIR TAX EXEMPT STATUS UNDER THE PROVISIONS OF 501(C)(3) OF THE INTERNAL REVENUE CODE OF 1986 AND ITS REGULATIONS AS THEY NOW EXIST OR MAY HEREAFTER BE AMENDED.</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>DUVALL HOME</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 220036</AddressLine1Txt>
+            <CityNm>GLENWOOD</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32722</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HOUSING&amp;EDUCATN FOR MENTALLY LIMITED</GrantOrContributionPurposeTxt>
+          <Amt>30000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUNRISE ARC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>12340 CR 44</AddressLine1Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>MEDICAL ASSISTANCE FOR DISABLED</GrantOrContributionPurposeTxt>
+          <Amt>45000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CHRISTIAN CARE CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>115 N 13TH ST</AddressLine1Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>BENEVOLENCE CENTER &amp; CARE CENTER</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SUMTER COUNTY ARC</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>213 W MCCOLLUM AVE</AddressLine1Txt>
+            <CityNm>BUSHNELL</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33513</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>ADULT BASIC EDUCATION PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>LEESBURG FOOD BANK</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1305 SUNSHINE AVE</AddressLine1Txt>
+            <CityNm>LEESBURG</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34748</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOOD FOR THE NEEDY</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MOUNT DORA CHRISTIAN ACADEMY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>301 WEST 13TH AVENUE</AddressLine1Txt>
+            <CityNm>MOUNT DORA</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>32757</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>NEW ATHLETIC COMPLEX</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NEW BEGINNINGS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>715 E MONTROSE STREET</AddressLine1Txt>
+            <CityNm>CLERMONT</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>34711</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>501(C)(3)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>HOMELESS REHABILITAION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>124000</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>33908</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>62149</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <RelatedOrExemptFunctionIncmAmt>36158</RelatedOrExemptFunctionIncmAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS INCOME</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>5</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>96062</ExclusionAmt>
+          <RelatedOrExemptFunctionIncmAmt>36158</RelatedOrExemptFunctionIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>132220</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX RETURN PREPARATION</CategoryTxt>
+        <Amt>2774</Amt>
+        <NetInvestmentIncomeAmt>1387</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>1387</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc3">
+      <ExplanationTxt>FLORIDA ATTORNEY GENERAL'S OFFICE DOES NOT REQUIRE A COPY OF FORM 990PF</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc4">
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>705.980SH SOLD VANGUARD TOT INTL STO</AssetDesc>
+        <AcquiredDt>2008-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>21250</GrossSalesPriceAmt>
+        <BasisAmt>18562</BasisAmt>
+        <TotalNetAmt>2688</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>957.351SH SOLD VANGUARD TOTAL STOCK</AssetDesc>
+        <AcquiredDt>2008-01</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2017-12</SoldDt>
+        <GrossSalesPriceAmt>63750</GrossSalesPriceAmt>
+        <BasisAmt>29647</BasisAmt>
+        <TotalNetAmt>34103</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>2000SH SOLD GENERAL ELECTRIC</AssetDesc>
+        <AcquiredDt>2015-09</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-03</SoldDt>
+        <GrossSalesPriceAmt>50000</GrossSalesPriceAmt>
+        <BasisAmt>50665</BasisAmt>
+        <TotalNetAmt>-665</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>.92SH SOLD DUKE ENERGY</AssetDesc>
+        <AcquiredDt>2012-07</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-04</SoldDt>
+        <GrossSalesPriceAmt>72</GrossSalesPriceAmt>
+        <BasisAmt>49</BasisAmt>
+        <TotalNetAmt>23</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+      <GainLossSaleOtherAssetGrp>
+        <AssetDesc>.6279SH SOLD SOUTHERN COMPANY</AssetDesc>
+        <AcquiredDt>2003-05</AcquiredDt>
+        <HowAcquiredTxt>PURCHASE</HowAcquiredTxt>
+        <SoldDt>2018-04</SoldDt>
+        <GrossSalesPriceAmt>28</GrossSalesPriceAmt>
+        <BasisAmt>19</BasisAmt>
+        <TotalNetAmt>9</TotalNetAmt>
+      </GainLossSaleOtherAssetGrp>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc5">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>LEHMAN BROS HOLDING INC 11/01/09</BondNm>
+        <EOYBookValueAmt>53148</EOYBookValueAmt>
+        <EOYFMVAmt>4000</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc6">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>29,352.62SHARES VANGUARD ST MKT INDX</StockNm>
+        <EOYBookValueAmt>977328</EOYBookValueAmt>
+        <EOYFMVAmt>2005958</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>29,797.27SHARES VANGUARD ST MKT INDX</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>16,857.413SHARES VANGUARD INT'L INDX</StockNm>
+        <EOYBookValueAmt>443442</EOYBookValueAmt>
+        <EOYFMVAmt>489202</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>17,086.38SHARES VANGUARD INT'L INDX</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,755.668SHARES SOUTHERN CO.</StockNm>
+        <EOYBookValueAmt>63063</EOYBookValueAmt>
+        <EOYFMVAmt>81305</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,671.4539SHARES SOUTHERN CO.</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,608.036SHARES DUKE ENERGY</StockNm>
+        <EOYBookValueAmt>94050</EOYBookValueAmt>
+        <EOYFMVAmt>127163</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>1,540.309SHARES DUKE ENERGY</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,000SHARES SOUTHER COMPANY</StockNm>
+        <EOYBookValueAmt>50000</EOYBookValueAmt>
+        <EOYFMVAmt>52600</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,000SHARES GENERAL ELECTRIC</StockNm>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>2,028.98SHARES JP MORGAN CHASE</StockNm>
+        <EOYBookValueAmt>50769</EOYBookValueAmt>
+        <EOYFMVAmt>53870</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc7">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>468 LLC LOAN EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>1708</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>1708</NetInvestmentIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc8">
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>5</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="RetDoc9">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAX PAID</CategoryTxt>
+        <Amt>912</Amt>
+        <NetInvestmentIncomeAmt>912</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

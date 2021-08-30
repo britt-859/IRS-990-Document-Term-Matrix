@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-14T08:15:24-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>222212404</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BARATZ &amp; ASSOCIATES PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>7 EVES DRIVE SUITE 100</AddressLine1Txt>
+        <CityNm>MARLTON</CityNm>
+        <StateAbbreviationCd>NJ</StateAbbreviationCd>
+        <ZIPCd>080533196</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>261301698</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>THE BEEMAN FAMILY FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>BEEM</BusinessNameControlTxt>
+      <PhoneNum>7173940504</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1861 SANTA BARBARA DRIVE</AddressLine1Txt>
+        <CityNm>LANCASTER</CityNm>
+        <StateAbbreviationCd>PA</StateAbbreviationCd>
+        <ZIPCd>17601</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>THOMAS E BEEMAN</PersonNm>
+      <PersonTitleTxt>VP / TREAS.</PersonTitleTxt>
+      <PhoneNum>7173940504</PhoneNum>
+      <SignatureDt>2018-11-09</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>SUKHVIR S BOPARAI CPA MST</PreparerPersonNm>
+      <PTIN>P00861058</PTIN>
+      <PhoneNum>8569855688</PhoneNum>
+      <PreparationDt>2019-01-14</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>71.245.123.86</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-14</IPDt>
+      <IPTm>08:15:24</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>A9A4BEAFAD9B34E2AB7ABC2F9099AF2C7B0A04C0</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>38477DDCD0CB64DFDAB4AB2D6DE74A6B81046ABC</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="8">
+    <IRS990PF documentId="RetDoc10">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>231549</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>91210</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>1408</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>1408</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>61443</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>184905</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>61443</CapGainNetIncmNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>154061</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>62851</TotalNetInvstIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc2">2710</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>2710</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="RetDoc6">5968</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>5968</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="RetDoc7">326</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>326</TaxesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>9004</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>9004</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>109800</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>109800</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>118804</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>9004</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>109800</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>35257</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>53847</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>10934</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>8560</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>8560</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>25727</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="RetDoc4">50773</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>69622</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>21210</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="RetDoc3">35383</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>35102</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>92388</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="RetDoc5">118265</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>118265</OtherInvestmentsEOYFMVAmt>
+        <TotalAssetsBOYAmt>150259</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>212981</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>231549</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>150259</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>212981</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>150259</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>212981</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>150259</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>212981</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>150259</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>35257</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt>27465</OtherIncreasesAmt>
+        <SubtotalAmt>212981</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>212981</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>SHORT TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>22103</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>19981</CostOrOtherBasisAmt>
+          <GainOrLossAmt>2122</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>2122</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>LONG TERM</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>162802</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>103481</CostOrOtherBasisAmt>
+          <GainOrLossAmt>59321</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>59321</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>61443</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>2122</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>107548</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>165374</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.650332</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>100080</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>171337</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.584112</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>54000</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>145031</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.372334</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>66000</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>157297</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.419588</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>48700</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>135527</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.359338</DistributionYr5Rt>
+        <TotalDistributionRt>2.385704</TotalDistributionRt>
+        <AverageDistributionRt>0.477141</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>215305</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>102731</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>538</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>103269</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>109800</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>538</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>538</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>538</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>268</EstimatedPlusOvpmtIncmTxAmt>
+        <ExtsnRequestIncomeTaxPaidAmt>270</ExtsnRequestIncomeTaxPaidAmt>
+        <TotalPaymentsAndCreditsAmt>538</TotalPaymentsAndCreditsAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>PA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>SAGEWORTH TRUST COMPANY</IndividualWithBooksNm>
+        <PhoneNum>7173940504</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1861 SANTA BARBARA DRIVE</AddressLine1Txt>
+          <CityNm>LANCASTER</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>17601</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH R BEEMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>110 SIBLEY AVE APT 301</AddressLine1Txt>
+            <CityNm>ARDMORE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19003</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS E BEEMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>110 SIBLEY AVE APT 301</AddressLine1Txt>
+            <CityNm>ARDMORE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19003</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP / TREAS.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>REBECCA ANN GEFFNER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>110 SIBLEY AVE APT 301</AddressLine1Txt>
+            <CityNm>ARDMORE</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19003</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>THOMAS W BERGEN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>28 PENN SQUARE</AddressLine1Txt>
+            <CityNm>LANCASTER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17603</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP/ GRANT OF</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>79058</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>21261</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>118265</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>218584</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>218584</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>3279</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>215305</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>10765</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>10765</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>538</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>538</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>10227</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>10227</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>10227</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>109800</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>109800</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>538</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>109262</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>10227</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>42047</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>58483</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>46786</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>91619</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>99783</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>338718</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>109800</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>10227</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>99573</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>438291</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>42047</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>396244</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>58483</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>46786</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>91619</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>99783</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>99573</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>THOMAS E ELIZABETH R BEEMAN</ContributingManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>THE ORDER OF MALTA FEDERAL ASSOCIAT</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1730 M STREET NW SUITE</AddressLine1Txt>
+            <CityNm>WASHINGTON DC</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20036</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST MARY'S CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>119 SOUTH PRINCE STREET</AddressLine1Txt>
+            <CityNm>LANCASTER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>49000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ALVERNIA UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 ST BERNARDINE ST</AddressLine1Txt>
+            <CityNm>READING</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19607</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>32500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>APOSTLES OF JESUS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>829 MAIN STREET</AddressLine1Txt>
+            <CityNm>NORTHAMPTON</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>18067</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SALUS UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>8360 OLD YORK ROAD</AddressLine1Txt>
+            <CityNm>ELKINS PARK</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19027</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1350</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ST FRANCIS INN MINISTRIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2441 KENSINGTON AVE</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19125</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FIGHTING BACK SCHOLARSHIP PROGRAM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1 SPRING STREET</AddressLine1Txt>
+            <CityNm>PAOLI</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>5500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>UNIVERSITY OF PENNSYLVANIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2929 WALNUT ST STE 300</AddressLine1Txt>
+            <CityNm>PHILADELPHIA</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN HEART ASSOCIATION</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 5TH AVENUE SUITE 6</AddressLine1Txt>
+            <CityNm>WALTHAM</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02451</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LANCASTER COUNTY CONSERVANCY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>117 S WEST END AVE</AddressLine1Txt>
+            <CityNm>LANCASTER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17603</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WIDENER UNIVERSITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE UNIVERSITY PLACE</AddressLine1Txt>
+            <CityNm>CHESTER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>19103</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>PA COLLEGE OF HEALTH SCIENCES BUILD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>850 GREENFIELD RD</AddressLine1Txt>
+            <CityNm>LANCASTER</CityNm>
+            <StateAbbreviationCd>PA</StateAbbreviationCd>
+            <ZIPCd>17601</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>EXEMPT</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CHARITABLE</GrantOrContributionPurposeTxt>
+          <Amt>10450</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>109800</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>1408</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>61443</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>62851</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>62851</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>THOMAS E ELIZABETH R BEEMAN</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>110 SIBLEY AVE APT 301</AddressLine1Txt>
+          <CityNm>ARDMORE</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>19003</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>91210</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>SEE ATTACHED CHARITY LETTER</NoncashPropertyDesc>
+        <FairMarketValueAmt>91210</FairMarketValueAmt>
+        <ReceivedDt>2017-09-09</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFeesDetail>
+        <CategoryTxt>BARATZ &amp; ASSOCIATES</CategoryTxt>
+        <Amt>2710</Amt>
+        <NetInvestmentIncomeAmt>2710</NetInvestmentIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>VANGUARD TOTAL BOND INDEX</BondNm>
+        <EOYBookValueAmt>28375</EOYBookValueAmt>
+        <EOYFMVAmt>28108</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>DFA 2-YR GLBL FIXED INC PORT</BondNm>
+        <EOYBookValueAmt>3435</EOYBookValueAmt>
+        <EOYFMVAmt>3436</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>WESTERN ASSET SHRT-TRM BD-IS</BondNm>
+        <EOYBookValueAmt>3573</EOYBookValueAmt>
+        <EOYFMVAmt>3558</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>SPDR TR</StockNm>
+        <EOYBookValueAmt>36758</EOYBookValueAmt>
+        <EOYFMVAmt>54799</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>VANGUARD TOTAL INT STOCK INDEX</StockNm>
+        <EOYBookValueAmt>14015</EOYBookValueAmt>
+        <EOYFMVAmt>14823</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>ISHARES MSCI ACWI ETF</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>LIFE INSURANCE</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>118265</BookValueAmt>
+        <EOYFMVAmt>118265</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT MANAGEMENT FEES</CategoryTxt>
+        <Amt>5968</Amt>
+        <NetInvestmentIncomeAmt>5968</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <TaxesDetail>
+        <CategoryTxt>FOREIGN TAXES</CategoryTxt>
+        <Amt>16</Amt>
+        <NetInvestmentIncomeAmt>16</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>TAXES</CategoryTxt>
+        <Amt>310</Amt>
+        <NetInvestmentIncomeAmt>310</NetInvestmentIncomeAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

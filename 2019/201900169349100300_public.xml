@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-16T08:12:11-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>FRIEDMAN &amp; HUEY ASSOC LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1313 WEST 175TH STREET</AddressLine1Txt>
+        <CityNm>HOMEWOOD</CityNm>
+        <StateAbbreviationCd>IL</StateAbbreviationCd>
+        <ZIPCd>60430</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-07-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>830478666</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SHEEP MEADOW FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% ELIZABETH C MACOMBER</InCareOfNm>
+      <BusinessNameControlTxt>SHEE</BusinessNameControlTxt>
+      <PhoneNum>7087996800</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 13315</AddressLine1Txt>
+        <CityNm>BURTON</CityNm>
+        <StateAbbreviationCd>WA</StateAbbreviationCd>
+        <ZIPCd>98103</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN D MACOMBER</PersonNm>
+      <PersonTitleTxt>MEMBER</PersonTitleTxt>
+      <PhoneNum>7087996800</PhoneNum>
+      <SignatureDt>2018-11-07</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>CHRISTIAN A KLAAS</PreparerPersonNm>
+      <PTIN>P00846199</PTIN>
+      <PhoneNum>7087996800</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>12.1.134.130</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>36235120190165000000</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-01-16</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>3BFC4A75D6EB27907D210F25CA7708E96E1FACCB</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>3BFC4A75D6EB27907D210F25CA7708E96E1FACCB</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="13">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>7382997</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>501832</ContriRcvdRevAndExpnssAmt>
+        <DividendsRevAndExpnssAmt>132286</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>132286</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>-260094</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>1618991</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>66396</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="OtherIncomeSch2">206</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>206</OtherIncomeNetInvstIncmAmt>
+        <TotalRevAndExpnssAmt>374230</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>198888</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>0</CompOfcrDirTrstRevAndExpnssAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="AccountingFeesSch">9675</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4838</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>0</AccountingFeesAdjNetIncmAmt>
+        <AccountingFeesChrtblPrpsAmt>4837</AccountingFeesChrtblPrpsAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="OthProfFeesSch">47651</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>47651</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="TaxesSchedule">4500</TaxesRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="OtherExpensesSch">255</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>205</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>62081</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>52489</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>0</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>5042</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>310500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>310500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>372581</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>52489</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>0</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>315542</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>1649</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>146399</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>22620</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>56886</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>56886</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateBondsBOYAmt>340591</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="InvestCorpBondsSch">327377</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>331291</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>5679444</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="InvOtherSch2">5664886</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>6994820</OtherInvestmentsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="OtherAssetsSch">1364</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="OtherAssetsSch">478</OtherAssetsEOYAmt>
+        <TotalAssetsBOYAmt>6044019</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>6049627</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>7382997</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesBOYAmt referenceDocumentId="OtherLiabSch">560</OtherLiabilitiesBOYAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="OtherLiabSch">4728</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesBOYAmt>560</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>4728</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>5992232</CapitalStockBOYAmt>
+        <CapitalStockEOYAmt>6494064</CapitalStockEOYAmt>
+        <RetainedEarningBOYAmt>51227</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>-449165</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>6043459</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6044899</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>6044019</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>6049627</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>6043459</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>1649</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>6045108</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="OtherDecreasesSch">209</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>6044899</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GrossSalesPriceAmt>1602990</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>1552595</CostOrOtherBasisAmt>
+          <GainOrLossAmt>50395</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>50395</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAIN DIVIDENDS</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <GainOrLossAmt>15999</GainOrLossAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>66396</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>265373</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>6483839</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.040928</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>115959</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>5386178</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.021529</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>107631</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4171942</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.025799</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>92467</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>2849474</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.032451</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>87675</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>1479964</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.059241</DistributionYr5Rt>
+        <TotalDistributionRt>0.179948</TotalDistributionRt>
+        <AverageDistributionRt>0.03599</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>7209858</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>259483</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1464</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>260947</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>315542</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>1464</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>1464</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1464</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>4274</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>4274</TotalPaymentsAndCreditsAmt>
+        <OverpaymentAmt>2810</OverpaymentAmt>
+        <AppliedToESTaxAmt>2810</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="BinaryAttach BinaryAttachN1">false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>DE</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>DC</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <PersonsWithBooksName>
+          <BusinessNameLine1Txt>ELIZABETH C MACOMBER</BusinessNameLine1Txt>
+        </PersonsWithBooksName>
+        <PhoneNum>2064636392</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 13315</AddressLine1Txt>
+          <CityNm>BURTON</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>98103</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ELIZABETH C MACOMBER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>SHEEP MEADOW FOUNDATION</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 13315</AddressLine2Txt>
+            <CityNm>BURTON</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98103</ZIPCd>
+          </USAddress>
+          <TitleTxt>PRESIDENT</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN D MACOMBER</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>SHEEP MEADOW FOUNDATION</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 13315</AddressLine2Txt>
+            <CityNm>BURTON</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98103</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANET M WILLIAMSON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>SHEEP MEADOW FOUNDATION</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 13315</AddressLine2Txt>
+            <CityNm>BURTON</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98103</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>WILLIAM B MACOMBER II</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>SHEEP MEADOW FOUNDATION</AddressLine1Txt>
+            <AddressLine2Txt>PO BOX 13315</AddressLine2Txt>
+            <CityNm>BURTON</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98103</ZIPCd>
+          </USAddress>
+          <TitleTxt>MEMBER - BOARD OF DIRECTORS</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp />
+      <SumOfProgramRelatedInvstGrp />
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>7250170</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>69483</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>7319653</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>7319653</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>109795</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>7209858</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>360493</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>360493</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>1464</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>1464</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>359029</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>359029</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>359029</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>315542</ExpensesAndContributionsAmt>
+        <ProgramRelatedInvstTotalAmt>0</ProgramRelatedInvstTotalAmt>
+        <CharitableAssetsAcquisPaidAmt>0</CharitableAssetsAcquisPaidAmt>
+        <SetAsideSuitabilityTestAmt>0</SetAsideSuitabilityTestAmt>
+        <SetAsideCashDistriTestAmt>0</SetAsideCashDistriTestAmt>
+        <QualifyingDistributionsAmt>315542</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>1464</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>314078</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>359029</DistributableAsAdjustedAmt>
+        <UndistributedIncomePYAmt>282857</UndistributedIncomePYAmt>
+        <PriorYear1Yr>2015</PriorYear1Yr>
+        <PriorYear2Yr>2014</PriorYear2Yr>
+        <PriorYear3Yr>2013</PriorYear3Yr>
+        <TotalForPriorYearsAmt>0</TotalForPriorYearsAmt>
+        <ExcessDistributionCyovYr1Amt>0</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>0</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>315542</QualifyingDistributionsAmt>
+        <AppliedToYear1Amt>282857</AppliedToYear1Amt>
+        <AppliedToCurrentYearAmt>32685</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>0</RemainingDistriFromCorpusAmt>
+        <ExcessDistriCyovAppCYCorpusAmt>0</ExcessDistriCyovAppCYCorpusAmt>
+        <ExcessDistributionCyovAppCYAmt>0</ExcessDistributionCyovAppCYAmt>
+        <TotalCorpusAmt>0</TotalCorpusAmt>
+        <PriorYearUndistributedIncmAmt>0</PriorYearUndistributedIncmAmt>
+        <Taxable1Amt>0</Taxable1Amt>
+        <UndistributedIncomeCYAmt>326344</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>0</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>0</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <PrivateOperatingFoundationsGrp />
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOHN D MACOMBER BOARD OF DIRECTOR</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SEE STATEMENT ATTACHED</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1313 175TH ST</AddressLine1Txt>
+            <CityNm>HOMEWOOD</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60430</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>NONE</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PUBLIC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FOR GENERAL OPERATING PURPOSES</GrantOrContributionPurposeTxt>
+          <Amt>310500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>310500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <FeesContractsFromGovtAgGrp />
+        <MembershipDuesAndAssmntGrp />
+        <IntOnSavAndTempCashInvstGrp />
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>132286</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <NetRntlIncmReDebtFincdPropGrp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncomePersonalPropGrp />
+        <OtherInvestmentIncmPartVIIGrp />
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>-260094</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <NetIncomeLossFromSpecialEvtGrp />
+        <GrossProfitLossSlsOfInvntryGrp />
+        <OtherRevenueDescribedGrp>
+          <Desc>OTHER REVENUE</Desc>
+          <ExclusionCd>01</ExclusionCd>
+          <ExclusionAmt>206</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>-127602</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>-127602</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JOHN MACOMBER</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>2806 N ST NW</AddressLine1Txt>
+          <CityNm>WASHINGTON</CityNm>
+          <StateAbbreviationCd>DC</StateAbbreviationCd>
+          <ZIPCd>20007</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>501832</TotalContributionsAmt>
+        <NoncashContributionInd>X</NoncashContributionInd>
+      </ContributorInformationGrp>
+      <NonCashPropertyContributionGrp>
+        <ContributorNum>1</ContributorNum>
+        <NoncashPropertyDesc>16,650.0170 SHS OF EDGEWOOD GROWTH INSTL</NoncashPropertyDesc>
+        <FairMarketValueAmt>501832</FairMarketValueAmt>
+        <ReceivedDt>2017-11-27</ReceivedDt>
+      </NonCashPropertyContributionGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFeesDetail>
+        <CategoryTxt>FRIEDMAN &amp; HUEY ASSOCIATES</CategoryTxt>
+        <Amt>9675</Amt>
+        <NetInvestmentIncomeAmt>4838</NetInvestmentIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>4837</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpBondsSchedule documentId="InvestCorpBondsSch">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>CHARLES SCHWAB #2464</BondNm>
+        <EOYBookValueAmt>327377</EOYBookValueAmt>
+        <EOYFMVAmt>331291</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB #9316</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>3859310</BookValueAmt>
+        <EOYFMVAmt>4941336</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>CHARLES SCHWAB #3799</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>248642</BookValueAmt>
+        <EOYFMVAmt>244986</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OCA OHA CREDIT FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>318000</BookValueAmt>
+        <EOYFMVAmt>401657</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OCA SACHEM HEAD OFFSHORE FUND</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>320000</BookValueAmt>
+        <EOYFMVAmt>376453</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OCA ANCHORAGE SEGREGAGED PORT.</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>320000</BookValueAmt>
+        <EOYFMVAmt>356881</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>MIG OFFSHORE FUND LTD</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>320000</BookValueAmt>
+        <EOYFMVAmt>384859</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OCA BREDS III</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>78075</BookValueAmt>
+        <EOYFMVAmt>83518</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>OCA CMTG</CategoryOrItemTxt>
+        <ListedAtCostOrFMVCd>AT COST</ListedAtCostOrFMVCd>
+        <BookValueAmt>200859</BookValueAmt>
+        <EOYFMVAmt>205130</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSch">
+      <OtherAssetsScheduleGrp>
+        <Desc>PURCHASE INTEREST CARRYOVER</Desc>
+        <BOYBookValueAmt>1364</BOYBookValueAmt>
+        <EOYBookValueAmt>478</EOYBookValueAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSch">
+      <OtherDecreasesDetail>
+        <Desc>NONDEDUCTIBLE PENALTIES &amp; INTEREST</Desc>
+        <Amt>209</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpensesScheduleGrp>
+        <Desc>REGISTRATION FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>180</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>180</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>MISC EXPENSE</Desc>
+        <RevenueAndExpensesPerBooksAmt>50</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>ANNUAL FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>25</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSch2">
+      <OtherIncomeDetail>
+        <Desc>OCA BREDS III</Desc>
+        <RevenueAndExpensesPerBooksAmt>196</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>196</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+      <OtherIncomeDetail>
+        <Desc>LITIGATION INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>10</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>10</NetInvestmentIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="OtherLiabSch">
+      <OtherLiabilitiesDetail>
+        <Desc>DUE TO FRIEDMAN &amp; HUEY ASSOCIA</Desc>
+        <BOYBookValueAmt>560</BOYBookValueAmt>
+        <EOYBookValueAmt>560</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>OCA LMMI IV</Desc>
+        <BOYBookValueAmt>0</BOYBookValueAmt>
+        <EOYBookValueAmt>4168</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT ADVISORY FEES</CategoryTxt>
+        <Amt>46318</Amt>
+        <NetInvestmentIncomeAmt>46318</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OCA BREDS III</CategoryTxt>
+        <Amt>1099</Amt>
+        <NetInvestmentIncomeAmt>1099</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>OCA CMTG LLC</CategoryTxt>
+        <Amt>234</Amt>
+        <NetInvestmentIncomeAmt>234</NetInvestmentIncomeAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX PAYMENTS</CategoryTxt>
+        <Amt>4500</Amt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

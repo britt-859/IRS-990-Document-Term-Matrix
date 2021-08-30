@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-03T23:17:17-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>TaxesInYourHomeDotCom</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1237 Rembrandt Dr</AddressLine1Txt>
+        <CityNm>Sunnyvale</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94087</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>200936535</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>L &amp; L Borok Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>L&amp;LB</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>1237 Rembrandt Dr</AddressLine1Txt>
+        <CityNm>Sunnyvale</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94087</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Jack C Borok</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <PhoneNum>4082457476</PhoneNum>
+      <SignatureDt>2019-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>false</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Jack Borok</PreparerPersonNm>
+      <PTIN>P00318804</PTIN>
+      <PhoneNum>4082457476</PhoneNum>
+      <PreparationDt>2019-02-03</PreparationDt>
+      <SelfEmployedInd>X</SelfEmployedInd>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>162.197.214.206</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-03</IPDt>
+      <IPTm>23:25:44</IPTm>
+      <FederalOriginalSubmissionId>94004820190341l1op0c</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-03</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>1D80AA8026345034BF8BE03E78A1039B4DB652E6</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>1D80AA8026345034BF8BE03E78A1039B4DB652E6</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="6">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>4443265</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>491</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>491</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>157078</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>157078</DividendsNetInvstIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>5212</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>15105</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>5212</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="STM106">19</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>19</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>162800</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>162781</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>19</TotalAdjNetIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="STM109">7071</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>7071</OtherProfFeesNetInvstIncmAmt>
+        <OtherProfFeesAdjNetIncmAmt>7071</OtherProfFeesAdjNetIncmAmt>
+        <OtherProfFeesDsbrsChrtblAmt>7071</OtherProfFeesDsbrsChrtblAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="STM110">225</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>120</TaxesNetInvstIncmAmt>
+        <TaxesDsbrsChrtblAmt>105</TaxesDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>189</PrintingAndPubRevAndExpnssAmt>
+        <PrintingAndPubNetInvstIncmAmt>189</PrintingAndPubNetInvstIncmAmt>
+        <PrintingAndPubAdjNetIncmAmt>189</PrintingAndPubAdjNetIncmAmt>
+        <PrintingAndPubDsbrsChrtblAmt>189</PrintingAndPubDsbrsChrtblAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="STM103">217</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>217</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>7702</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>7380</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>7260</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>7582</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>221000</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>221000</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>228702</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>7380</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>7260</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>228582</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-65902</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>155401</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>43583</CashBOYAmt>
+        <CashEOYAmt>33425</CashEOYAmt>
+        <CashEOYFMVAmt>33425</CashEOYFMVAmt>
+        <SavAndTempCashInvstBOYAmt>78794</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>26759</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>26759</SavAndTempCashInvstEOYFMVAmt>
+        <CorporateStockBOYAmt>2626976</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="STM137">2617085</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>4383081</CorporateStockEOYFMVAmt>
+        <TotalAssetsBOYAmt>2749353</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>2677269</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>4443265</TotalAssetsEOYFMVAmt>
+        <AccountsPayableBOYAmt>31182</AccountsPayableBOYAmt>
+        <AccountsPayableEOYAmt>25000</AccountsPayableEOYAmt>
+        <TotalLiabilitiesBOYAmt>31182</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>25000</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>2718171</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>2652269</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>2718171</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2652269</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>2749353</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>2677269</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>2718171</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-65902</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>2652269</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>2652269</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>9894 Wells Fargo Advisors</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2014-05-29</AcquiredDt>
+          <SoldDt>2018-06-23</SoldDt>
+          <GrossSalesPriceAmt>15105</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>9893</CostOrOtherBasisAmt>
+          <GainOrLossAmt>5212</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>5212</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>5212</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>240561</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4364456</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.055118</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>190096</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4184877</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.045425</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>187248</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>3939509</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.047531</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>202427</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>3907286</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.051808</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>196485</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>3565865</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.055102</DistributionYr5Rt>
+        <TotalDistributionRt>0.254983</TotalDistributionRt>
+        <AverageDistributionRt>0.050997</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>4606481</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>234917</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>1554</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>236471</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>228582</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>3108</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>3108</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3108</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>2369</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>2369</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>739</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>CA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>Jack C Borok 3 Officer</IndividualWithBooksNm>
+        <PhoneNum>4082457476</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>1237 Rembrandt Dr</AddressLine1Txt>
+          <CityNm>Sunnyvale</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94087</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+        <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Jack C Borok 3 Officer</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1237 Rembrandt Dr</AddressLine1Txt>
+            <CityNm>Sunnyvale</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94087</ZIPCd>
+          </USAddress>
+          <TitleTxt>Pres and CFO</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>5.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Ronald Borok 3</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1125 Devonshire</AddressLine1Txt>
+            <CityNm>Buffalo Grove</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60089</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice Presiden</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Robert Borok 3</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>406 Downer Trail</AddressLine1Txt>
+            <CityNm>Prescott</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86305</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>NA--No active conduct of Charitable Activity Passive Donations Only</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>NA--No Program Related Investments</Description1Txt>
+        <Expenses1Amt>0</Expenses1Amt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4539563</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>141740</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4681303</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>4673</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4676630</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>70149</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4606481</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>230324</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>230324</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>3108</TaxBasedOnInvestmentIncomeAmt>
+        <IncomeTaxAmt>2369</IncomeTaxAmt>
+        <TotalTaxAmt>5477</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>224847</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>224847</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>224847</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>228582</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>228582</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>228582</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>224847</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>22783</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>15568</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr1Amt>30060</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>68411</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>228582</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>224847</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>3735</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>72146</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>22783</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>49363</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>15568</ExcessFromYear4Amt>
+        <ExcessFromYear1Amt>30060</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>3735</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>None</ContributingManagerNm>
+        <ShareholderManagerNm>None</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Alzheimers Assn</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2290 N First St Suite 101</AddressLine1Txt>
+            <CityNm>San Jose</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95131</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>2250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>2nd Harvest Food Bank</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4001 N 1st St</AddressLine1Txt>
+            <CityNm>San Jose</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95134</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Diabetes Assn</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>30 N Michigan Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60602</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Amer Red Cross Disaster Relief</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2025 E Street</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20006</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>13000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KNAU Arizona Public Broadcast</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 5764</AddressLine1Txt>
+            <CityNm>Flagstaff</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86011</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Public Media</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>City of Hope</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1500 E Duarte Rd</AddressLine1Txt>
+            <CityNm>Duarte</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>91010</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>50000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Columbia Land Trust</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1351 Officers Row</AddressLine1Txt>
+            <CityNm>Vancouver</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98661</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Land Conservation</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Congregation Shir Tikvah</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3939 NE Hancock St no 202</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97212</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Religious</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Doctors Without Borders</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>333 7th Ave</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Familial Dysautononia Now Fnd</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1170 Green Knolls Dr</AddressLine1Txt>
+            <CityNm>Buffalo Grove</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60089</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of Prescott Pub Libry</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>215 E Goodwin St</AddressLine1Txt>
+            <CityNm>Prescott</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86303</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Gildas Club</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>537 N Wells St</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60654</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Compassion</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Grace Baptist Church</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3130 S Wall St</AddressLine1Txt>
+            <CityNm>Joplin</CityNm>
+            <StateAbbreviationCd>MO</StateAbbreviationCd>
+            <ZIPCd>64804</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Religious</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Greenbelt Alliance</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>312 Sutter St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Conservation</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Habitat for Humanity of AZ</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1230 Willow Creek Rd</AddressLine1Txt>
+            <CityNm>Prescott</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Jewish Comm Fndtn of Prescott</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2684</AddressLine1Txt>
+            <CityNm>Prescott</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86302</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Religious</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>KQED</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2601 Mariposa St</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94110</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Public Media</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Make a Wish Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>640 N La Salle St Ste 280</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60654</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Compassion</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mazon</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>10495 Santa Monica Blvd no 100</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Compassion</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Mountain Play Assn</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 2025</AddressLine1Txt>
+            <CityNm>Mill Valley</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94942</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Arts</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MS Society of Gtr Pacific NW</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>192 Nickerson St</AddressLine1Txt>
+            <CityNm>Seattle</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>98109</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Nature Conservancy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4245 N Fairfax Dr</AddressLine1Txt>
+            <CityNm>Arlington</CityNm>
+            <StateAbbreviationCd>VA</StateAbbreviationCd>
+            <ZIPCd>22203</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Land Conservation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Oxfam Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>226 Causeway St 5th Flr</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02114</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Point Blue Conservation Science</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3820 Cypress Dr No 11</AddressLine1Txt>
+            <CityNm>Petaluma</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94954</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Environmental Resrch</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Sempirvirens Fund</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>419 S San Antonio Rd Ste 211</AddressLine1Txt>
+            <CityNm>Los Altos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Land Conservation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SF Chronical Season of Sharing</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 44740</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94144</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Compassion</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Simon Wiesenthal Center</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1399 S Roxbury Dr</AddressLine1Txt>
+            <CityNm>Los Angeles</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>90035</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Southern Illinois University</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1235 Douglas Dr</AddressLine1Txt>
+            <CityNm>Carbondale</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>62901</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Anthony Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>150 Golden Gate Ave</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94102</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Compassion</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>St Jude Childrens Hospital</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 St Jude Place</AddressLine1Txt>
+            <CityNm>Memphis</CityNm>
+            <StateAbbreviationCd>TN</StateAbbreviationCd>
+            <ZIPCd>38105</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Susan G Komen For The Cure</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5005 LBJ Freeway Ste 250</AddressLine1Txt>
+            <CityNm>Dallas</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75244</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>The Global Fund for Women</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>22 Sutter St Ste 500</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94108</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Equality</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tucker Maxon School</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2860 SE Holgate Blvd</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97202</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of Arizona</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1111 N Cherry Av PO Box 210109</AddressLine1Txt>
+            <CityNm>Tucson</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85721</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>University of Miami</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 248073</AddressLine1Txt>
+            <CityNm>Coral Gables</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>33124</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Educational</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>US Holocaust memorial Museum</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 Raoul Wallenbery Plaza SW</AddressLine1Txt>
+            <CityNm>Washington</CityNm>
+            <StateAbbreviationCd>DC</StateAbbreviationCd>
+            <ZIPCd>20024</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WTTW Public TV</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5400 N St Louis Ave</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60625</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Public Media</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Yosemite Conservancy</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 Montgomery St Ste 1700</AddressLine1Txt>
+            <CityNm>San Francisco</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94104</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Land Conservation</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Hand In Hand</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 80102</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97280</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>3000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Honorable Order of Kentucky Colonel</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1717 Alliant Ave Ste 14</AddressLine1Txt>
+            <CityNm>Louisville</CityNm>
+            <StateAbbreviationCd>KY</StateAbbreviationCd>
+            <ZIPCd>40299</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Society of St Vincent de Paul</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>420 W Watkins Rd</AddressLine1Txt>
+            <CityNm>Phoenix</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>85003</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Congregation Shir Hadash</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>20 Cherry Blossom Land</AddressLine1Txt>
+            <CityNm>Los Gatos</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95032</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Religious</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>American Cancer Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 22718</AddressLine1Txt>
+            <CityNm>Oklahoma City</CityNm>
+            <StateAbbreviationCd>OK</StateAbbreviationCd>
+            <ZIPCd>73123</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Tabard Theatre</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>5663 Chambertin Dr</AddressLine1Txt>
+            <CityNm>San Jose</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>95118</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Arts</GrantOrContributionPurposeTxt>
+          <Amt>2400</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Ventana Wildlife Society</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>9699 Blue Larkspur Ln Ste 105</AddressLine1Txt>
+            <CityNm>Monterey</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>93940</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Nature</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Big Brothers and Sister Yavapai Cty</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3208 Lakeside Village</AddressLine1Txt>
+            <CityNm>Prescott</CityNm>
+            <StateAbbreviationCd>AZ</StateAbbreviationCd>
+            <ZIPCd>86301</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Portland Schools Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2069 NE Hoyt St</AddressLine1Txt>
+            <CityNm>Portland</CityNm>
+            <StateAbbreviationCd>OR</StateAbbreviationCd>
+            <ZIPCd>97232</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Multple Myloma Foundation</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>383 Main Ave 5th floor</AddressLine1Txt>
+            <CityNm>Norwalk</CityNm>
+            <StateAbbreviationCd>CT</StateAbbreviationCd>
+            <ZIPCd>06851</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Medical Research</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Honor Flight Network</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>175 South Tuttle Rd</AddressLine1Txt>
+            <CityNm>Springfield</CityNm>
+            <StateAbbreviationCd>OH</StateAbbreviationCd>
+            <ZIPCd>45505</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Honoring Veterans</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Charting Careers</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO Box 304</AddressLine1Txt>
+            <CityNm>Arnold</CityNm>
+            <StateAbbreviationCd>MD</StateAbbreviationCd>
+            <ZIPCd>21012</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Education</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Maot Chitim</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>7366 Lincoln Ave</AddressLine1Txt>
+            <CityNm>Lincolnwood</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60712</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Humanitarian</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Chicago Botanical Assn</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 Lake Cook Rd</AddressLine1Txt>
+            <CityNm>Glencoe</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>60022</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Nature</GrantOrContributionPurposeTxt>
+          <Amt>500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>Friends of Deer Hollow Farm</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Box 4282</AddressLine1Txt>
+            <CityNm>Mountain View</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>940400282</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Nature Education</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>El Camino YMCA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2400 Grant Rd</AddressLine1Txt>
+            <CityNm>Mountain View</CityNm>
+            <StateAbbreviationCd>CA</StateAbbreviationCd>
+            <ZIPCd>94040</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>na</RecipientRelationshipTxt>
+          <GrantOrContributionPurposeTxt>Fitness</GrantOrContributionPurposeTxt>
+          <Amt>100</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>221000</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+        </DivAndIntFromSecPartVIIGrp>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Abbvie</StockNm>
+        <EOYBookValueAmt>52343</EOYBookValueAmt>
+        <EOYFMVAmt>202818</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Ventas</StockNm>
+        <EOYBookValueAmt>174991</EOYBookValueAmt>
+        <EOYFMVAmt>193347</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>British Petroleum</StockNm>
+        <EOYBookValueAmt>194470</EOYBookValueAmt>
+        <EOYFMVAmt>227520</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Cisco</StockNm>
+        <EOYBookValueAmt>199675</EOYBookValueAmt>
+        <EOYFMVAmt>376971</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Clorox</StockNm>
+        <EOYBookValueAmt>158998</EOYBookValueAmt>
+        <EOYFMVAmt>400764</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Genuine Parts</StockNm>
+        <EOYBookValueAmt>122508</EOYBookValueAmt>
+        <EOYFMVAmt>336070</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Johnson and Johnson</StockNm>
+        <EOYBookValueAmt>140195</EOYBookValueAmt>
+        <EOYFMVAmt>335530</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Paychex</StockNm>
+        <EOYBookValueAmt>180919</EOYBookValueAmt>
+        <EOYFMVAmt>390900</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Proctor and Gamble</StockNm>
+        <EOYBookValueAmt>208010</EOYBookValueAmt>
+        <EOYFMVAmt>367680</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>UPS</StockNm>
+        <EOYBookValueAmt>116486</EOYBookValueAmt>
+        <EOYFMVAmt>273084</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>IBM</StockNm>
+        <EOYBookValueAmt>194877</EOYBookValueAmt>
+        <EOYFMVAmt>147771</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Wells Fargo Advisors</StockNm>
+        <EOYBookValueAmt>462346</EOYBookValueAmt>
+        <EOYFMVAmt>636056</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Verizon</StockNm>
+        <EOYBookValueAmt>275460</EOYBookValueAmt>
+        <EOYFMVAmt>309210</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Best Buy</StockNm>
+        <EOYBookValueAmt>135807</EOYBookValueAmt>
+        <EOYFMVAmt>185360</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Charge</Desc>
+        <RevenueAndExpensesPerBooksAmt>137</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>137</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Computer Expenses</Desc>
+        <RevenueAndExpensesPerBooksAmt>80</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>80</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="STM106">
+      <OtherIncomeDetail>
+        <Desc>Credit Card Rebate</Desc>
+        <RevenueAndExpensesPerBooksAmt>19</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>19</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="STM109">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>Investment Advisory Fees</CategoryTxt>
+        <Amt>7071</Amt>
+        <NetInvestmentIncomeAmt>7071</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>7071</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>7071</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <TaxesDetail>
+        <CategoryTxt>State Taxes</CategoryTxt>
+        <Amt>10</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>10</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Licenses and Permits</CategoryTxt>
+        <Amt>95</Amt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>95</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>Foreign WH on Dividend</CategoryTxt>
+        <Amt>120</Amt>
+        <NetInvestmentIncomeAmt>120</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

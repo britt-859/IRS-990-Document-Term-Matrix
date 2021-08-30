@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-15T14:34:02-08:00</ReturnTs>
+    <TaxPeriodEndDt>2018-03-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>John C Crabill PC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>106-19 Metropolitan Ave</AddressLine1Txt>
+        <CityNm>Forest Hills</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11375</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>133433075</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>Kennedy Hanly Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>KENN</BusinessNameControlTxt>
+      <PhoneNum>7182638025</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>106-19 Metropolitan Ave</AddressLine1Txt>
+        <CityNm>Forest Hills</CityNm>
+        <StateAbbreviationCd>NY</StateAbbreviationCd>
+        <ZIPCd>11375</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN CRABILL</PersonNm>
+      <PersonTitleTxt>TREASURER</PersonTitleTxt>
+      <PhoneNum>7182638025</PhoneNum>
+      <SignatureDt>2019-02-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>JOHN C CRABILL</PreparerPersonNm>
+      <PTIN>P01597907</PTIN>
+      <PhoneNum>7182638025</PhoneNum>
+      <PreparationDt>2019-02-15</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>108.14.177.183</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-15</IPDt>
+      <IPTm>14:33:53</IPTm>
+      <IPTimezoneCd>PS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>8DBF56822FDF8B2299433AC551078F540413D92B</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>8DBF56822FDF8B2299433AC551078F540413D92B</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="12">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>658104</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>100000</ContriRcvdRevAndExpnssAmt>
+        <InterestOnSavRevAndExpnssAmt>2804</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>2804</InterestOnSavNetInvstIncmAmt>
+        <DividendsRevAndExpnssAmt>7931</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>7931</DividendsNetInvstIncmAmt>
+        <CapGainNetIncmNetInvstIncmAmt>9896</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>360</NetSTCapitalGainAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>110735</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>20631</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>360</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="00000006" referenceDocumentName="LegalFeesSchedule">1253</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>1253</LegalFeesNetInvstIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="00000011" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">0</OtherExpensesRevAndExpnssAmt>
+        <TotOprExpensesRevAndExpnssAmt>1253</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>1253</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>52500</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>52500</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>53753</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>1253</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>52500</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>56982</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>19378</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>360</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <SavAndTempCashInvstBOYAmt>72524</SavAndTempCashInvstBOYAmt>
+        <SavAndTempCashInvstEOYAmt>141766</SavAndTempCashInvstEOYAmt>
+        <SavAndTempCashInvstEOYFMVAmt>141766</SavAndTempCashInvstEOYFMVAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="00000005" referenceDocumentName="InvestmentsGovtObligationsSchedule">59759</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>57825</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>225980</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpStockSchedule">238794</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>393583</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>140309</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpBondsSchedule">65136</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>64930</CorporateBondsEOYFMVAmt>
+        <OtherAssetsBOYAmt referenceDocumentId="00000007" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="00000008" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt referenceDocumentId="00000009" referenceDocumentName="OtherAssetsSchedule">0</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>438813</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>505455</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>658104</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedBOYAmt>438813</UnrestrictedBOYAmt>
+        <UnrestrictedEOYAmt>505455</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>438813</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>505455</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>438813</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>505455</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>438813</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>56982</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="00000012" referenceDocumentName="OtherIncreasesSchedule">9896</OtherIncreasesAmt>
+        <SubtotalAmt>505691</SubtotalAmt>
+        <OtherDecreasesAmt referenceDocumentId="00000010" referenceDocumentName="OtherDecreasesSchedule">236</OtherDecreasesAmt>
+        <TotNetAstOrFundBalancesEOYAmt>505455</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CIBC ST Gains</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2017-01-01</AcquiredDt>
+          <SoldDt>2017-12-01</SoldDt>
+          <GrossSalesPriceAmt>360</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>360</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>360</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CIBC LT Gains</PropertyDesc>
+          <HowAcquiredCd>P</HowAcquiredCd>
+          <AcquiredDt>2015-01-01</AcquiredDt>
+          <SoldDt>2017-12-31</SoldDt>
+          <GrossSalesPriceAmt>9536</GrossSalesPriceAmt>
+          <DepreciationAmt>0</DepreciationAmt>
+          <CostOrOtherBasisAmt>0</CostOrOtherBasisAmt>
+          <GainOrLossAmt>9536</GainOrLossAmt>
+          <FMVAsOf123169Amt>0</FMVAsOf123169Amt>
+          <AdjustedBasisAsOf123169Amt>0</AdjustedBasisAsOf123169Amt>
+          <ExcessFMVOverAdjustedBssAmt>0</ExcessFMVOverAdjustedBssAmt>
+          <GainsMinusExcessOrLossesAmt>9536</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>9896</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>360</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>63819</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>563048</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.113346</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>52329</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>593160</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.088221</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>37500</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>623737</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.060121</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>39283</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>612267</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.064160</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>37000</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>591000</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.062606</DistributionYr5Rt>
+        <TotalDistributionRt>0.388454</TotalDistributionRt>
+        <AverageDistributionRt>0.077691</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>636418</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>49444</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>194</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>49638</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>52500</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>194</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>194</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>194</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>45</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>45</TotalPaymentsAndCreditsAmt>
+        <OriginalReturnTaxPaidAmt>45</OriginalReturnTaxPaidAmt>
+        <TaxDueAmt>149</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>NY</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JOHN C CRABILL PC</IndividualWithBooksNm>
+        <PhoneNum>7182638025</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>106-19 Metropolitan Ave</AddressLine1Txt>
+          <CityNm>Forest Hills</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11375</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <UndistrIncmSect4942a2NotAppInd>false</UndistrIncmSect4942a2NotAppInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOAN HANLY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>Dublin</AddressLine1Txt>
+            <CityNm>Ireland</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </USAddress>
+          <TitleTxt>Pres.</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>KENNETH HANLY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Westford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </USAddress>
+          <TitleTxt>VP</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN CRABILL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Forest Hills</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>11375</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treas</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+        <ContractorPaidOver50kCnt>0</ContractorPaidOver50kCnt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>646110</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>0</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>646110</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>646110</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>9692</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>636418</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>31821</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>31821</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>194</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>194</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>31627</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>31627</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>31627</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>52500</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>52500</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>194</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>52306</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>31627</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr5Amt>7684</ExcessDistributionCyovYr5Amt>
+        <ExcessDistributionCyovYr4Amt>9104</ExcessDistributionCyovYr4Amt>
+        <ExcessDistributionCyovYr3Amt>6782</ExcessDistributionCyovYr3Amt>
+        <ExcessDistributionCyovYr2Amt>23013</ExcessDistributionCyovYr2Amt>
+        <ExcessDistributionCyovYr1Amt>35987</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>82570</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>52500</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>31627</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>20873</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>103443</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovFromYr5Amt>7684</ExcessDistriCyovFromYr5Amt>
+        <ExcessDistriCyovToNextYrAmt>95759</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear4Amt>9104</ExcessFromYear4Amt>
+        <ExcessFromYear3Amt>6782</ExcessFromYear3Amt>
+        <ExcessFromYear2Amt>23013</ExcessFromYear2Amt>
+        <ExcessFromYear1Amt>35987</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>20873</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>JOAN HANLY</ContributingManagerNm>
+        <ShareholderManagerNm>NONE</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>La Leche League</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Chicago</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>medical</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Irish Educational Development Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>White Plains</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501C</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>education</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Pan Mass Challenge</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>02241</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>cancer research</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>St Catherine's Church</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Westford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>religious</GrantOrContributionPurposeTxt>
+          <Amt>2250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American College Dublin Foundation</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Delray Beach</CityNm>
+            <StateAbbreviationCd>FL</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501(c)</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>education</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>World Mercy Fund</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>disaster relief</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>American Red Cross</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>disaster relief</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>x</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>United Teen Equality Center</AddressLine1Txt>
+            <CityNm>Westford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>public civil rights program</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>x</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>The Freeman Center</AddressLine1Txt>
+            <CityNm>Westford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>public drug program</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Catholic Relief Services</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>aid to the poor</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>x</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>Nashoba Valley Special Olympics</AddressLine1Txt>
+            <CityNm>Westford</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>public recreation for handicapped</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Sightsavers USA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>public assistance</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Clongowes Wood College Fdn</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>NY</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10001</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>education</GrantOrContributionPurposeTxt>
+          <Amt>0</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Chelmsford Dog Assioc</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>Boston</CityNm>
+            <StateAbbreviationCd>MA</StateAbbreviationCd>
+            <ZIPCd>01863</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>animal welfare</GrantOrContributionPurposeTxt>
+          <Amt>250</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Cluny Sisters</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>x</AddressLine1Txt>
+            <CityNm>New York</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>501c</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>education</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>52500</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>2804</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>7931</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>10735</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>10735</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>JOAN K HANLY</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>c/o J Crabill Esq</AddressLine1Txt>
+          <CityNm>Forest Hills</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11375</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>100000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="00000003">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>Corporate Bonds</BondNm>
+        <EOYBookValueAmt>65136</EOYBookValueAmt>
+        <EOYFMVAmt>64930</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000004">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Mutual Funds</StockNm>
+        <EOYBookValueAmt>238794</EOYBookValueAmt>
+        <EOYFMVAmt>393583</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>Exchange Traded Funds</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="00000005">
+      <StateLocalSecBookVlEOYAmt>59759</StateLocalSecBookVlEOYAmt>
+      <StateLocalSecEOYFMVAmt>57825</StateLocalSecEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <LegalFeesSchedule documentId="00000006">
+      <LegalFeesGrp>
+        <CategoryTxt>John C. Crabill Legal tax prep</CategoryTxt>
+        <LegalFeesAmt>1253</LegalFeesAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="00000007">
+      <OtherAssetsScheduleGrp>
+        <Desc>Pending trades - due from brokers</Desc>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000008">
+      <OtherAssetsScheduleGrp>
+        <Desc>Pending trades - due from brokers</Desc>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherAssetsSchedule documentId="00000009">
+      <OtherAssetsScheduleGrp>
+        <Desc>Pending trades - due from brokers</Desc>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="00000010">
+      <OtherDecreasesDetail>
+        <Desc>Decreases on sales</Desc>
+        <Amt>0</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>For. tax paid</Desc>
+        <Amt>0</Amt>
+      </OtherDecreasesDetail>
+      <OtherDecreasesDetail>
+        <Desc>Amortize bond book values</Desc>
+        <Amt>236</Amt>
+      </OtherDecreasesDetail>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="00000011">
+      <OtherExpensesScheduleGrp>
+        <Desc>For Taxes</Desc>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="00000012">
+      <OtherIncreasesDetail>
+        <Desc>Net reivestment of dividends &amp; sale proceeds</Desc>
+        <Amt>9896</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-20T09:33:11-00:00</ReturnTs>
+    <TaxPeriodEndDt>2017-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>Foundation Group Inc</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1321 Murfreesboro Pike Ste 610</AddressLine1Txt>
+        <CityNm>Nashville</CityNm>
+        <StateAbbreviationCd>TN</StateAbbreviationCd>
+        <ZIPCd>37217</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-04-03</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>820967113</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>LF and Carla Perry Foundation</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>LFAN</BusinessNameControlTxt>
+      <PhoneNum>9402274362</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>213 E Main Street</AddressLine1Txt>
+        <CityNm>Olney</CityNm>
+        <StateAbbreviationCd>TX</StateAbbreviationCd>
+        <ZIPCd>76374</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>Justin Piegat</PersonNm>
+      <PersonTitleTxt>President</PersonTitleTxt>
+      <SignatureDt>2019-01-20</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>William G McRay</PreparerPersonNm>
+      <PhoneNum>6153619445</PhoneNum>
+      <PreparationDt>2019-01-20</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>173.10.209.165</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-20</IPDt>
+      <IPTm>15:31:13</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>B8CE4D7DDE02638382EA973DA478B527BC0631BB</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>B8CE4D7DDE02638382EA973DA478B527BC0631BB</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="14">
+    <IRS990PF referenceDocumentId="990PF:143" documentId="990PF" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <InitialReturnInd>X</InitialReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>294333</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriRcvdRevAndExpnssAmt>418150</ContriRcvdRevAndExpnssAmt>
+        <CapGainNetIncmNetInvstIncmAmt>0</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="990PF:126">71531</OtherIncomeRevAndExpnssAmt>
+        <TotalRevAndExpnssAmt>489681</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>0</TotalNetInvstIncmAmt>
+        <CompOfcrDirTrstRevAndExpnssAmt>46419</CompOfcrDirTrstRevAndExpnssAmt>
+        <CompOfcrDirTrstDsbrsChrtblAmt>14033</CompOfcrDirTrstDsbrsChrtblAmt>
+        <OthEmplSlrsWgsRevAndExpnssAmt>50878</OthEmplSlrsWgsRevAndExpnssAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="990PF:127">2381</LegalFeesRevAndExpnssAmt>
+        <LegalFeesDsbrsChrtblAmt>2381</LegalFeesDsbrsChrtblAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="990PF:128">2350</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesChrtblPrpsAmt>1600</AccountingFeesChrtblPrpsAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="990PF:130">8987</TaxesRevAndExpnssAmt>
+        <TaxesDsbrsChrtblAmt>1471</TaxesDsbrsChrtblAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="990PF:145">148</DeprecAndDpltnRevAndExpnssAmt>
+        <OccupancyRevAndExpnssAmt>2518</OccupancyRevAndExpnssAmt>
+        <OccupancyDsbrsChrtblAmt>778</OccupancyDsbrsChrtblAmt>
+        <TravConfMeetingRevAndExpnssAmt>739</TravConfMeetingRevAndExpnssAmt>
+        <TravConfMeetingDsbrsChrtblAmt>739</TravConfMeetingDsbrsChrtblAmt>
+        <PrintingAndPubRevAndExpnssAmt>14325</PrintingAndPubRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="990PF:131">25601</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesDsbrsChrtblAmt>14326</OtherExpensesDsbrsChrtblAmt>
+        <TotOprExpensesRevAndExpnssAmt>154346</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>0</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>35328</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>49626</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>49626</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>203972</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>0</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>84954</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>285709</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashEOYAmt>113064</CashEOYAmt>
+        <CashEOYFMVAmt>113064</CashEOYFMVAmt>
+        <InvstLandCostOrOtherBasisAmt>181417</InvstLandCostOrOtherBasisAmt>
+        <InvstLandAccumDepreciationAmt>148</InvstLandAccumDepreciationAmt>
+        <LandBldgInvestmentsEOYAmt referenceDocumentId="990PF:146">181269</LandBldgInvestmentsEOYAmt>
+        <LandBldgInvestmentsEOYFMVAmt>181269</LandBldgInvestmentsEOYFMVAmt>
+        <TotalAssetsEOYAmt>294333</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>294333</TotalAssetsEOYFMVAmt>
+        <OtherLiabilitiesEOYAmt referenceDocumentId="990PF:136">8624</OtherLiabilitiesEOYAmt>
+        <TotalLiabilitiesEOYAmt>8624</TotalLiabilitiesEOYAmt>
+        <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+        <UnrestrictedEOYAmt>285709</UnrestrictedEOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>285709</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>0</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>294333</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <ExcessRevenueOverExpensesAmt>285709</ExcessRevenueOverExpensesAmt>
+        <SubtotalAmt>285709</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>285709</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <InvestmentIncomeExciseTaxAmt>0</InvestmentIncomeExciseTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+        <Form990TFiledInd>true</Form990TFiledInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>TX</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd referenceDocumentId="990PF:158">false</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd referenceDocumentId="990PF:140">true</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>www.lfcpf.org</WebsiteAddressTxt>
+        <IndividualWithBooksNm>Justin Piegat</IndividualWithBooksNm>
+        <PhoneNum>9402274362</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>213 E Main</AddressLine1Txt>
+          <CityNm>Olney</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76374</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>true</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <ActsFailToQlfyAsExceptionsInd>false</ActsFailToQlfyAsExceptionsInd>
+        <UncorrectedPriorActsInd>false</UncorrectedPriorActsInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Justin Piegat</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>104 Fairway Drive</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76374</ZIPCd>
+          </USAddress>
+          <TitleTxt>President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>002.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Carla Perry</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>72 Hwy 251 S</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>75374</ZIPCd>
+          </USAddress>
+          <TitleTxt>Treasurer</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>001.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Rhonda Walker-Glasper</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>811 W Main Street</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76374</ZIPCd>
+          </USAddress>
+          <TitleTxt>Secretary</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>020.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>46419</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Kelley Eubanks</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>209 W 2nd Street Ste 317</AddressLine1Txt>
+            <CityNm>Fort Worth</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76102</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Juan Bolden</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>706 Alexander Street</AddressLine1Txt>
+            <CityNm>Lafayette</CityNm>
+            <StateAbbreviationCd>LA</StateAbbreviationCd>
+            <ZIPCd>70544</ZIPCd>
+          </USAddress>
+          <TitleTxt>Director</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>Louis Golden</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1502 South Hwy 79</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76374</ZIPCd>
+          </USAddress>
+          <TitleTxt>Vice President</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+        </OfficerDirTrstKeyEmplGrp>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>Provided Charitable Giving to qualifying organizations throughout the community.</Description1Txt>
+        <Expenses1Amt>49626</Expenses1Amt>
+        <Description2Txt>The management and administrative costs incurred to operate the foundation, directly support, and are necessary to carry out the charitable programs and activities conducted by the foundation.</Description2Txt>
+        <Expenses2Amt>35216</Expenses2Amt>
+        <Description3Txt>Provided an appreciation of history through the acquisition, restoration, and preservation of a public historical building which has historical significance.</Description3Txt>
+        <Expenses3Amt>112</Expenses3Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <SumOfProgramRelatedInvstGrp></SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>0</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>27812</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>27812</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>27812</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt referenceDocumentId="990PF:166">417</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>27395</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>1024</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>1024</MinimumInvestmentReturnAmt>
+        <DistributableBeforeAdjAmt>1024</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>1024</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>1024</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt referenceDocumentId="990PF:167">84954</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>84954</QualifyingDistributionsAmt>
+        <AdjustedQualifyingDistriAmt>84954</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>1024</DistributableAsAdjustedAmt>
+        <QualifyingDistributionsAmt>84954</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>1024</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>83930</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>83930</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>83930</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromCurrentYearAmt>83930</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>Carla Perry</ContributingManagerNm>
+        <ContributingManagerNm>Justin Piegat</ContributingManagerNm>
+        <ShareholderManagerNm>Not Applicable</ShareholderManagerNm>
+        <OnlyContriToPreselectedInd>X</OnlyContriToPreselectedInd>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>House of Mercy Enterprises</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1302 W Payne Street</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76374</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation to assist with Program Operation Expenses</GrantOrContributionPurposeTxt>
+          <Amt>49551</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>Olney High School</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>704 W Grove Street</AddressLine1Txt>
+            <CityNm>Olney</CityNm>
+            <StateAbbreviationCd>TX</StateAbbreviationCd>
+            <ZIPCd>76374</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientRelationshipTxt>None</RecipientRelationshipTxt>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>Donation</GrantOrContributionPurposeTxt>
+          <Amt>75</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>49626</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>Newspaper Subscriptions</Desc>
+          <BusinessCd>511110</BusinessCd>
+          <UnrelatedBusinessTaxblIncmAmt>71531</UnrelatedBusinessTaxblIncmAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <UnrelatedBusinessTaxblIncmAmt>71531</UnrelatedBusinessTaxblIncmAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>71531</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <GeneralRuleInd>X</GeneralRuleInd>
+      <ContributorInformationGrp>
+        <ContributorNum>1</ContributorNum>
+        <ContributorPersonNm>Carla Perry</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>72 Highway 251 S</AddressLine1Txt>
+          <CityNm>Olney</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76374</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>401000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+      <ContributorInformationGrp>
+        <ContributorNum>2</ContributorNum>
+        <ContributorPersonNm>Justin and Kathryn Piegat</ContributorPersonNm>
+        <ContributorUSAddress>
+          <AddressLine1Txt>104 Fairway Drive</AddressLine1Txt>
+          <CityNm>Olney</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76374</ZIPCd>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>10000</TotalContributionsAmt>
+        <PersonContributionInd>X</PersonContributionInd>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="990PF:128" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <AccountingFeesDetail>
+        <CategoryTxt>Accounting Fees</CategoryTxt>
+        <Amt>2350</Amt>
+        <DisbursementsCharitablePrpsAmt>1600</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="990PF:145" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>Furniture/Equipment</PropertyDesc>
+        <AcquiredDt>2017-12-07</AcquiredDt>
+        <CostOrOtherBasisAmt>11542</CostOrOtherBasisAmt>
+        <ComputationMethodTxt>Straight Line</ComputationMethodTxt>
+        <LifeRt>0000000005.000000000000</LifeRt>
+        <CurrentYearExpenseAmt>148</CurrentYearExpenseAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="990PF:158" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <ExplanationTxt>The 2017 Form 990-PF is the first return being filed by the organization. We will forward a copy of the return to the Texas Attorney Generals Office after review by the Board of Directors and filing with the IRS.</ExplanationTxt>
+    </ExplnOfNonFilingWithAGStmt>
+    <GeneralExplanationAttachment documentId="990PF:144" softwareId="17005317" softwareVersionNum="18.2.0.0"></GeneralExplanationAttachment>
+    <InvestmentsLandSchedule2 documentId="990PF:146" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Building 213 E Main Street</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>164976</CostOrOtherBasisAmt>
+        <BookValueAmt>164976</BookValueAmt>
+        <EOYFMVAmt>164976</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Land 213 E Main Street</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>4900</CostOrOtherBasisAmt>
+        <BookValueAmt>4900</BookValueAmt>
+        <EOYFMVAmt>4900</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Conference Table</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1000</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>35</AccumulatedDepreciationAmt>
+        <BookValueAmt>965</BookValueAmt>
+        <EOYFMVAmt>965</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Equipment Lifts</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>719</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>17</AccumulatedDepreciationAmt>
+        <BookValueAmt>702</BookValueAmt>
+        <EOYFMVAmt>702</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Computer</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>1515</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>76</AccumulatedDepreciationAmt>
+        <BookValueAmt>1439</BookValueAmt>
+        <EOYFMVAmt>1439</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Printing Equipment</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>7890</CostOrOtherBasisAmt>
+        <BookValueAmt>7890</BookValueAmt>
+        <EOYFMVAmt>7890</EOYFMVAmt>
+      </InvestmentLandGrp>
+      <InvestmentLandGrp>
+        <CategoryOrItemTxt>Office Furniture</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>417</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>20</AccumulatedDepreciationAmt>
+        <BookValueAmt>397</BookValueAmt>
+        <EOYFMVAmt>397</EOYFMVAmt>
+      </InvestmentLandGrp>
+    </InvestmentsLandSchedule2>
+    <LegalFeesSchedule documentId="990PF:127" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <LegalFeesGrp>
+        <CategoryTxt>Legal Fees</CategoryTxt>
+        <LegalFeesAmt>2381</LegalFeesAmt>
+        <DisbursementsCharitablePrpsAmt>2381</DisbursementsCharitablePrpsAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="990PF:131" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <OtherExpensesScheduleGrp>
+        <Desc>Advertising</Desc>
+        <RevenueAndExpensesPerBooksAmt>202</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Repairs and Maintenance</Desc>
+        <RevenueAndExpensesPerBooksAmt>3882</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3733</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Equipment</Desc>
+        <RevenueAndExpensesPerBooksAmt>1029</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Bank Service Charges</Desc>
+        <RevenueAndExpensesPerBooksAmt>26</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Books/Subscriptions</Desc>
+        <RevenueAndExpensesPerBooksAmt>6940</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>3714</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Postage</Desc>
+        <RevenueAndExpensesPerBooksAmt>608</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>99</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Supplies</Desc>
+        <RevenueAndExpensesPerBooksAmt>8162</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>4706</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Telephone</Desc>
+        <RevenueAndExpensesPerBooksAmt>3481</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1069</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Sponsorship</Desc>
+        <RevenueAndExpensesPerBooksAmt>225</RevenueAndExpensesPerBooksAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>Business Registration Fee</Desc>
+        <RevenueAndExpensesPerBooksAmt>1046</RevenueAndExpensesPerBooksAmt>
+        <DisbursementsCharitablePrpsAmt>1004</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="990PF:126" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <OtherIncomeDetail>
+        <Desc>Newspaper Revenue</Desc>
+        <RevenueAndExpensesPerBooksAmt>71531</RevenueAndExpensesPerBooksAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="990PF:136" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <OtherLiabilitiesDetail>
+        <Desc>Payroll Liabilities</Desc>
+        <EOYBookValueAmt>8079</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+      <OtherLiabilitiesDetail>
+        <Desc>Deferred Property Taxes</Desc>
+        <EOYBookValueAmt>545</EOYBookValueAmt>
+      </OtherLiabilitiesDetail>
+    </OtherLiabilitiesSchedule>
+    <ReasonableCauseExplanation documentId="990PF:143" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <ExplanationTxt>We would like to request an abatement of the estimated late filing penalty of 4,940. This is the first year of operations by the organization. During 2017, we were in the process of applying to the IRS for tax exemption with the Form 1023. We were not aware of the 990-PF requirement for the first year of operations. Once our service provider made us aware of this requirement, we immediately began gathering the information needed for the return. Payment of this penalty would have a huge negative impact on the ability of our organization to continue running the program. There was no attempt on our part to withhold information from the IRS or prejudice the Federal Government. We respectfully request abatement of any late filing penalties and interest.</ExplanationTxt>
+    </ReasonableCauseExplanation>
+    <SubstantialContributorsSch documentId="990PF:140" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <SubstantialContributorDetail>
+        <PersonNm>Carla Perry</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>72 Highway 251 S</AddressLine1Txt>
+          <CityNm>Olney</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76374</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+      <SubstantialContributorDetail>
+        <PersonNm>Justin and Kathryn Piegat</PersonNm>
+        <USAddress>
+          <AddressLine1Txt>104 Fairway Drive</AddressLine1Txt>
+          <CityNm>Olney</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>76374</ZIPCd>
+        </USAddress>
+      </SubstantialContributorDetail>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="990PF:130" softwareId="17005317" softwareVersionNum="18.2.0.0">
+      <TaxesDetail>
+        <CategoryTxt>Payroll Taxes</CategoryTxt>
+        <Amt>8987</Amt>
+        <DisbursementsCharitablePrpsAmt>1471</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

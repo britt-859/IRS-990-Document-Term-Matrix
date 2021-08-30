@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-02-08T17:51:50-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-09-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>274012075</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>KS Accounting LLC</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>PO Box 566</AddressLine1Txt>
+        <CityNm>Monroe</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30655</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-10-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>586034766</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>WALTON COUNTY FOUNDATION INC</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>WALT</BusinessNameControlTxt>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+        <CityNm>MONROE</CityNm>
+        <StateAbbreviationCd>GA</StateAbbreviationCd>
+        <ZIPCd>30655</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>BENJAMIN E GARRETT</PersonNm>
+      <PersonTitleTxt>VICE CHAIRMAN</PersonTitleTxt>
+      <PhoneNum>7706012180</PhoneNum>
+      <SignatureDt>2019-02-11</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Kitty Smith</PreparerPersonNm>
+      <PTIN>P00383716</PTIN>
+      <PhoneNum>7702070019</PhoneNum>
+      <PreparationDt>2019-02-08</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>173.186.92.193</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-02-09</IPDt>
+      <IPTm>00:09:30</IPTm>
+      <FederalOriginalSubmissionId>6788802019040vby22tv</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-02-09</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>62F2272AF9A59E97ABD2A38E8CED8E3B53429128</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>62F2272AF9A59E97ABD2A38E8CED8E3B53429128</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="15">
+    <IRS990PF documentId="IRS990PF">
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>5006962</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <DividendsRevAndExpnssAmt>106088</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>106088</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>106088</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt referenceDocumentId="STM139">160042</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>845633</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>160042</CapGainNetIncmNetInvstIncmAmt>
+        <NetSTCapitalGainAdjNetIncmAmt>147</NetSTCapitalGainAdjNetIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="STM106">500</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeNetInvstIncmAmt>500</OtherIncomeNetInvstIncmAmt>
+        <OtherIncomeAdjNetIncmAmt>500</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>266630</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>266630</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>106735</TotalAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="STM108">1450</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>1450</AccountingFeesNetInvstIncmAmt>
+        <OtherProfFeesRevAndExpnssAmt referenceDocumentId="STM109">47795</OtherProfFeesRevAndExpnssAmt>
+        <OtherProfFeesNetInvstIncmAmt>47795</OtherProfFeesNetInvstIncmAmt>
+        <TaxesRevAndExpnssAmt referenceDocumentId="STM110">600</TaxesRevAndExpnssAmt>
+        <TaxesNetInvstIncmAmt>600</TaxesNetInvstIncmAmt>
+        <DeprecAndDpltnRevAndExpnssAmt referenceDocumentId="STM126">15</DeprecAndDpltnRevAndExpnssAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="STM103">76</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>76</OtherExpensesNetInvstIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>49936</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>49921</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>251170</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>251170</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>301106</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>49921</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>251170</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-34476</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>216709</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>106735</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>3536</CashBOYAmt>
+        <CashEOYAmt>2213</CashEOYAmt>
+        <CashEOYFMVAmt>2213</CashEOYFMVAmt>
+        <PrepaidExpensesBOYAmt>2183</PrepaidExpensesBOYAmt>
+        <PrepaidExpensesEOYAmt>1613</PrepaidExpensesEOYAmt>
+        <PrepaidExpensesEOYFMVAmt>1613</PrepaidExpensesEOYFMVAmt>
+        <USGovernmentObligationsBOYAmt>285545</USGovernmentObligationsBOYAmt>
+        <USGovernmentObligationsEOYAmt referenceDocumentId="STM136">285191</USGovernmentObligationsEOYAmt>
+        <USGovtObligationsEOYFMVAmt>280089</USGovtObligationsEOYFMVAmt>
+        <CorporateStockBOYAmt>2176163</CorporateStockBOYAmt>
+        <CorporateStockEOYAmt referenceDocumentId="STM137">2278104</CorporateStockEOYAmt>
+        <CorporateStockEOYFMVAmt>3427641</CorporateStockEOYFMVAmt>
+        <CorporateBondsBOYAmt>1192232</CorporateBondsBOYAmt>
+        <CorporateBondsEOYAmt referenceDocumentId="STM138">1112211</CorporateBondsEOYAmt>
+        <CorporateBondsEOYFMVAmt>1088543</CorporateBondsEOYFMVAmt>
+        <OtherInvestmentsBOYAmt>85006</OtherInvestmentsBOYAmt>
+        <OtherInvestmentsEOYAmt referenceDocumentId="STM118">173851</OtherInvestmentsEOYAmt>
+        <OtherInvestmentsEOYFMVAmt>173851</OtherInvestmentsEOYFMVAmt>
+        <LandBldgEquipCostOrOtherBssAmt>535</LandBldgEquipCostOrOtherBssAmt>
+        <LandBldgEquipAccumDeprecAmt>535</LandBldgEquipAccumDeprecAmt>
+        <LandBOYAmt>15</LandBOYAmt>
+        <LandEOYAmt referenceDocumentId="STM119">0</LandEOYAmt>
+        <OtherAssetsBOYAmt>33512</OtherAssetsBOYAmt>
+        <OtherAssetsEOYAmt referenceDocumentId="STM120">33012</OtherAssetsEOYAmt>
+        <OtherAssetsEOYFMVAmt>33012</OtherAssetsEOYFMVAmt>
+        <TotalAssetsBOYAmt>3778192</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>3886195</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>5006962</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesBOYAmt>0</TotalLiabilitiesBOYAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <RetainedEarningBOYAmt>3778192</RetainedEarningBOYAmt>
+        <RetainedEarningEOYAmt>3886195</RetainedEarningEOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>3778192</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3886195</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>3778192</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>3886195</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>3778192</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-34476</ExcessRevenueOverExpensesAmt>
+        <OtherIncreasesAmt referenceDocumentId="STM115">142479</OtherIncreasesAmt>
+        <SubtotalAmt>3886195</SubtotalAmt>
+        <TotNetAstOrFundBalancesEOYAmt>3886195</TotNetAstOrFundBalancesEOYAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>CAPITAL GAINS DISTRIBUTIONS</PropertyDesc>
+          <GrossSalesPriceAmt>17399</GrossSalesPriceAmt>
+          <GainOrLossAmt>17399</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>17399</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES LT</PropertyDesc>
+          <GrossSalesPriceAmt>709801</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>558868</CostOrOtherBasisAmt>
+          <GainOrLossAmt>150933</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>150933</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapGainsLossTxInvstIncmGrp>
+          <PropertyDesc>PUBLICLY TRADED SECURITIES ST</PropertyDesc>
+          <GrossSalesPriceAmt>118433</GrossSalesPriceAmt>
+          <CostOrOtherBasisAmt>126723</CostOrOtherBasisAmt>
+          <GainOrLossAmt>-8290</GainOrLossAmt>
+          <GainsMinusExcessOrLossesAmt>-8290</GainsMinusExcessOrLossesAmt>
+        </CapGainsLossTxInvstIncmGrp>
+        <CapitalGainNetIncomeAmt>160042</CapitalGainNetIncomeAmt>
+        <NetShortTermCapitalGainLossAmt>147</NetShortTermCapitalGainLossAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>268745</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>4667331</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.05758</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>225566</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>4485142</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.050292</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>244070</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>4639721</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.052604</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>228189</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>4771234</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.047826</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>222177</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>4469123</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.049714</DistributionYr5Rt>
+        <TotalDistributionRt>0.258016</TotalDistributionRt>
+        <AverageDistributionRt>0.051603</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>4823725</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>248919</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>2167</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>251086</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>251170</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>2167</InvestmentIncomeExciseTaxAmt>
+        <TaxUnderSection511Amt>0</TaxUnderSection511Amt>
+        <SubtotalAmt>2167</SubtotalAmt>
+        <SubtitleATaxAmt>0</SubtitleATaxAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2167</TaxBasedOnInvestmentIncomeAmt>
+        <EstimatedPlusOvpmtIncmTxAmt>1613</EstimatedPlusOvpmtIncmTxAmt>
+        <TotalPaymentsAndCreditsAmt>1613</TotalPaymentsAndCreditsAmt>
+        <TaxDueAmt>554</TaxDueAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd>false</OrganizationDissolvedEtcInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>GA</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <IndividualWithBooksNm>BENJAMIN E GARRETT</IndividualWithBooksNm>
+        <PhoneNum>7706012180</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+          <CityNm>MONROE</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30655</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>DONALD L GARRETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>REBECCA P DALLY</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>SECRETARY TREASURER</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>PAT PRESTON</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JEAN GALLMAN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>CHARLES F SANDERS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MICKEY D LANKFORD</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>1.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>BENJAMIN E GARRETT</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>VICE CHAIRMAN</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>MARY L REINAGEL</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>GARY HOBBS</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>0.50</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <OtherEmployeePaidOver50kCnt>0</OtherEmployeePaidOver50kCnt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SummaryOfDirectChrtblActyGrp>
+        <Description1Txt>GRANTS TO OTHER EXEMPT ORGANIZATIONS FOR CHARITABLE PURPOSES</Description1Txt>
+        <Expenses1Amt>251170</Expenses1Amt>
+      </SummaryOfDirectChrtblActyGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>4894309</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>2874</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>4897183</TotalFMVOfUnusedAssetsAmt>
+        <AcquisitionIndebtednessAmt>0</AcquisitionIndebtednessAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>4897183</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>73458</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>4823725</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>241186</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>241186</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>2167</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>2167</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>239019</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>239019</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>239019</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>251170</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>251170</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>2167</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>249003</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>239019</DistributableAsAdjustedAmt>
+        <ExcessDistributionCyovYr1Amt>35807</ExcessDistributionCyovYr1Amt>
+        <TotalExcessDistributionCyovAmt>35807</TotalExcessDistributionCyovAmt>
+        <QualifyingDistributionsAmt>251170</QualifyingDistributionsAmt>
+        <AppliedToCurrentYearAmt>239019</AppliedToCurrentYearAmt>
+        <RemainingDistriFromCorpusAmt>12151</RemainingDistriFromCorpusAmt>
+        <TotalCorpusAmt>47958</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <ExcessDistriCyovToNextYrAmt>47958</ExcessDistriCyovToNextYrAmt>
+        <ExcessFromYear1Amt>35807</ExcessFromYear1Amt>
+        <ExcessFromCurrentYearAmt>12151</ExcessFromCurrentYearAmt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JEAN GALLMAN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 232</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>4042107326</RecipientPhoneNum>
+          <RecipientEmailAddressTxt>BJGALLMAN@COMCAST.NET</RecipientEmailAddressTxt>
+          <FormAndInfoAndMaterialsTxt>WRITTEN</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NA</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>WALTON COUNTY GEORGIA ORGANIZATIONS</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>A CHILDS VOICE ADVOCACY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>216 BROOKSTONE PLACE</AddressLine1Txt>
+            <CityNm>SOCIAL CIRCLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FURNITURETECHNOLOGY</GrantOrContributionPurposeTxt>
+          <Amt>9196</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>AMERICAN RED CROSS NE GA CHAPTER</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>400 PULASKI STREET</AddressLine1Txt>
+            <CityNm>ATHENS</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30606</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>FAMILY ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CAMP TWIN LAKES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1100 SPRING ST STE 260</AddressLine1Txt>
+            <CityNm>ATLANTA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30309</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CAMP SCHOLARSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>COMMUNITIES IN SCHOOLS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 611</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>33500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>CORINTH CHRISTIAN CHURCH</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1635 HWY 81</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>CEMETERY</GrantOrContributionPurposeTxt>
+          <Amt>6000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>FAITH IN SERVING HUMANITY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1838</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIESHYGIENE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GEORGE WALTON ACADEMY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>ONE BULLDOG DRIVE</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>11500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>GIRL SCOUTS OF HISTORIC GEORGIA</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>6869 COLUMBUS RD</AddressLine1Txt>
+            <CityNm>LIZELLA</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>31052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>HISTORICAL SOCIETY OF LOGANVILLE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3154</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EQUIPMENT SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>7500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOGANVILLE CHRISTIAN ACADEMY</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2575 HIGHWAY 81</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOGANVILLE MINISTRY VILLAGE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>678 TOM BREWER RD</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIESEDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>LOGANVILLE HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>100 TRIDENT TRAIL</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONROE AREA HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 DOUBLE SPRINGS CHURCH RD</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30656</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONROE AREA HIGH SCHOOL FOOTBALL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 DOUBLE SPRINGS CHURCH RD</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30656</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EQUIPMENT</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONROE ART GUILD</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 125</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONSUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>8550</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>MONROE CULTURAL HERITAGE MUSEUM</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>S BROAD STREET</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>5217</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>NE GEORGIA BOY SCOUTS</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 399</AddressLine1Txt>
+            <CityNm>JEFFERSON</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30549</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>13850</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>ON STAGE WALTON</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1194</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>PRODUCTION SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>12625</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SHEPHERD STAFF MINISTRIES</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>76 BAY CREEK RD STE N</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATIONFINANCIAL ASSISTANCE</GrantOrContributionPurposeTxt>
+          <Amt>10000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIAL CIRCLE MAIN STREET</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 310</AddressLine1Txt>
+            <CityNm>SOCIAL CIRCLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>8000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIAL CIRCLE PRIMARY SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>154 ALCOVY DR</AddressLine1Txt>
+            <CityNm>SOCIAL CIRCLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>6300</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIAL CIRCLE THEATRE</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 502</AddressLine1Txt>
+            <CityNm>SOCIAL CIRCLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIESEDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>10500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>SOCIAL CIRCLE HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>154 ALCOVY DR</AddressLine1Txt>
+            <CityNm>SOCIAL CIRCLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30025</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>4000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>TEAM UP MENTORING</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 523</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>4500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WALNUT GROVE HIGH SCHOOL</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>4863 GUTHRIE CEMETERY RD</AddressLine1Txt>
+            <CityNm>LOGANVILLE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30052</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>NC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>EDUCATION</GrantOrContributionPurposeTxt>
+          <Amt>17000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientPersonNm>WALTON CO CHRISTIAN LEARNING CTR</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 678</AddressLine1Txt>
+            <CityNm>MONROE</CityNm>
+            <StateAbbreviationCd>GA</StateAbbreviationCd>
+            <ZIPCd>30655</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientFoundationStatusTxt>PC</RecipientFoundationStatusTxt>
+          <GrantOrContributionPurposeTxt>SUPPLIES</GrantOrContributionPurposeTxt>
+          <Amt>25932</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>251170</TotalGrantOrContriPdDurYrAmt>
+        <TotalGrantOrContriApprvFutAmt>0</TotalGrantOrContriApprvFutAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>106088</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>18</ExclusionCd>
+          <ExclusionAmt>160042</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>MISCELLANEOUS</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>500</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>266630</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>266630</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <RlnOfActyToAccomOfExmptPrpsGrp>
+        <RlnOfActyToAccomOfExmptPrpsGrp>
+          <LineNumberTxt>08</LineNumberTxt>
+          <RelationshipStatementTxt>ALL FUNDS FROM THE SALE OF SECURITIES WERE USED TO EITHER PURCHASEADDITIONAL SECURITIES FOR INVESTMENT OR TO FUND EDUCATION OR HEALTHAND WELFARE PROJECTS FOR LOCAL CHARITIES</RelationshipStatementTxt>
+        </RlnOfActyToAccomOfExmptPrpsGrp>
+      </RlnOfActyToAccomOfExmptPrpsGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFeesDetail>
+        <CategoryTxt>ACCOUNTING FEES</CategoryTxt>
+        <Amt>1450</Amt>
+        <NetInvestmentIncomeAmt>1450</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="STM126">
+      <DepreciationPropertyGrp>
+        <PropertyDesc>LAPTOP</PropertyDesc>
+        <AcquiredDt>2012-01-05</AcquiredDt>
+        <CostOrOtherBasisAmt>535</CostOrOtherBasisAmt>
+        <PriorYearDepreciationAmt>253</PriorYearDepreciationAmt>
+        <ComputationMethodTxt>M</ComputationMethodTxt>
+        <LifeRt>5.0</LifeRt>
+        <CurrentYearExpenseAmt>15</CurrentYearExpenseAmt>
+        <NetInvestmentIncomeAmt>0</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+      </DepreciationPropertyGrp>
+    </DepreciationSchedule>
+    <GainLossSaleOtherAssetsSch documentId="STM139" />
+    <InvestmentsCorpBondsSchedule documentId="STM138">
+      <InvestmentsCorporateBondsGrp>
+        <BondNm>FIXED INCOME CORP BONDS</BondNm>
+        <EOYBookValueAmt>1112211</EOYBookValueAmt>
+        <EOYFMVAmt>1088543</EOYFMVAmt>
+      </InvestmentsCorporateBondsGrp>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>MUTUAL FUNDS</StockNm>
+        <EOYBookValueAmt>855281</EOYBookValueAmt>
+        <EOYFMVAmt>963264</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+      <InvestmentsCorporateStockGrp>
+        <StockNm>EQUITY SECURITIES</StockNm>
+        <EOYBookValueAmt>1422823</EOYBookValueAmt>
+        <EOYFMVAmt>2464377</EOYFMVAmt>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="STM136">
+      <USGovtObligationsBookVlEOYAmt>285191</USGovtObligationsBookVlEOYAmt>
+      <USGovtObligationsEOYFMVAmt>280089</USGovtObligationsEOYFMVAmt>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="STM118">
+      <InvestmentsOtherGrp>
+        <CategoryOrItemTxt>BNY MELLON</CategoryOrItemTxt>
+        <BookValueAmt>173851</BookValueAmt>
+        <EOYFMVAmt>173851</EOYFMVAmt>
+      </InvestmentsOtherGrp>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="STM119">
+      <LandEtcGrp>
+        <CategoryOrItemTxt>FURNITURE</CategoryOrItemTxt>
+        <CostOrOtherBasisAmt>535</CostOrOtherBasisAmt>
+        <AccumulatedDepreciationAmt>535</AccumulatedDepreciationAmt>
+        <BookValueAmt>0</BookValueAmt>
+        <EOYFMVAmt>0</EOYFMVAmt>
+      </LandEtcGrp>
+    </LandEtcSchedule2>
+    <OtherAssetsSchedule documentId="STM120">
+      <OtherAssetsScheduleGrp>
+        <Desc>BOOKS HELD FOR SALE</Desc>
+        <BOYBookValueAmt>33512</BOYBookValueAmt>
+        <EOYBookValueAmt>33012</EOYBookValueAmt>
+        <EOYFMVAmt>33012</EOYFMVAmt>
+      </OtherAssetsScheduleGrp>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpensesScheduleGrp>
+        <Desc>PO BOX RENTAL</Desc>
+        <RevenueAndExpensesPerBooksAmt>76</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>76</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="STM106">
+      <OtherIncomeDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <RevenueAndExpensesPerBooksAmt>500</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>500</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>500</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="STM115">
+      <OtherIncreasesDetail>
+        <Desc>UNREALIZED GAIN ON INVESTMENTS</Desc>
+        <Amt>142479</Amt>
+      </OtherIncreasesDetail>
+      <OtherIncreasesDetail>
+        <Desc>MISCELLANEOUS INCOME</Desc>
+        <Amt>500</Amt>
+      </OtherIncreasesDetail>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="STM109">
+      <OtherProfessionalFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>47795</Amt>
+        <NetInvestmentIncomeAmt>47795</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </OtherProfessionalFeesDetail>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <TaxesDetail>
+        <CategoryTxt>EXCISE TAX</CategoryTxt>
+        <Amt>570</Amt>
+        <NetInvestmentIncomeAmt>570</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+      <TaxesDetail>
+        <CategoryTxt>ANNUAL CORPORATE LICENSE</CategoryTxt>
+        <Amt>30</Amt>
+        <NetInvestmentIncomeAmt>30</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>0</AdjustedNetIncomeAmt>
+        <DisbursementsCharitablePrpsAmt>0</DisbursementsCharitablePrpsAmt>
+      </TaxesDetail>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

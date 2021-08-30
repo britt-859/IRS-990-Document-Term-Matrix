@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return>
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-01-14T16:44:37-06:00</ReturnTs>
+    <TaxPeriodEndDt>2018-08-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>820474810</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>ANDERSON BROS CPA'S PA</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>1810 E SCHNEIDMILLER AVENUE STE</AddressLine1Txt>
+        <CityNm>POST FALLS</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>83854</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990PF</ReturnTypeCd>
+    <TaxPeriodBeginDt>2017-09-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>911179315</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SAHLIN FOUNDATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SAHL</BusinessNameControlTxt>
+      <PhoneNum>2089640832</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>PO BOX 194</AddressLine1Txt>
+        <CityNm>COEUR DALENE</CityNm>
+        <StateAbbreviationCd>ID</StateAbbreviationCd>
+        <ZIPCd>83816</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>JOHN SAHLIN</PersonNm>
+      <PersonTitleTxt>TRUSTEE</PersonTitleTxt>
+      <PhoneNum>2089640832</PhoneNum>
+      <SignatureDt>2019-01-03</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>TONI A HACKWITH</PreparerPersonNm>
+      <PTIN>P00073652</PTIN>
+      <PhoneNum>2087771099</PhoneNum>
+      <PreparationDt>2019-01-14</PreparationDt>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>76.178.149.221</IPv4AddressTxt>
+      </IPAddress>
+      <IPDt>2019-01-14</IPDt>
+      <IPTm>16:44:37</IPTm>
+      <IPTimezoneCd>CS</IPTimezoneCd>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>C7559ACA00B64E046973BF4CB0DF52CA14A1C8D4</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>D9133412D167C66BE5B32DBDA12CCC41DB5606A8</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2017</TaxYr>
+    <BuildTS>2019-02-21 02:37:17Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990PF documentId="RetDoc10">
+      <FinalReturnInd>X</FinalReturnInd>
+      <Organization501c3ExemptPFInd>X</Organization501c3ExemptPFInd>
+      <FMVAssetsEOYAmt>0</FMVAssetsEOYAmt>
+      <MethodOfAccountingCashInd>X</MethodOfAccountingCashInd>
+      <AnalysisOfRevenueAndExpenses>
+        <ScheduleBNotRequiredInd>X</ScheduleBNotRequiredInd>
+        <InterestOnSavRevAndExpnssAmt>851</InterestOnSavRevAndExpnssAmt>
+        <InterestOnSavNetInvstIncmAmt>851</InterestOnSavNetInvstIncmAmt>
+        <InterestOnSavingsAdjNetIncmAmt>851</InterestOnSavingsAdjNetIncmAmt>
+        <DividendsRevAndExpnssAmt>25535</DividendsRevAndExpnssAmt>
+        <DividendsNetInvstIncmAmt>25535</DividendsNetInvstIncmAmt>
+        <DividendsAdjNetIncmAmt>25535</DividendsAdjNetIncmAmt>
+        <NetGainSaleAstRevAndExpnssAmt>10570</NetGainSaleAstRevAndExpnssAmt>
+        <GrossSalesPriceAmt>10570</GrossSalesPriceAmt>
+        <CapGainNetIncmNetInvstIncmAmt>10570</CapGainNetIncmNetInvstIncmAmt>
+        <OtherIncomeRevAndExpnssAmt referenceDocumentId="RetDoc6">311753</OtherIncomeRevAndExpnssAmt>
+        <OtherIncomeAdjNetIncmAmt>311753</OtherIncomeAdjNetIncmAmt>
+        <TotalRevAndExpnssAmt>348709</TotalRevAndExpnssAmt>
+        <TotalNetInvstIncmAmt>36956</TotalNetInvstIncmAmt>
+        <TotalAdjNetIncmAmt>338139</TotalAdjNetIncmAmt>
+        <LegalFeesRevAndExpnssAmt referenceDocumentId="RetDoc4">250</LegalFeesRevAndExpnssAmt>
+        <LegalFeesNetInvstIncmAmt>250</LegalFeesNetInvstIncmAmt>
+        <LegalFeesAdjNetIncmAmt>250</LegalFeesAdjNetIncmAmt>
+        <AccountingFeesRevAndExpnssAmt referenceDocumentId="RetDoc1">4429</AccountingFeesRevAndExpnssAmt>
+        <AccountingFeesNetInvstIncmAmt>4429</AccountingFeesNetInvstIncmAmt>
+        <AccountingFeesAdjNetIncmAmt>4429</AccountingFeesAdjNetIncmAmt>
+        <OtherExpensesRevAndExpnssAmt referenceDocumentId="RetDoc5">623</OtherExpensesRevAndExpnssAmt>
+        <OtherExpensesNetInvstIncmAmt>623</OtherExpensesNetInvstIncmAmt>
+        <OtherExpensesAdjNetIncmAmt>623</OtherExpensesAdjNetIncmAmt>
+        <TotOprExpensesRevAndExpnssAmt>5302</TotOprExpensesRevAndExpnssAmt>
+        <TotOprExpensesNetInvstIncmAmt>5302</TotOprExpensesNetInvstIncmAmt>
+        <TotOprExpensesAdjNetIncmAmt>5302</TotOprExpensesAdjNetIncmAmt>
+        <TotOprExpensesDsbrsChrtblAmt>0</TotOprExpensesDsbrsChrtblAmt>
+        <ContriPaidRevAndExpnssAmt>808951</ContriPaidRevAndExpnssAmt>
+        <ContriPaidDsbrsChrtblAmt>808951</ContriPaidDsbrsChrtblAmt>
+        <TotalExpensesRevAndExpnssAmt>814253</TotalExpensesRevAndExpnssAmt>
+        <TotalExpensesNetInvstIncmAmt>5302</TotalExpensesNetInvstIncmAmt>
+        <TotalExpensesAdjNetIncmAmt>5302</TotalExpensesAdjNetIncmAmt>
+        <TotalExpensesDsbrsChrtblAmt>808951</TotalExpensesDsbrsChrtblAmt>
+        <ExcessRevenueOverExpensesAmt>-465544</ExcessRevenueOverExpensesAmt>
+        <NetInvestmentIncomeAmt>31654</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>332837</AdjustedNetIncomeAmt>
+      </AnalysisOfRevenueAndExpenses>
+      <Form990PFBalanceSheetsGrp>
+        <CashBOYAmt>848</CashBOYAmt>
+        <SavAndTempCashInvstBOYAmt>87632</SavAndTempCashInvstBOYAmt>
+        <CorporateStockBOYAmt>377064</CorporateStockBOYAmt>
+        <TotalAssetsBOYAmt>465544</TotalAssetsBOYAmt>
+        <TotalAssetsEOYAmt>0</TotalAssetsEOYAmt>
+        <TotalAssetsEOYFMVAmt>0</TotalAssetsEOYFMVAmt>
+        <TotalLiabilitiesEOYAmt>0</TotalLiabilitiesEOYAmt>
+        <OrgDoesNotFollowSFAS117Ind>X</OrgDoesNotFollowSFAS117Ind>
+        <CapitalStockBOYAmt>464890</CapitalStockBOYAmt>
+        <RetainedEarningBOYAmt>654</RetainedEarningBOYAmt>
+        <TotNetAstOrFundBalancesBOYAmt>465544</TotNetAstOrFundBalancesBOYAmt>
+        <TotNetAstOrFundBalancesEOYAmt>0</TotNetAstOrFundBalancesEOYAmt>
+        <TotalLiabilitiesNetAstBOYAmt>465544</TotalLiabilitiesNetAstBOYAmt>
+        <TotalLiabilitiesNetAstEOYAmt>0</TotalLiabilitiesNetAstEOYAmt>
+      </Form990PFBalanceSheetsGrp>
+      <ChgInNetAssetsFundBalancesGrp>
+        <TotNetAstOrFundBalancesBOYAmt>465544</TotNetAstOrFundBalancesBOYAmt>
+        <ExcessRevenueOverExpensesAmt>-465544</ExcessRevenueOverExpensesAmt>
+      </ChgInNetAssetsFundBalancesGrp>
+      <CapGainsLossTxInvstIncmDetail>
+        <CapitalGainNetIncomeAmt>10570</CapitalGainNetIncomeAmt>
+      </CapGainsLossTxInvstIncmDetail>
+      <QlfyUndSect4940eReducedTaxGrp>
+        <LiableSection4942TaxInd>false</LiableSection4942TaxInd>
+        <AdjustedQlfyDistriYr1Amt>41252</AdjustedQlfyDistriYr1Amt>
+        <NetVlNoncharitableAssetsYr1Amt>765603</NetVlNoncharitableAssetsYr1Amt>
+        <DistributionYr1Rt>0.053882</DistributionYr1Rt>
+        <AdjustedQlfyDistriYr2Amt>35713</AdjustedQlfyDistriYr2Amt>
+        <NetVlNoncharitableAssetsYr2Amt>747391</NetVlNoncharitableAssetsYr2Amt>
+        <DistributionYr2Rt>0.047784</DistributionYr2Rt>
+        <AdjustedQlfyDistriYr3Amt>35849</AdjustedQlfyDistriYr3Amt>
+        <NetVlNoncharitableAssetsYr3Amt>767423</NetVlNoncharitableAssetsYr3Amt>
+        <DistributionYr3Rt>0.046713</DistributionYr3Rt>
+        <AdjustedQlfyDistriYr4Amt>32275</AdjustedQlfyDistriYr4Amt>
+        <NetVlNoncharitableAssetsYr4Amt>738436</NetVlNoncharitableAssetsYr4Amt>
+        <DistributionYr4Rt>0.043707</DistributionYr4Rt>
+        <AdjustedQlfyDistriYr5Amt>30025</AdjustedQlfyDistriYr5Amt>
+        <NetVlNoncharitableAssetsYr5Amt>705794</NetVlNoncharitableAssetsYr5Amt>
+        <DistributionYr5Rt>0.042541</DistributionYr5Rt>
+        <TotalDistributionRt>0.234627</TotalDistributionRt>
+        <AverageDistributionRt>0.046925</AverageDistributionRt>
+        <NetVlNoncharitableAssetsAmt>569231</NetVlNoncharitableAssetsAmt>
+        <AdjNetVlNoncharitableAssetsAmt>26711</AdjNetVlNoncharitableAssetsAmt>
+        <NetInvestmentIncomePctAmt>317</NetInvestmentIncomePctAmt>
+        <AdjNonchrtblNetInvstIncmPctAmt>27028</AdjNonchrtblNetInvstIncmPctAmt>
+        <QualifyingDistributionsAmt>808951</QualifyingDistributionsAmt>
+      </QlfyUndSect4940eReducedTaxGrp>
+      <ExciseTaxBasedOnInvstIncmGrp>
+        <DomesticOrgMeetingSect4940eInd>X</DomesticOrgMeetingSect4940eInd>
+        <InvestmentIncomeExciseTaxAmt>317</InvestmentIncomeExciseTaxAmt>
+        <SubtotalAmt>317</SubtotalAmt>
+        <TaxBasedOnInvestmentIncomeAmt>317</TaxBasedOnInvestmentIncomeAmt>
+        <TaxDueAmt>317</TaxDueAmt>
+        <AppliedToESTaxAmt>0</AppliedToESTaxAmt>
+      </ExciseTaxBasedOnInvstIncmGrp>
+      <StatementsRegardingActyGrp>
+        <LegislativePoliticalActyInd>false</LegislativePoliticalActyInd>
+        <MoreThan100SpentInd>false</MoreThan100SpentInd>
+        <Form1120POLFiledInd>false</Form1120POLFiledInd>
+        <ActivitiesNotPreviouslyRptInd>false</ActivitiesNotPreviouslyRptInd>
+        <ChangesToArticlesOrBylawsInd>false</ChangesToArticlesOrBylawsInd>
+        <UnrelatedBusIncmOverLimitInd>false</UnrelatedBusIncmOverLimitInd>
+        <OrganizationDissolvedEtcInd referenceDocumentId="RetDoc8 RetDoc7">true</OrganizationDissolvedEtcInd>
+        <Section508eRqrSatisfiedInd>true</Section508eRqrSatisfiedInd>
+        <AtLeast5000InAssetsInd>true</AtLeast5000InAssetsInd>
+        <OrgReportOrRegisterStateCd>WA</OrgReportOrRegisterStateCd>
+        <OrgReportOrRegisterStateCd>ID</OrgReportOrRegisterStateCd>
+        <Form990PFFiledWithAttyGenInd>true</Form990PFFiledWithAttyGenInd>
+        <PrivateOperatingFoundationInd>false</PrivateOperatingFoundationInd>
+        <NewSubstantialContributorsInd>false</NewSubstantialContributorsInd>
+        <OwnControlledEntityInd>false</OwnControlledEntityInd>
+        <DonorAdvisedFundInd>false</DonorAdvisedFundInd>
+        <ComplyWithPublicInspRqrInd>true</ComplyWithPublicInspRqrInd>
+        <WebsiteAddressTxt>N/A</WebsiteAddressTxt>
+        <IndividualWithBooksNm>JOHN SAHLIN</IndividualWithBooksNm>
+        <PhoneNum>2089640832</PhoneNum>
+        <LocationOfBooksUSAddress>
+          <AddressLine1Txt>6500 STACH ROAD</AddressLine1Txt>
+          <CityNm>COEUR DALENE</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>83814</ZIPCd>
+        </LocationOfBooksUSAddress>
+        <ForeignAccountsQuestionInd>false</ForeignAccountsQuestionInd>
+      </StatementsRegardingActyGrp>
+      <StatementsRegardingActy4720Grp>
+        <SaleOrExchDisqualifiedPrsnInd>false</SaleOrExchDisqualifiedPrsnInd>
+        <BrrwOrLendDisqualifiedPrsnInd>false</BrrwOrLendDisqualifiedPrsnInd>
+        <FurnGoodsDisqualifiedPrsnInd>false</FurnGoodsDisqualifiedPrsnInd>
+        <PayCompDisqualifiedPrsnInd>false</PayCompDisqualifiedPrsnInd>
+        <TransferAstDisqualifiedPrsnInd>false</TransferAstDisqualifiedPrsnInd>
+        <PaymentToGovernmentOfficialInd>false</PaymentToGovernmentOfficialInd>
+        <UndistributedIncomePYInd>false</UndistributedIncomePYInd>
+        <BusinessHoldingsInd>false</BusinessHoldingsInd>
+        <JeopardyInvestmentsInd>false</JeopardyInvestmentsInd>
+        <UncorrectedPYJeopardyInvstInd>false</UncorrectedPYJeopardyInvstInd>
+        <InfluenceLegislationInd>false</InfluenceLegislationInd>
+        <InfluenceElectionInd>false</InfluenceElectionInd>
+        <GrantsToIndividualsInd>false</GrantsToIndividualsInd>
+        <GrantsToOrganizationsInd>false</GrantsToOrganizationsInd>
+        <NoncharitablePurposeInd>false</NoncharitablePurposeInd>
+        <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+        <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+        <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      </StatementsRegardingActy4720Grp>
+      <OfficerDirTrstKeyEmplInfoGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>LEE J SAHLIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6414 S HELENA</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992238347</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOAN SAHLIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>1426 E ROCKWOOD BLVD</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99203</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JANET L SAHLIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>2028 E 30TH AVE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99203</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>ERIC SAHLIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>4324 E 37TH AVE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99223</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <OfficerDirTrstKeyEmplGrp>
+          <PersonNm>JOHN SAHLIN</PersonNm>
+          <USAddress>
+            <AddressLine1Txt>6500 STACH ROAD</AddressLine1Txt>
+            <CityNm>COEUR DALENE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83814</ZIPCd>
+          </USAddress>
+          <TitleTxt>TRUSTEE</TitleTxt>
+          <AverageHrsPerWkDevotedToPosRt>000.00</AverageHrsPerWkDevotedToPosRt>
+          <CompensationAmt>0</CompensationAmt>
+          <EmployeeBenefitProgramAmt>0</EmployeeBenefitProgramAmt>
+          <ExpenseAccountOtherAllwncAmt>0</ExpenseAccountOtherAllwncAmt>
+        </OfficerDirTrstKeyEmplGrp>
+        <CompOfHghstPdEmplOrNONETxt>NONE</CompOfHghstPdEmplOrNONETxt>
+        <CompOfHghstPdCntrctOrNONETxt>NONE</CompOfHghstPdCntrctOrNONETxt>
+      </OfficerDirTrstKeyEmplInfoGrp>
+      <SumOfProgramRelatedInvstGrp>
+        <Description1Txt>N/A</Description1Txt>
+      </SumOfProgramRelatedInvstGrp>
+      <MinimumInvestmentReturnGrp>
+        <AverageMonthlyFMVOfSecAmt>533660</AverageMonthlyFMVOfSecAmt>
+        <AverageMonthlyCashBalancesAmt>44240</AverageMonthlyCashBalancesAmt>
+        <FMVAllOtherNoncharitableAstAmt>0</FMVAllOtherNoncharitableAstAmt>
+        <TotalFMVOfUnusedAssetsAmt>577900</TotalFMVOfUnusedAssetsAmt>
+        <AdjustedTotalFMVOfUnusedAstAmt>577900</AdjustedTotalFMVOfUnusedAstAmt>
+        <CashDeemedCharitableAmt>8669</CashDeemedCharitableAmt>
+        <NetVlNoncharitableAssetsAmt>569231</NetVlNoncharitableAssetsAmt>
+        <MinimumInvestmentReturnAmt>28462</MinimumInvestmentReturnAmt>
+      </MinimumInvestmentReturnGrp>
+      <DistributableAmountGrp>
+        <MinimumInvestmentReturnAmt>28462</MinimumInvestmentReturnAmt>
+        <TaxBasedOnInvestmentIncomeAmt>317</TaxBasedOnInvestmentIncomeAmt>
+        <TotalTaxAmt>317</TotalTaxAmt>
+        <DistributableBeforeAdjAmt>28145</DistributableBeforeAdjAmt>
+        <DistributableBeforeDedAmt>28145</DistributableBeforeDedAmt>
+        <DistributableAsAdjustedAmt>28145</DistributableAsAdjustedAmt>
+      </DistributableAmountGrp>
+      <QualifyingDistriPartXIIGrp>
+        <ExpensesAndContributionsAmt>808951</ExpensesAndContributionsAmt>
+        <QualifyingDistributionsAmt>808951</QualifyingDistributionsAmt>
+        <PctSect4940eOrgNetInvstIncmAmt>317</PctSect4940eOrgNetInvstIncmAmt>
+        <AdjustedQualifyingDistriAmt>808634</AdjustedQualifyingDistriAmt>
+      </QualifyingDistriPartXIIGrp>
+      <UndistributedIncomeGrp>
+        <DistributableAsAdjustedAmt>28145</DistributableAsAdjustedAmt>
+        <QualifyingDistributionsAmt>808951</QualifyingDistributionsAmt>
+        <TreatedAsDistriFromCorpusAmt referenceDocumentId="RetDoc2">780806</TreatedAsDistriFromCorpusAmt>
+        <AppliedToCurrentYearAmt>28145</AppliedToCurrentYearAmt>
+        <TotalCorpusAmt>780806</TotalCorpusAmt>
+        <UndistributedIncomeCYAmt>0</UndistributedIncomeCYAmt>
+        <CorpusDistri170b1EOr4942g3Amt>780806</CorpusDistri170b1EOr4942g3Amt>
+      </UndistributedIncomeGrp>
+      <SupplementaryInformationGrp>
+        <ContributingManagerNm>LEE J SAHLIN</ContributingManagerNm>
+        <ApplicationSubmissionInfoGrp>
+          <RecipientPersonNm>JOHN SAHLIN</RecipientPersonNm>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 194</AddressLine1Txt>
+            <CityNm>COEUR D ALENE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83816</ZIPCd>
+          </RecipientUSAddress>
+          <RecipientPhoneNum>2089640832</RecipientPhoneNum>
+          <FormAndInfoAndMaterialsTxt>THE REQUEST SHOULD INCLUDE THE ORGANIZATION'S FULL NAME AND ADDRESS, THE NAME, TITLE, AND PHONE NUMBER OF THE REQUESTER, AND THE PURPOSE OF THE GRANT. ALSO A LIST OF OFFICERS AND DIRECTORS OF THE ORGANIZATION, A BRIEF DESCRIPTION OF YOUR PROGRAM, CURRENT ANNUAL BUDGET, AND FINANCIAL STATEMENTS.</FormAndInfoAndMaterialsTxt>
+          <SubmissionDeadlinesTxt>NO DEADLINE</SubmissionDeadlinesTxt>
+          <RestrictionsOnAwardsTxt>NONE</RestrictionsOnAwardsTxt>
+        </ApplicationSubmissionInfoGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>NORTH IDAHO COLLEGE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1000 WEST GARDEN AVENUE</AddressLine1Txt>
+            <CityNm>COEUR D ALENE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83814</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SUPPORT OF NIC ART DEPARTMENT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>PROVIDENCE HEALTH CARE FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>101 W EIGHTH AVENUE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992042364</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>ARTS HEALING PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>3500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>EASTERN WASHINGTON UNIVERSITY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>102 HARGREAVES HALL</AddressLine1Txt>
+            <CityNm>CHENEY</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>990042413</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>VISITING ARTIST LECTURE SERIES</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MAC FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2316 W 1ST AVENUE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992015906</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CENTENNIAL CELEBRATIONS</GrantOrContributionPurposeTxt>
+          <Amt>5000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>KPBX</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>2319 N MONROE ST</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99205</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>43694</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WHITWORTH MUSIC DEPARTMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 W HAWTHORNE ROAD</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>JAZZ PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>25000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CONNOISSEUR CONCERTS</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>315 W MISSION AVENUE 18</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992012325</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>NW BACH FESTIVAL</GrantOrContributionPurposeTxt>
+          <Amt>7000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MUSICFEST</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>1305 N NAPA STREET</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99202</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MUSICFEST ANNIVERSARY</GrantOrContributionPurposeTxt>
+          <Amt>1500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>HOLY NAMES MUSIC CENTER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>3910 WEST CUSTER DRIVE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99224</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>SCHOLARSHIPS/SPONSORSHIPS</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMMUNITY COLLEGES OF SPOKANE FOUND</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 N RIVERPOINT BLVD</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992176000</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FINE ARTS DEPARTMENT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF THE BING</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>810 EAST 28TH AVE</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99203</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>2500</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPOKANE JAZZ ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 174</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992100174</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EDUCATION SERVICES PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>OPERA CDA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3106</AddressLine1Txt>
+            <CityNm>COEUR D ALENE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83816</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>OPERATUNITIES OUTREACH PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPOKANE SYMPHONY</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 365</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992100396</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>EDUCATION FUND</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>SPOKANE CHAMBER MUSIC ASSOCIATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 3741</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992203741</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>GRANT</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>CDA SUMPHONY ORCHESTRA</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 898</AddressLine1Txt>
+            <CityNm>COEUR D ALENE</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83816</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>MUSIC CONSERVATORY OF SANDPOINT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 907</AddressLine1Txt>
+            <CityNm>SANDPOINT</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83864</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WSU FOUNDATION</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 641925</AddressLine1Txt>
+            <CityNm>PULLMAN</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>991641925</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>502013</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WSU ART MUSEUM</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 641925</AddressLine1Txt>
+            <CityNm>PULLMAN</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>991641925</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>CONTRIBUTION</GrantOrContributionPurposeTxt>
+          <Amt>15000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>THE IDAHO MYTHWEAVER</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 2418</AddressLine1Txt>
+            <CityNm>SANDPOINT</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83864</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>NATIVE VOICES ARCHIVE PRESERVATION</GrantOrContributionPurposeTxt>
+          <Amt>1000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>FRIENDS OF THE GUITAR HOUR</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>PO BOX 1282</AddressLine1Txt>
+            <CityNm>SANDPOINT</CityNm>
+            <StateAbbreviationCd>ID</StateAbbreviationCd>
+            <ZIPCd>83864</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>MUSIC</GrantOrContributionPurposeTxt>
+          <Amt>2000</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>WHITWORTH MUSIC DEPARTMENT</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>300 W HAWTHORNE ROAD</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>99251</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>JAZZ PROGRAM</GrantOrContributionPurposeTxt>
+          <Amt>86087</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <GrantOrContributionPdDurYrGrp>
+          <RecipientBusinessName>
+            <BusinessNameLine1Txt>COMMUNITY COLLEGES OF SPOKANE</BusinessNameLine1Txt>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1Txt>501 N RIVERPOINT BLVD</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992176000</ZIPCd>
+          </RecipientUSAddress>
+          <GrantOrContributionPurposeTxt>FINE ARTS DEPARTMENT</GrantOrContributionPurposeTxt>
+          <Amt>102157</Amt>
+        </GrantOrContributionPdDurYrGrp>
+        <TotalGrantOrContriPdDurYrAmt>808951</TotalGrantOrContriPdDurYrAmt>
+      </SupplementaryInformationGrp>
+      <AnalysisIncomeProducingActyGrp>
+        <IntOnSavAndTempCashInvstGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>851</ExclusionAmt>
+        </IntOnSavAndTempCashInvstGrp>
+        <DivAndIntFromSecPartVIIGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>25535</ExclusionAmt>
+        </DivAndIntFromSecPartVIIGrp>
+        <GainSalesAstOthThanInvntryGrp>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>10570</ExclusionAmt>
+        </GainSalesAstOthThanInvntryGrp>
+        <OtherRevenueDescribedGrp>
+          <Desc>UNREALIZED GAINS</Desc>
+          <ExclusionCd>14</ExclusionCd>
+          <ExclusionAmt>311753</ExclusionAmt>
+        </OtherRevenueDescribedGrp>
+        <SubtotalsIncmProducingActyGrp>
+          <ExclusionAmt>348709</ExclusionAmt>
+        </SubtotalsIncmProducingActyGrp>
+        <TotalIncomeProducingActyAmt>348709</TotalIncomeProducingActyAmt>
+      </AnalysisIncomeProducingActyGrp>
+      <TrnsfrTransRlnNonchrtblEOGrp>
+        <TrnsfrOfCashToNonchrtblEOInd>false</TrnsfrOfCashToNonchrtblEOInd>
+        <TrnsfrOtherAssetNonchrtblEOInd>false</TrnsfrOtherAssetNonchrtblEOInd>
+        <SalesOrExchangesOfAssetsInd>false</SalesOrExchangesOfAssetsInd>
+        <PurchaseOfAssetsNonchrtblEOInd>false</PurchaseOfAssetsNonchrtblEOInd>
+        <RentalOfFacilitiesOthAssetsInd>false</RentalOfFacilitiesOthAssetsInd>
+        <ReimbursementArrangementsInd>false</ReimbursementArrangementsInd>
+        <LoansOrLoanGuaranteesInd>false</LoansOrLoanGuaranteesInd>
+        <PerformanceOfServicesEtcInd>false</PerformanceOfServicesEtcInd>
+        <SharingOfFacilitiesEtcInd>false</SharingOfFacilitiesEtcInd>
+        <RelationshipsNonchrtblEOInd>false</RelationshipsNonchrtblEOInd>
+      </TrnsfrTransRlnNonchrtblEOGrp>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc1">
+      <AccountingFeesDetail>
+        <CategoryTxt>INVESTMENT FEES</CategoryTxt>
+        <Amt>2246</Amt>
+        <NetInvestmentIncomeAmt>2246</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2246</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+      <AccountingFeesDetail>
+        <CategoryTxt>TAX RETURN PREPARATION</CategoryTxt>
+        <Amt>2183</Amt>
+        <NetInvestmentIncomeAmt>2183</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>2183</AdjustedNetIncomeAmt>
+      </AccountingFeesDetail>
+    </AccountingFeesSchedule>
+    <DissolutionStmt documentId="RetDoc8">
+      <DissolutionInformationGrp>
+        <BusinessName>
+          <BusinessNameLine1Txt>SAHLIN FOUNDATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 194</AddressLine1Txt>
+          <CityNm>COEUR DALENE</CityNm>
+          <StateAbbreviationCd>ID</StateAbbreviationCd>
+          <ZIPCd>83816</ZIPCd>
+        </USAddress>
+        <ShortExplanationTxt>CORPORATION DISOLVED EFFECTIVE 8-31-18</ShortExplanationTxt>
+        <DissolutionAmt>808951</DissolutionAmt>
+      </DissolutionInformationGrp>
+    </DissolutionStmt>
+    <DistributionFromCorpusElection documentId="RetDoc2">
+      <ElectionDesc>780,806</ElectionDesc>
+    </DistributionFromCorpusElection>
+    <InvestmentsCorpStockSchedule documentId="RetDoc3">
+      <InvestmentsCorporateStockGrp>
+        <StockNm>WTB WEALTH MANAGEMENT</StockNm>
+      </InvestmentsCorporateStockGrp>
+    </InvestmentsCorpStockSchedule>
+    <LiquidationExplanationStmt documentId="RetDoc7">
+      <ExplanationTxt>ALL CASH AND INVESTMENTS OF THE FOUNDATION HAVE BEEN DISTRIBUTED TO QUALIFIED ORGANIZATIONS.</ExplanationTxt>
+    </LiquidationExplanationStmt>
+    <LegalFeesSchedule documentId="RetDoc4">
+      <LegalFeesGrp>
+        <CategoryTxt>LEGAL FEES</CategoryTxt>
+        <LegalFeesAmt>250</LegalFeesAmt>
+        <NetInvestmentIncomeAmt>250</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>250</AdjustedNetIncomeAmt>
+      </LegalFeesGrp>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpensesScheduleGrp>
+        <Desc>EXPENSES</Desc>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>BANK FEES</Desc>
+        <RevenueAndExpensesPerBooksAmt>33</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>33</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>33</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>STATE FILING FEE</Desc>
+        <RevenueAndExpensesPerBooksAmt>25</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>25</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>25</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+      <OtherExpensesScheduleGrp>
+        <Desc>TAXES</Desc>
+        <RevenueAndExpensesPerBooksAmt>565</RevenueAndExpensesPerBooksAmt>
+        <NetInvestmentIncomeAmt>565</NetInvestmentIncomeAmt>
+        <AdjustedNetIncomeAmt>565</AdjustedNetIncomeAmt>
+      </OtherExpensesScheduleGrp>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc6">
+      <OtherIncomeDetail>
+        <Desc>UNREALIZED GAINS</Desc>
+        <RevenueAndExpensesPerBooksAmt>311753</RevenueAndExpensesPerBooksAmt>
+        <AdjustedNetIncomeAmt>311753</AdjustedNetIncomeAmt>
+      </OtherIncomeDetail>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>
